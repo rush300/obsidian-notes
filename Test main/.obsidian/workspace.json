@@ -23,9 +23,11 @@
             "id": "11da60736b2dcae7",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.12"
+                "file": "TEST/test.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CTF/EXPLOIT/VM/vulnBegin.md",
+                "file": "TEST/test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CTF/EXPLOIT/VM/vulnBegin.md",
+                "file": "TEST/test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CTF/EXPLOIT/VM/vulnBegin.md"
+                "file": "TEST/test.md"
               }
             }
           },
@@ -169,6 +171,7 @@
   },
   "active": "11da60736b2dcae7",
   "lastOpenFiles": [
+    "TEST/test.md",
     "CTF/Tools/Scan/theHarvester.md",
     "CTF/EXPLOIT/VM/vulnBegin.md",
     "CTF/EXPLOIT/VM/thm-tech.md",
@@ -199,7 +202,6 @@
     "CTF/EXPLOIT/VM",
     "CTF/Tools/zip.md",
     "CTF/Tools/wget.md",
-    "CTF/Tools/http server.md",
     "API",
     "Screenshot from 2023-09-08 11-37-25 1.png",
     "AWS/Course",
