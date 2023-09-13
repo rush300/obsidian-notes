@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "dc37830f7c4b6ff9",
+    "type": "split",
+    "children": [
+      {
+        "id": "b30b115800abd624",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2cd1f5c866007ec6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CTF/EXPLOIT/VM/vulnBegin.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ebabb7b523cb05a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "64cfc76b16f2fad4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50ea857f614158aa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "682e26561b8916ef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cddabad00905bd02",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 432.5
+  },
+  "right": {
+    "id": "c4be92e641b64e57",
+    "type": "split",
+    "children": [
+      {
+        "id": "a121c16e56ba5cd4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48b6d2fb8ba52afb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CTF/EXPLOIT/VM/vulnBegin.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4e40356f0bd71717",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CTF/EXPLOIT/VM/vulnBegin.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "97d714678f541cf6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c5af6dec4cf33b52",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CTF/EXPLOIT/VM/vulnBegin.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2cd1f5c866007ec6",
+  "lastOpenFiles": [
+    "CTF/Tools/Scan/theHarvester.md",
+    "CTF/EXPLOIT/VM/vulnBegin.md",
+    "CTF/EXPLOIT/VM/thm-tech.md",
+    "CTF/Tools/Scan/dnsrecon.md",
+    "CTF/Tools/Scan/ffuf.md",
+    "CTF/Tools/firefox extensions/ModHeader.md",
+    "CTF/Tools/firefox extensions/Cookie Editor.md",
+    "CTF/Tools/firefox extensions/Multi-Account Containers.md",
+    "CTF/Tools/firefox extensions/Tab List.md",
+    "CTF/Tools/firefox extensions",
+    "CTF/Tools/curl.md",
+    "CTF/Tools/www/cyberchef.io.md",
+    "CTF/Tools/firefox extensions/wappalyzer.md",
+    "CTF/Tools/Scan/smbclient.md",
+    "CTF/Tools/www",
+    "CTF/Tools/Scan/wpscan.md",
+    "CTF/Attacks/reverse-shell.md",
+    "CTF/Tools/Search",
+    "CTF/Tools/Scan",
+    "CTF/Tools/Scan/nmap.md",
+    "CTF/docs/Response codes.md",
+    "CTF/EXPLOIT/Shell.md",
+    "CTF/Tools/john.md",
+    "CTF/EXPLOIT/VM/vulnnetendgame.md",
+    "CTF/EXPLOIT/GTFOBins.md",
+    "CTF/Tools/Scan/linpease.sh.md",
+    "Syntax/My new note.md",
+    "CTF/EXPLOIT/VM",
+    "CTF/Tools/zip.md",
+    "CTF/Tools/wget.md",
+    "CTF/Tools/http server.md",
+    "API",
+    "Screenshot from 2023-09-08 11-37-25 1.png",
+    "AWS/Course",
+    "Screenshot from 2023-09-08 09-35-37.png",
+    "Screenshot from 2023-09-08 11-37-25.png",
+    "AWS",
+    "CTF/EXPLOIT",
+    "CTF/KEYS",
+    "Syntax/avatar-generations_prsz.jpg"
+  ]
+}

@@ -1,0 +1,3 @@
+```bash
+searchsploit typo3
+```
