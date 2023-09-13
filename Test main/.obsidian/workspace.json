@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "11da60736b2dcae7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.12"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,6 +139,16 @@
                 "file": "CTF/EXPLOIT/VM/vulnBegin.md"
               }
             }
+          },
+          {
+            "id": "2d43dae4f771754b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ]
       }
@@ -146,7 +167,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2cd1f5c866007ec6",
+  "active": "11da60736b2dcae7",
   "lastOpenFiles": [
     "CTF/Tools/Scan/theHarvester.md",
     "CTF/EXPLOIT/VM/vulnBegin.md",
