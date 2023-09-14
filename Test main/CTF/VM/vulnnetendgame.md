@@ -58,7 +58,7 @@ Google search = openssl privilege escalation cap=ep
 getcap -r / 2>/dev/null
 ```
 [[GTFOBins]]
-search openssl
+search [[openssl]]
 
 LFILE=file_to_write
 ```bash

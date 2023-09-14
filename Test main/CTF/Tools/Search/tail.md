@@ -1,0 +1,3 @@
+```bash
+tail /etc/passwd
+```
