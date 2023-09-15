@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTF/VM/thm-tech.md",
+                "file": "OWASP/resources.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CTF/VM/thm-tech.md",
+                "file": "OWASP/resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CTF/VM/thm-tech.md",
+                "file": "OWASP/resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CTF/VM/thm-tech.md"
+                "file": "OWASP/resources.md"
               }
             }
           },
@@ -171,11 +171,17 @@
   },
   "active": "11da60736b2dcae7",
   "lastOpenFiles": [
+    "AWS/resources.md",
+    "API/resources.md",
+    "CTF/resources.md",
+    "CTF/RECON.md",
+    "OWASP/resources.md",
+    "OWASP",
+    "CTF/VM/thm-tech.md",
     "CTF/VM/vulnnetendgame.md",
     "CTF/Tools/Search/tail.md",
     "CTF/Tools/openssl.md",
     "CTF/KEYS/id_rsa (private key).md",
-    "CTF/VM/thm-tech.md",
     "CTF/Tools/Crack/john.md",
     "CTF/Tools/Crack",
     "CTF/Attacks/wordpress.md",
@@ -193,11 +199,6 @@
     "CTF/Tools/Scan/sqlmap.md",
     "CTF/Tools/Scan/smbclient.md",
     "CTF/Tools/Scan/searchsploit.md",
-    "CTF/Tools/Scan/nmap.md",
-    "CTF/Tools/Scan/linpease.sh.md",
-    "CTF/Tools/Scan/ffuf.md",
-    "CTF/Tools/Scan/dnsrecon.md",
-    "CTF/Tools/firefox extensions/wappalyzer.md",
     "CTF/Tools/firefox extensions",
     "CTF/Tools/www",
     "CTF/Tools/Search",
@@ -209,7 +210,6 @@
     "Screenshot from 2023-09-08 09-35-37.png",
     "Screenshot from 2023-09-08 11-37-25.png",
     "AWS",
-    "CTF/EXPLOIT",
     "Syntax/avatar-generations_prsz.jpg"
   ]
 }
