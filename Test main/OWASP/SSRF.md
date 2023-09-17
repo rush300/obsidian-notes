@@ -67,8 +67,23 @@
 ## Preventing SSRF Vulnerabilities
 
 ==Defense in depth approach:==
-* Application Layer defenses
-* Network Layer Defenses
+ 1. Application Layer defenses
 * Sanitize and validate all client-supplied input data
+* Enforce the URL schema, port, and destination with a positive allow list
+* Do not send raw responses to client
+* Disable HTTP redirections
 
+*Note: Do not mitigate SSRF vulnerability using deny lists or regular expressions*
 
+2. Network Layer Defenses
+* Segment remote resource access functionality in separate networks to reduce the impact of SSRF
+* Enforce "deny by default" firewall policies or network access control rules to block all but essential intranet traffic
+
+# Resources
+* SSRF Bible Cheat Sheet
+	* https://cheatsheetseries.owasp.org/assets/Server_Side_Request_Forgery_Prevention_Cheat_Sheet_SSRF_Bible.pdf
+		* ![[Server_Side_Request_Forgery_Prevention_Cheat_Sheet_SSRF_Bible.pdf]]
+
+* Preventing Server-Side Rquest Forgery Attack
+	* https://seclab.nu/static/publications/sac21-prevent-ssrf.pdf
+		* ![[sac21-prevent-ssrf.pdf]]
