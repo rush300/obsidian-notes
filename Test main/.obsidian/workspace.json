@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "791e720726fb8061",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OWASP/SSRF.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OWASP/resources.md",
+                "file": "OWASP/SSRF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OWASP/resources.md",
+                "file": "OWASP/SSRF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OWASP/resources.md"
+                "file": "OWASP/SSRF.md"
               }
             }
           },
@@ -169,8 +181,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "11da60736b2dcae7",
+  "active": "791e720726fb8061",
   "lastOpenFiles": [
+    "Syntax/My new note.md",
+    "OWASP/SSRF.md",
+    "us-17-Tsai-A-New-Era-Of-SSRF-Exploiting-URL-Parser-In-Trending-Programming-Languages.pdf",
+    "GIT/Commands.md",
     "AWS/resources.md",
     "API/resources.md",
     "CTF/resources.md",
@@ -195,10 +211,6 @@
     "CTF/Tools/http server.md",
     "CTF/Tools/curl.md",
     "CTF/Tools/Scan/wpscan.md",
-    "CTF/Tools/Scan/theHarvester.md",
-    "CTF/Tools/Scan/sqlmap.md",
-    "CTF/Tools/Scan/smbclient.md",
-    "CTF/Tools/Scan/searchsploit.md",
     "CTF/Tools/firefox extensions",
     "CTF/Tools/www",
     "CTF/Tools/Search",
@@ -209,7 +221,6 @@
     "AWS/Course",
     "Screenshot from 2023-09-08 09-35-37.png",
     "Screenshot from 2023-09-08 11-37-25.png",
-    "AWS",
     "Syntax/avatar-generations_prsz.jpg"
   ]
 }
