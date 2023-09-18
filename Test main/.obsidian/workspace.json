@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OWASP/resources.md",
+                "file": "OWASP - Web Security Academy Series/resources.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OWASP/SSRF.md",
+                "file": "OWASP - Web Security Academy Series/SSRF/Lab02 - Basic SSRF against another back-end system.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OWASP/SSRF.md",
+                "file": "OWASP - Web Security Academy Series/SSRF/Lab02 - Basic SSRF against another back-end system.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OWASP/SSRF.md",
+                "file": "OWASP - Web Security Academy Series/SSRF/Lab02 - Basic SSRF against another back-end system.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OWASP/SSRF.md"
+                "file": "OWASP - Web Security Academy Series/SSRF/Lab02 - Basic SSRF against another back-end system.md"
               }
             }
           },
@@ -183,18 +183,21 @@
   },
   "active": "791e720726fb8061",
   "lastOpenFiles": [
+    "OWASP - Web Security Academy Series/SSRF/Lab01 - Basic SSRF against a local server.md",
+    "OWASP - Web Security Academy Series/SSRF/Lab02 - Basic SSRF against another back-end system.md",
+    "OWASP - Web Security Academy Series/resources.md",
+    "OWASP - Web Security Academy Series/SSRF/Documentation.md",
+    "OWASP - Web Security Academy Series/SSRF",
     "sac21-prevent-ssrf.pdf",
     "Server_Side_Request_Forgery_Prevention_Cheat_Sheet_SSRF_Bible.pdf",
     "GIT/Commands.md",
-    "OWASP/SSRF.md",
     "Syntax/My new note.md",
     "us-17-Tsai-A-New-Era-Of-SSRF-Exploiting-URL-Parser-In-Trending-Programming-Languages.pdf",
     "AWS/resources.md",
     "API/resources.md",
     "CTF/resources.md",
     "CTF/RECON.md",
-    "OWASP/resources.md",
-    "OWASP",
+    "OWASP - Web Security Academy Series",
     "CTF/VM/thm-tech.md",
     "CTF/VM/vulnnetendgame.md",
     "CTF/Tools/Search/tail.md",
@@ -212,13 +215,10 @@
     "CTF/Tools/netcat.md",
     "CTF/Tools/http server.md",
     "CTF/Tools/curl.md",
-    "CTF/Tools/Scan/wpscan.md",
     "CTF/Tools/firefox extensions",
     "CTF/Tools/www",
     "CTF/Tools/Search",
     "CTF/Tools/Scan",
-    "CTF/VM",
-    "API",
     "Screenshot from 2023-09-08 11-37-25 1.png",
     "Screenshot from 2023-09-08 09-35-37.png",
     "Screenshot from 2023-09-08 11-37-25.png",

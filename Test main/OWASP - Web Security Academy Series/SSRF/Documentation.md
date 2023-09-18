@@ -87,3 +87,5 @@
 * Preventing Server-Side Rquest Forgery Attack
 	* https://seclab.nu/static/publications/sac21-prevent-ssrf.pdf
 		* ![[sac21-prevent-ssrf.pdf]]
+
+END!
