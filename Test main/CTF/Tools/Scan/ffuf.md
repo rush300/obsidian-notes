@@ -42,3 +42,13 @@ ffuf -u http://ctvqeeay.vulnbegin.co.uk/cpadmin/FUZZ -w /usr/share/wordlists/dir
 > ```bash
 ffuf -u http://server.6h0qk1c9.vulnbegin.co.uk/FUZZ -w /usr/share/wordlists/dirb/common.txt -H "Cookie: $cookie" -H "X-Token: 492E64385D3779BC5F040E2B19D67742" -t 2 -p 0.1
 
+
+> [!IMPORTANT] Look for Virtual Hosts
+> Nahamsec
+> ```bash
+> ffuf -H 'Host: FUZZ' -w hosts.txt -u http://144.126.224.27
+> ffuf -H 'Host: store.zeus.j3p1vest.ctfio.com' -w all.txt -u http://144.126.224.27/FUZZ
+
+
+
+
