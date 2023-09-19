@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dark Web/resources.md",
+                "file": "OWASP - Web Security Academy Series/SSRF/Lab04 - SSRF with whitelist-based input filter.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dark Web/resources.md",
+                "file": "OWASP - Web Security Academy Series/SSRF/Lab04 - SSRF with whitelist-based input filter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dark Web/resources.md",
+                "file": "OWASP - Web Security Academy Series/SSRF/Lab04 - SSRF with whitelist-based input filter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dark Web/resources.md"
+                "file": "OWASP - Web Security Academy Series/SSRF/Lab04 - SSRF with whitelist-based input filter.md"
               }
             }
           },
@@ -183,15 +183,17 @@
   },
   "active": "791e720726fb8061",
   "lastOpenFiles": [
-    "CTF/Attacks/Virtual Hosts.md",
+    "OWASP - Web Security Academy Series/SSRF/Lab01 - Basic SSRF against a local server.md",
+    "OWASP - Web Security Academy Series/SSRF/Lab02 - Basic SSRF against another back-end system.md",
+    "OWASP - Web Security Academy Series/SSRF/Lab03 - SSRF with blacklist-based input filter.md",
+    "OWASP - Web Security Academy Series/SSRF/Lab04 - SSRF with whitelist-based input filter.md",
     "Dark Web/resources.md",
+    "CTF/Attacks/Virtual Hosts.md",
     "Dark Web",
     "Python/resources.md",
     "the-hacker-guide-to-python.pdf",
     "Python",
     "CTF/Tools/Scan/ffuf.md",
-    "OWASP - Web Security Academy Series/SSRF/Lab02 - Basic SSRF against another back-end system.md",
-    "OWASP - Web Security Academy Series/SSRF/Lab01 - Basic SSRF against a local server.md",
     "OWASP - Web Security Academy Series/resources.md",
     "OWASP - Web Security Academy Series/SSRF/Documentation.md",
     "OWASP - Web Security Academy Series/SSRF",
@@ -216,8 +218,6 @@
     "CTF/Attacks/reverse-shell.md",
     "CTF/EXPLOIT/Shell.md",
     "CTF/VM/vulnBegin.md",
-    "CTF/Tools/zip.md",
-    "CTF/Tools/wget.md",
     "CTF/Tools/firefox extensions",
     "Screenshot from 2023-09-08 11-37-25 1.png",
     "Screenshot from 2023-09-08 09-35-37.png",
