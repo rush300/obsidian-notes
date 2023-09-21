@@ -55,3 +55,9 @@ def main():
 if __name__ == "__main__":
     main()
 ```
+
+RUN:
+```bash
+python3 ssrf-lab-03.py 'https://ac0b1f8d1ff73e428074793800860063.web-security-academy.net'
+```
+END!

@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b30b115800abd624",
+        "id": "66d241e724b0e57d",
         "type": "tabs",
         "children": [
           {
-            "id": "2cd1f5c866007ec6",
+            "id": "a5b6a61028289972",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTF/VM/vulnBegin.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "11da60736b2dcae7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OWASP - Web Security Academy Series/resources.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "791e720726fb8061",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OWASP - Web Security Academy Series/SSRF/Lab04 - SSRF with whitelist-based input filter.md",
+                "file": "OWASP - Web Security Academy Series/SSRF/Lab07 - Blind SSRF with Shellshock exploitation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OWASP - Web Security Academy Series/SSRF/Lab04 - SSRF with whitelist-based input filter.md",
+                "file": "OWASP - Web Security Academy Series/SSRF/Lab07 - Blind SSRF with Shellshock exploitation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OWASP - Web Security Academy Series/SSRF/Lab04 - SSRF with whitelist-based input filter.md",
+                "file": "OWASP - Web Security Academy Series/SSRF/Lab07 - Blind SSRF with Shellshock exploitation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OWASP - Web Security Academy Series/SSRF/Lab04 - SSRF with whitelist-based input filter.md"
+                "file": "OWASP - Web Security Academy Series/SSRF/Lab07 - Blind SSRF with Shellshock exploitation.md"
               }
             }
           },
@@ -181,12 +156,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "791e720726fb8061",
+  "active": "a5b6a61028289972",
   "lastOpenFiles": [
-    "OWASP - Web Security Academy Series/SSRF/Lab01 - Basic SSRF against a local server.md",
-    "OWASP - Web Security Academy Series/SSRF/Lab02 - Basic SSRF against another back-end system.md",
-    "OWASP - Web Security Academy Series/SSRF/Lab03 - SSRF with blacklist-based input filter.md",
+    "OWASP - Web Security Academy Series/SSRF/Lab06 - Blind SSRF with out-of-band detection.md",
+    "OWASP - Web Security Academy Series/SSRF/Lab07 - Blind SSRF with Shellshock exploitation.md",
+    "OWASP - Web Security Academy Series/SSRF/Lab05 - SSRF with filter bypass via open redirection vulnerability.md",
     "OWASP - Web Security Academy Series/SSRF/Lab04 - SSRF with whitelist-based input filter.md",
+    "OWASP - Web Security Academy Series/SSRF/Lab03 - SSRF with blacklist-based input filter.md",
+    "OWASP - Web Security Academy Series/SSRF/Lab02 - Basic SSRF against another back-end system.md",
+    "OWASP - Web Security Academy Series/SSRF/Lab01 - Basic SSRF against a local server.md",
+    "JAVA/Learn.md",
+    "OWASP - Web Security Academy Series/Insufficient Logging and Monitoring.md",
+    "JAVA",
+    "OWASP - Web Security Academy Series/Broken Access Control/Missing Function Level Access Control/Guideline.md",
+    "OWASP - Web Security Academy Series/Broken Access Control",
+    "OWASP - Web Security Academy Series/SQLi/Guideline.md",
+    "OWASP - Web Security Academy Series/Broken Access Control/Missing Function Level Access Control",
+    "CTF/VM/vulnBegin.md",
+    "OWASP - Web Security Academy Series/resources.md",
+    "OWASP - Web Security Academy Series/SQLi",
     "Dark Web/resources.md",
     "CTF/Attacks/Virtual Hosts.md",
     "Dark Web",
@@ -194,31 +182,18 @@
     "the-hacker-guide-to-python.pdf",
     "Python",
     "CTF/Tools/Scan/ffuf.md",
-    "OWASP - Web Security Academy Series/resources.md",
     "OWASP - Web Security Academy Series/SSRF/Documentation.md",
     "OWASP - Web Security Academy Series/SSRF",
     "sac21-prevent-ssrf.pdf",
     "Server_Side_Request_Forgery_Prevention_Cheat_Sheet_SSRF_Bible.pdf",
     "GIT/Commands.md",
     "Syntax/My new note.md",
-    "us-17-Tsai-A-New-Era-Of-SSRF-Exploiting-URL-Parser-In-Trending-Programming-Languages.pdf",
     "AWS/resources.md",
     "API/resources.md",
     "CTF/resources.md",
     "CTF/RECON.md",
-    "OWASP - Web Security Academy Series",
     "CTF/VM/thm-tech.md",
     "CTF/VM/vulnnetendgame.md",
-    "CTF/Tools/Search/tail.md",
-    "CTF/Tools/openssl.md",
-    "CTF/KEYS/id_rsa (private key).md",
-    "CTF/Tools/Crack/john.md",
-    "CTF/Tools/Crack",
-    "CTF/Attacks/wordpress.md",
-    "CTF/Attacks/reverse-shell.md",
-    "CTF/EXPLOIT/Shell.md",
-    "CTF/VM/vulnBegin.md",
-    "CTF/Tools/firefox extensions",
     "Screenshot from 2023-09-08 11-37-25 1.png",
     "Screenshot from 2023-09-08 09-35-37.png",
     "Screenshot from 2023-09-08 11-37-25.png",
