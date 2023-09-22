@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OWASP - Web Security Academy Series/SSRF/Lab07 - Blind SSRF with Shellshock exploitation.md",
+                "file": "Bug Bounty/API attack.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OWASP - Web Security Academy Series/SSRF/Lab07 - Blind SSRF with Shellshock exploitation.md",
+                "file": "Bug Bounty/API attack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OWASP - Web Security Academy Series/SSRF/Lab07 - Blind SSRF with Shellshock exploitation.md",
+                "file": "Bug Bounty/API attack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OWASP - Web Security Academy Series/SSRF/Lab07 - Blind SSRF with Shellshock exploitation.md"
+                "file": "Bug Bounty/API attack.md"
               }
             }
           },
@@ -158,8 +158,15 @@
   },
   "active": "a5b6a61028289972",
   "lastOpenFiles": [
-    "OWASP - Web Security Academy Series/SSRF/Lab06 - Blind SSRF with out-of-band detection.md",
+    "CTF/Tools/Scan/nmap.md",
+    "Bug Bounty/API attack.md",
+    "OWASP - Web Security Academy Series/Broken Access Control/Insecure Direct Object References/resources.md",
+    "OWASP - Web Security Academy Series/Broken Access Control/Insecure Direct Object References/Guideline.md",
+    "Bug Bounty/IDOR.md",
+    "OWASP - Web Security Academy Series/Broken Access Control/Insecure Direct Object References",
     "OWASP - Web Security Academy Series/SSRF/Lab07 - Blind SSRF with Shellshock exploitation.md",
+    "Bug Bounty",
+    "OWASP - Web Security Academy Series/SSRF/Lab06 - Blind SSRF with out-of-band detection.md",
     "OWASP - Web Security Academy Series/SSRF/Lab05 - SSRF with filter bypass via open redirection vulnerability.md",
     "OWASP - Web Security Academy Series/SSRF/Lab04 - SSRF with whitelist-based input filter.md",
     "OWASP - Web Security Academy Series/SSRF/Lab03 - SSRF with blacklist-based input filter.md",
@@ -184,16 +191,9 @@
     "CTF/Tools/Scan/ffuf.md",
     "OWASP - Web Security Academy Series/SSRF/Documentation.md",
     "OWASP - Web Security Academy Series/SSRF",
-    "sac21-prevent-ssrf.pdf",
-    "Server_Side_Request_Forgery_Prevention_Cheat_Sheet_SSRF_Bible.pdf",
     "GIT/Commands.md",
     "Syntax/My new note.md",
     "AWS/resources.md",
-    "API/resources.md",
-    "CTF/resources.md",
-    "CTF/RECON.md",
-    "CTF/VM/thm-tech.md",
-    "CTF/VM/vulnnetendgame.md",
     "Screenshot from 2023-09-08 11-37-25 1.png",
     "Screenshot from 2023-09-08 09-35-37.png",
     "Screenshot from 2023-09-08 11-37-25.png",
