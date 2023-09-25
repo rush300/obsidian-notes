@@ -7,3 +7,6 @@ Python Crash Course, 2nd Edition: [https://amzn.to/30gINu0](https://www.youtube.
 Violent Python: [https://amzn.to/2QoGoJn](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa09oVzBvdzV4VjhMVUpocDRjd3hUVUI2ZHJMd3xBQ3Jtc0tuR1k4OUxwbXFRSDMzWDdnUWVMcl82Vko2OFBTRjZmQmhJZHd5dVZJMS1ucnlGa0xpc191WGdKb09jWHhTQi1LSlNCdmd3RnFkY25mbVM2ZEs1SVB4M21sS2xvME5kNEtyaEltV290VGJXcU1LanJ3UQ&q=https%3A%2F%2Famzn.to%2F2QoGoJn&v=WGewfvluu_8) 
 Black Hat Python: [https://amzn.to/2V9GpQk](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa2hzNExJZE04MjlRQnVqTlA0T1RORkQ0eHpOQXxBQ3Jtc0tuRnFKeWU4MEhzTVUzcGp3b0F6ZFNkMl84WVpNTWtnUzV1MFUzbkVTYndVZFRqMlFXeHVGWFA3M3FleUdaQS0zRmU0dkhsMjAycjJGeExZVG91bXlsRFZSbFppZjdxR3VmeTM2d1hZWFhGaURJTmxCaw&q=https%3A%2F%2Famzn.to%2F2V9GpQk&v=WGewfvluu_8)
 
+The Web Application Hackers Handbook (Wiley, 2011), 
+Web Application Security(O’Reilly, 2020)
+

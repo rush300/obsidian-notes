@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hacker Resources/Reports.md",
+                "file": "Hacker Resources/Books.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hacker Resources/Reports.md",
+                "file": "Hacker Resources/Books.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hacker Resources/Reports.md",
+                "file": "Hacker Resources/Books.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hacker Resources/Reports.md"
+                "file": "Hacker Resources/Books.md"
               }
             }
           },
@@ -158,14 +158,15 @@
   },
   "active": "a5b6a61028289972",
   "lastOpenFiles": [
-    "Hacker Resources/Articles.md",
+    "API/bug-bounty program.md",
+    "Bug Bounty/API attack.md",
     "Hacker Resources/Reports.md",
+    "Hacker Resources/Articles.md",
     "Hacker Resources/Books.md",
     "API/Penetration testing.md",
     "API/resources.md",
     "CTF/Tools/Crack/hashcat.md",
     "Hacker Resources",
-    "Bug Bounty/API attack.md",
     "CTF/Tools/Scan/nmap.md",
     "OWASP - Web Security Academy Series/Broken Access Control/Insecure Direct Object References/resources.md",
     "OWASP - Web Security Academy Series/Broken Access Control/Insecure Direct Object References/Guideline.md",
@@ -190,7 +191,6 @@
     "OWASP - Web Security Academy Series/resources.md",
     "OWASP - Web Security Academy Series/SQLi",
     "Dark Web/resources.md",
-    "CTF/Attacks/Virtual Hosts.md",
     "Dark Web",
     "the-hacker-guide-to-python.pdf",
     "Python",
