@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test main/Test.md",
+                "file": "Test main/API/Hacking APIs notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test main/Test.md",
+                "file": "Test main/API/Hacking APIs notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test main/Test.md",
+                "file": "Test main/API/Hacking APIs notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test main/Test.md"
+                "file": "Test main/API/Hacking APIs notes.md"
+              }
+            }
+          },
+          {
+            "id": "9a0b83106123b16c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -155,8 +165,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3846bce75300a045",
+  "active": "216db8241bfb71a4",
   "lastOpenFiles": [
+    "Test main/Syntax/My new note.md",
+    "Test main/API/Hacking APIs notes.md",
     "Test main",
     "Untitled.canvas",
     "Test main/Test.md"
