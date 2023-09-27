@@ -20,6 +20,17 @@
 > [!IMPORTANT]- Security Misconfigurations
 > Security misconfigurations include all the mistakes developers could make within the supporting security configurations of an API. If a security misconfiguration is severe enough, it can lead to sensitive information exposure or a complete system takeover. For example, if the API’s supporting security configuration reveals an unpatched vulnerability, there is a chance that an attacker could leverage a published exploit to easily “pwn” the API and its system.
 
+> [!IMPORTANT]- Injection
+> Injection flaws exist when a request is passed to the API’s supporting infrastructure and the API provider doesn’t filter the input to remove unwanted characters (a process known as input sanitization). As a result, the infrastructure might treat data from the request as code and run it. When this sort of flaw is present, you’ll be able to conduct injection attacks such as SQL injection, NoSQL injection, and system command injection.
+
+> [!IMPORTANT]- Improper Assets Management
+> Improper assets management takes place when an organization exposes APIs that are either retired or still in development. As with any software, old API versions are more likely to contain vulnerabilities because they are no longer being patched and upgraded. Likewise, APIs that are still being developed are typically not as secure as their production API counterparts.
+
+> [!IMPORTANT]- Business Logic Vulnerabilities
+> Business logic vulnerabilities (also known as business logic flaws, or BLFs) are intended features of an application that attackers can use maliciously. For example, if an API has an upload feature that doesn’t validate encoded payloads, a user could upload any file as long as it was encoded. This would allow end users to upload and execute arbitrary code, including malicious payloads.
+
+
+
 
 
 
