@@ -8,27 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f78dab0c42bdc27e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "216db8241bfb71a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test main/API/Hacking APIs notes.md",
+                "file": "Test main/API/Hacking API's/Lab Setup.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test main/API/Hacking APIs notes.md",
+                "file": "Test main/API/Hacking API's/Lab Setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test main/API/Hacking APIs notes.md",
+                "file": "Test main/API/Hacking API's/Lab Setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test main/API/Hacking APIs notes.md"
+                "file": "Test main/API/Hacking API's/Lab Setup.md"
               }
             }
           },
@@ -167,8 +158,11 @@
   },
   "active": "216db8241bfb71a4",
   "lastOpenFiles": [
+    "Test main/API/Hacking API's/Lab Setup.md",
+    "Test main/API/Hacking API's/Burp.md",
+    "Test main/API/Hacking API's/API Attacks.md",
+    "Test main/API/Hacking API's",
     "Test main/Syntax/My new note.md",
-    "Test main/API/Hacking APIs notes.md",
     "Test main",
     "Untitled.canvas",
     "Test main/Test.md"
