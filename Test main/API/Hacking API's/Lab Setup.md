@@ -15,6 +15,8 @@ sudo tar -xvzf postman-linux-64.tar.gz -C /opt
 sudo ln -s /opt/Postman/Postman /usr/bin/postman
 
 postman
+
+sudo rm -rf /usr/bin/postman
 ```
 ## Burp
 ```bash
