@@ -59,5 +59,38 @@ cd dist
 sudo ln -s /opt/kiterunner/dist/kr /usr/bin/kr
 cd /opt
 
+sudo git clone https://github.com/s0md3v/Arjun.git
 
+cd /opt/Arjun
+sudo python3 setup.py install 
+
+arjun
+
+sudo apt install zaproxy
+
+```
+## install crAPI
+```bash
+mkdir lab
+cd lab
+curl -o docker-compose.yml https://raw.githubusercontent.com/OWASP/crAPI/main/deploy/docker/docker-compose.yml
+ls
+mkdir crapi
+mv docker-compose.yml crapi
+cd crapi
+sudo docker-compose pull
+sudo docker-compose -f docker-compose.yml --compatibility up -d
+
+
+127.0.0.1:8888 -> login
+127.0.0.1:8025 -> MailHog
+```
+## install vAPI
+```bash
+cd lab
+git clone http://github.com/roottusk/vapi.git
+cd vapi
+sudo docker-compose up -d
+
+172.0.0.1/vapi
 ```
