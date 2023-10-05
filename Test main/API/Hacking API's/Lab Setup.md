@@ -68,6 +68,8 @@ arjun
 
 sudo apt install zaproxy
 
+sudo apt install gobuster
+
 ```
 ## install crAPI
 ```bash
@@ -84,6 +86,10 @@ sudo docker-compose -f docker-compose.yml --compatibility up -d
 
 127.0.0.1:8888 -> login
 127.0.0.1:8025 -> MailHog
+
+sudo docker-compose ps
+sudo docker-compose stop
+sudo docker-compose start
 ```
 ## install vAPI
 ```bash
@@ -93,4 +99,8 @@ cd vapi
 sudo docker-compose up -d
 
 172.0.0.1/vapi
+
+sudo docker-compose ps
+sudo docker-compose stop
+sudo docker-compose start
 ```
