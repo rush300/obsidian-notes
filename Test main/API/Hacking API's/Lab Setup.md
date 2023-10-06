@@ -15,7 +15,8 @@ logut from kali and login with the new user!
 sudo apt update
 sudo apt full-upgrade -y
 
-sudo apt-get install git python3 golang pip3
+sudo apt-get install git python3 golang
+sudo apt install pip3
 ```
 ## Chrome DevTools 
 ```bash
@@ -24,7 +25,7 @@ sudo apt install ./google-chrome-stable_current_amd64.deb
 ```
 ## Postman
 ```bash
-sudo wget https://dl/pstmn.io/download/latest/linux64 -O postman-linux-64.tar.gz
+sudo wget https://dl.pstmn.io/download/latest/linux64 -O postman-linux-64.tar.gz
 sudo tar -xvzf postman-linux-64.tar.gz -C /opt
 sudo ln -s /opt/Postman/Postman /usr/bin/postman
 
