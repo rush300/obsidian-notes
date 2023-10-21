@@ -1,0 +1,2 @@
+https://wordlists.assetnote.io/
+

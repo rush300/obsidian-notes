@@ -25,14 +25,74 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test main/OWASP - Web Security Academy Series/03. Directory Traversal/Documentation.md",
+                "file": "Test main/OWASP - Web Security Academy Series/03. Directory Traversal/Resources/Documentation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "abc7fbee4ed18e11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Test main/Bug Bounty/API attack.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3b1b1531171706ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Test main/CTF/Tools/Scan/ffuf.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "41fc661e6b05bc14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Test main/OWASP - Web Security Academy Series/09. Server-Side Request Forgery (SSRF)/Resources/Documentation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c54a2063ea0e54f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Test main/OWASP - Web Security Academy Series/10. XXE Injection/Lab01 - Exploiting XXE using external entities to retrieve files.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "29928c3075b1d5c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Test main/CTF/Tools/firefox extensions/pwnfox.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -98,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test main/OWASP - Web Security Academy Series/03. Directory Traversal/Documentation.md",
+                "file": "Test main/CTF/Tools/firefox extensions/pwnfox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test main/OWASP - Web Security Academy Series/03. Directory Traversal/Documentation.md",
+                "file": "Test main/CTF/Tools/firefox extensions/pwnfox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test main/OWASP - Web Security Academy Series/03. Directory Traversal/Documentation.md"
+                "file": "Test main/CTF/Tools/firefox extensions/pwnfox.md"
               }
             }
           },
@@ -169,44 +229,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1b081aaed0a61224",
+  "active": "29928c3075b1d5c5",
   "lastOpenFiles": [
+    "Test main/CTF/Tools/firefox extensions/ModHeader.md",
+    "Test main/CTF/Tools/firefox extensions/pwnfox.md",
+    "Test main/CTF/VM/thm-tech.md",
+    "Test main/OWASP - Web Security Academy Series/10. XXE Injection/Lab01 - Exploiting XXE using external entities to retrieve files.md",
+    "Test main/OWASP - Web Security Academy Series/10. XXE Injection/Resources/Documentation.md",
+    "XXE Injection Complete Guide Theory Video Slides-1 1.pdf",
+    "Test main/OWASP - Web Security Academy Series/10. XXE Injection/Resources/XXE Injection Complete Guide Theory Video Slides-1.pdf",
+    "Test main/OWASP - Web Security Academy Series/09. Server-Side Request Forgery (SSRF)/Resources/SSRF Complete Guide Theory Video Slides.pdf",
+    "Test main/OWASP - Web Security Academy Series/09. Server-Side Request Forgery (SSRF)/Resources/Documentation.md",
+    "XXE Injection Complete Guide Theory Video Slides-1.pdf",
+    "Test main/OWASP - Web Security Academy Series/03. Directory Traversal/Lab06 - File path traversal, validation of file extension with null byte bypass.md",
+    "Test main/OWASP - Web Security Academy Series/10. XXE Injection/Resources",
+    "Test main/OWASP - Web Security Academy Series/09. Server-Side Request Forgery (SSRF)/Resources",
+    "Test main/OWASP - Web Security Academy Series/03. Directory Traversal/Lab05 - File path traversal, validation of start of path.md",
+    "Test main/OWASP - Web Security Academy Series/03. Directory Traversal/Lab04 - File path traversal, traversal sequences stripped with superfluous URL-decode.md",
+    "Test main/OWASP - Web Security Academy Series/03. Directory Traversal/Lab03 - File path traversal, traversal sequences stripped non-recursively.md",
+    "Test main/OWASP - Web Security Academy Series/03. Directory Traversal/Lab02 - File path traversal, traversal sequences blocked with absolute path bypass.md",
+    "Test main/OWASP - Web Security Academy Series/03. Directory Traversal/Resources",
+    "Test main/OWASP - Web Security Academy Series/03. Directory Traversal/Lab01 - File path traversal, simple case.md",
+    "Test main/OWASP - Web Security Academy Series/09. Server-Side Request Forgery (SSRF)/Lab01 - Basic SSRF against a local server.md",
+    "Test main/OWASP - Web Security Academy Series/09. Server-Side Request Forgery (SSRF)/Lab01 - Basic.md",
+    "TESTS.md",
+    "Test main/CTF/Tools/Scan/ffuf.md",
+    "Test main/CTF/Tools/Scan/nmap.md",
+    "Test main/Bug Bounty/API attack.md",
+    "Test main/Hacker Resources/Pentest Notebook.md",
+    "Test main/CTF/resources.md",
+    "Test main/Hacker Resources/Playground.md",
+    "Test main/AWS/resources.md",
+    "Test main/OWASP - Web Security Academy Series/03. Directory Traversal/Resources/Documentation.md",
+    "Test main/OWASP - Web Security Academy Series/03. Directory Traversal/Resources/Directory Traversal Complete Guide Theory Video Slides.pdf",
+    "Test main/CTF/Wordlists.md",
     "Test main/OWASP - Web Security Academy Series/14. Clickjacking/Lab01 - Basic click-jacking with CSRF token protection.md",
     "Test main/OWASP - Web Security Academy Series/14. Clickjacking/Documentation.md",
-    "Test main/OWASP - Web Security Academy Series/13. Cross-origin Resource Sharing (CORS)/Lab01 - CORS vulnerability with basic origin reflection.md",
     "Test main/OWASP - Web Security Academy Series/14. Clickjacking",
-    "Test main/OWASP - Web Security Academy Series/13. Cross-origin Resource Sharing (CORS)/Documentation.md",
-    "Test main/OWASP - Web Security Academy Series/12. Cross-Site Request Forgery (CSRF)/Lab01 - CSRF vulnerability with no defenses.md",
     "Test main/OWASP - Web Security Academy Series/13. Cross-origin Resource Sharing (CORS)",
-    "Test main/OWASP - Web Security Academy Series/12. Cross-Site Request Forgery (CSRF)/Documentation.md",
-    "Test main/OWASP - Web Security Academy Series/10. XXE Injection/Lab01 - Exploiting XXE using external entities to retrieve files.md",
-    "Test main/OWASP - Web Security Academy Series/12. Cross-Site Request Forgery (CSRF)",
-    "Test main/OWASP - Web Security Academy Series/11. Cross-Site Scripting (XSS)",
-    "Test main/OWASP - Web Security Academy Series/10. XXE Injection/Documentation.md",
-    "Test main/OWASP - Web Security Academy Series/09. Server-Side Request Forgery (SSRF)/Lab01 - Basic.md",
-    "Test main/OWASP - Web Security Academy Series/10. XXE Injection",
-    "Test main/OWASP - Web Security Academy Series/09. Server-Side Request Forgery (SSRF)/Documentation.md",
-    "Test main/OWASP - Web Security Academy Series/09. Server-Side Request Forgery (SSRF)/Documentation.md",
-    "Test main/OWASP - Web Security Academy Series/09. Server-Side Request Forgery (SSRF)/Lab01 - Basic SSRF against a local server.md",
-    "Test main/OWASP - Web Security Academy Series/08. File Upload Vulnerabilities/Lab01 - Remote code execution via web shell upload.md",
-    "Test main/OWASP - Web Security Academy Series/09. Server-Side Request Forgery (SSRF)",
-    "Test main/OWASP - Web Security Academy Series/08. File Upload Vulnerabilities/Documentation.md",
-    "Test main/OWASP - Web Security Academy Series/07. Access Control Vulnerabilities/Lab01 - Unprotected admin function.md",
-    "Test main/OWASP - Web Security Academy Series/08. File Upload Vulnerabilities",
-    "Test main/OWASP - Web Security Academy Series/07. Access Control Vulnerabilities/Documentation.md",
-    "Test main/OWASP - Web Security Academy Series/06. Information Disclosure/Lab01 - Information disclosure in error messages.md",
-    "Test main/OWASP - Web Security Academy Series/07. Access Control Vulnerabilities",
-    "Test main/OWASP - Web Security Academy Series/06. Information Disclosure/Documentation.md",
-    "Test main/OWASP - Web Security Academy Series/05. Basic Logic Vulnerabilities/Lab01 - Excessive trust in client-side controls.md",
-    "Test main/OWASP - Web Security Academy Series/06. Information Disclosure",
-    "Test main/OWASP - Web Security Academy Series/05. Basic Logic Vulnerabilities/Documentation.md",
-    "Test main/OWASP - Web Security Academy Series/04. OS Command injection/Lab01 - OS command injection, simple case.md",
-    "Test main/OWASP - Web Security Academy Series/05. Basic Logic Vulnerabilities",
-    "Test main/OWASP - Web Security Academy Series/04. OS Command injection/Documentation.md",
-    "Test main/OWASP - Web Security Academy Series/02. Authentication Vulnerabilities/Lab01 - Username enumeration via different responses.md",
-    "Test main/OWASP - Web Security Academy Series/01. SQL Injection/Lab01 - SQL injection vulnerability in WHERE clause allowing retrieval of hidden data.md",
-    "Test main/OWASP - Web Security Academy Series/02. Authentication Vulnerabilities/Documentation.md",
-    "Test main/OWASP - Web Security Academy Series/01. SQL Injection/Documentation.md",
     "Untitled.canvas"
   ]
 }

@@ -44,10 +44,7 @@ def main():
 if __name__ == "__main__":
     main()
 ```
-Run the script
-```bash
-python3 ssrf-lab-01.py "https://ac601f415b12800232c700620026.web-security-academy.net"
-```
+
 RUN:
 ```bash
 python3 ssrf-lab-01.py 'https://ac0b1f8d1ff73e428074793800860063.web-security-academy.net'
