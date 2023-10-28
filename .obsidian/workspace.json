@@ -73,26 +73,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test main/OWASP - Web Security Academy Series/10. XXE Injection/Lab01 - Exploiting XXE using external entities to retrieve files.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "29928c3075b1d5c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Test main/OWASP - Web Security Academy Series/08. File Upload Vulnerabilities/Lab05 - Web shell upload via obfuscated file extension.md",
+                "file": "Test main/OWASP - Web Security Academy Series/08. File Upload Vulnerabilities/Lab07 - Web shell upload via race condition.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -158,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test main/OWASP - Web Security Academy Series/08. File Upload Vulnerabilities/Lab05 - Web shell upload via obfuscated file extension.md",
+                "file": "Test main/OWASP - Web Security Academy Series/08. File Upload Vulnerabilities/Lab07 - Web shell upload via race condition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test main/OWASP - Web Security Academy Series/08. File Upload Vulnerabilities/Lab05 - Web shell upload via obfuscated file extension.md",
+                "file": "Test main/OWASP - Web Security Academy Series/08. File Upload Vulnerabilities/Lab07 - Web shell upload via race condition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test main/OWASP - Web Security Academy Series/08. File Upload Vulnerabilities/Lab05 - Web shell upload via obfuscated file extension.md"
+                "file": "Test main/OWASP - Web Security Academy Series/08. File Upload Vulnerabilities/Lab07 - Web shell upload via race condition.md"
               }
             }
           },
@@ -229,13 +217,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "29928c3075b1d5c5",
+  "active": "6c54a2063ea0e54f",
   "lastOpenFiles": [
-    "Test main/OWASP - Web Security Academy Series/08. File Upload Vulnerabilities/Lab04 - Web shell upload via extension blacklist bypass.md",
+    "Test main/OWASP - Web Security Academy Series/08. File Upload Vulnerabilities/Resources/test07.php.md",
+    "Test main/OWASP - Web Security Academy Series/08. File Upload Vulnerabilities/Resources/test.test.md",
+    "Test main/OWASP - Web Security Academy Series/08. File Upload Vulnerabilities/Lab07 - Web shell upload via race condition.md",
+    "Test main/OWASP - Web Security Academy Series/08. File Upload Vulnerabilities/Lab06 - Remote code execution via polygot web shell upload.md",
+    "Test main/OWASP - Web Security Academy Series/10. XXE Injection/Lab01 - Exploiting XXE using external entities to retrieve files.md",
+    "Test main/OWASP - Web Security Academy Series/08. File Upload Vulnerabilities/Resources/polygot.php.md",
     "Test main/OWASP - Web Security Academy Series/08. File Upload Vulnerabilities/Lab05 - Web shell upload via obfuscated file extension.md",
+    "Test main/OWASP - Web Security Academy Series/08. File Upload Vulnerabilities/Lab04 - Web shell upload via extension blacklist bypass.md",
     "Test main/OWASP - Web Security Academy Series/08. File Upload Vulnerabilities/Resources/htaccess.md",
     "Test main/OWASP - Web Security Academy Series/08. File Upload Vulnerabilities/Lab03 - Web shell upload via path traversal.md",
-    "Test main/OWASP - Web Security Academy Series/08. File Upload Vulnerabilities/Resources/test.test.md",
     "Test main/OWASP - Web Security Academy Series/08. File Upload Vulnerabilities/Lab02 - Web shell upload via Content-Type restriction bypass.md",
     "Test main/OWASP - Web Security Academy Series/08. File Upload Vulnerabilities/Lab01 - Remote code execution via web shell upload.md",
     "Test main/OWASP - Web Security Academy Series/08. File Upload Vulnerabilities/Resources/test.php.md",
@@ -262,13 +255,8 @@
     "Test main/OWASP - Web Security Academy Series/09. Server-Side Request Forgery (SSRF)/Lab07 - Blind SSRF with Shellshock exploitation.md",
     "Test main/OWASP - Web Security Academy Series/12. Cross-Site Request Forgery (CSRF)/Lab01 - CSRF vulnerability with no defenses.md",
     "Test main/OWASP - Web Security Academy Series/10. XXE Injection/Lab09 - Exploiting XXE to retrieve data by re-purposing a local DTD.md",
-    "Test main/OWASP - Web Security Academy Series/10. XXE Injection/Lab01 - Exploiting XXE using external entities to retrieve files.md",
     "Test main/OWASP - Web Security Academy Series/10. XXE Injection/Lab07 - Exploiting XInclude to retrieve files.md",
     "Test main/OWASP - Web Security Academy Series/10. XXE Injection/Lab06 - Exploiting blind XXE to retrieve data via error messages.md",
-    "Test main/OWASP - Web Security Academy Series/10. XXE Injection/Lab05* - Exploiting blind XXE to ex-filtrate data using a malicious external DTD.md",
-    "Test main/OWASP - Web Security Academy Series/10. XXE Injection/Lab04 - Blind XXE with out-of-band interaction via XML parameter entities.md",
-    "Test main/OWASP - Web Security Academy Series/10. XXE Injection/Lab03 - Blind XXE with out-of-band interaction.md",
-    "Test main/OWASP - Web Security Academy Series/10. XXE Injection/Lab02 - Exploiting XXE to perform SSRF attacks.md",
     "Untitled.canvas"
   ]
 }

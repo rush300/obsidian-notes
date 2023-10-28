@@ -4,6 +4,8 @@ Creds - wiener:peter
 
 Analysis:
 
+Use null byte test.php%00.png
+
 ```python
 import requests
 import sys
