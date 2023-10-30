@@ -73,9 +73,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test main/OWASP - Web Security Academy Series/08. File Upload Vulnerabilities/Lab07 - Web shell upload via race condition.md",
+                "file": "Test main/CTF/Attacks/Privilege escalation.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "xss",
+                "query": "linpease",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test main/OWASP - Web Security Academy Series/08. File Upload Vulnerabilities/Lab07 - Web shell upload via race condition.md",
+                "file": "Test main/CTF/Attacks/Privilege escalation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test main/OWASP - Web Security Academy Series/08. File Upload Vulnerabilities/Lab07 - Web shell upload via race condition.md",
+                "file": "Test main/CTF/Attacks/Privilege escalation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test main/OWASP - Web Security Academy Series/08. File Upload Vulnerabilities/Lab07 - Web shell upload via race condition.md"
+                "file": "Test main/CTF/Attacks/Privilege escalation.md"
               }
             }
           },
@@ -219,9 +219,21 @@
   },
   "active": "6c54a2063ea0e54f",
   "lastOpenFiles": [
+    "Test main/CTF/VM/wekor.thm.md",
+    "Test main/CTF/Attacks/wordpress.md",
+    "Test main/CTF/Attacks/Privilege escalation.md",
+    "Test main/CTF/EXPLOIT/Shell.md",
+    "Test main/CTF/Attacks/reverse-shell.md",
+    "Test main/CTF/Wordlists.md",
+    "Test main/CTF/Tools/Scan/linpease.sh.md",
+    "Test main/CTF/RECON.md",
+    "Test main/CTF/Tools/Crack/hashcat.md",
+    "Test main/CTF/VM/vulnnetendgame.md",
+    "Test main/CTF/Tools/Scan/sqlmap.md",
+    "Test main/CTF/Tools/Scan/ffuf.md",
+    "Test main/OWASP - Web Security Academy Series/08. File Upload Vulnerabilities/Lab07 - Web shell upload via race condition.md",
     "Test main/OWASP - Web Security Academy Series/08. File Upload Vulnerabilities/Resources/test07.php.md",
     "Test main/OWASP - Web Security Academy Series/08. File Upload Vulnerabilities/Resources/test.test.md",
-    "Test main/OWASP - Web Security Academy Series/08. File Upload Vulnerabilities/Lab07 - Web shell upload via race condition.md",
     "Test main/OWASP - Web Security Academy Series/08. File Upload Vulnerabilities/Lab06 - Remote code execution via polygot web shell upload.md",
     "Test main/OWASP - Web Security Academy Series/10. XXE Injection/Lab01 - Exploiting XXE using external entities to retrieve files.md",
     "Test main/OWASP - Web Security Academy Series/08. File Upload Vulnerabilities/Resources/polygot.php.md",
@@ -233,9 +245,7 @@
     "Test main/OWASP - Web Security Academy Series/08. File Upload Vulnerabilities/Lab01 - Remote code execution via web shell upload.md",
     "Test main/OWASP - Web Security Academy Series/08. File Upload Vulnerabilities/Resources/test.php.md",
     "Test main/OWASP - Web Security Academy Series/08. File Upload Vulnerabilities/Resources/test2.php.md",
-    "Test main/OWASP - Web Security Academy Series/09. Server-Side Request Forgery (SSRF)/Lab01 - Basic SSRF against a local server.md",
     "Test main/OWASP - Web Security Academy Series/09. Server-Side Request Forgery (SSRF)/Resources/Server_Side_Request_Forgery_Prevention_Cheat_Sheet_SSRF_Bible.pdf",
-    "Test main/OWASP - Web Security Academy Series/08. File Upload Vulnerabilities/Resources/Documentation.md",
     "Test main/OWASP - Web Security Academy Series/08. File Upload Vulnerabilities/Resources/File Upload Complete Guide Theory Video Slides.pdf",
     "Test main/OWASP - Web Security Academy Series/08. File Upload Vulnerabilities/Resources/test1.php.txt",
     "Test main/OWASP - Web Security Academy Series/08. File Upload Vulnerabilities/Resources/test1.php.file",
@@ -243,20 +253,10 @@
     "Test main/OWASP - Web Security Academy Series/08. File Upload Vulnerabilities/Resources/test1 3.php",
     "Test main/OWASP - Web Security Academy Series/08. File Upload Vulnerabilities/Resources/test1 2.php",
     "Test main/OWASP - Web Security Academy Series/08. File Upload Vulnerabilities/Resources/test1 1.php",
-    "Test main/OWASP - Web Security Academy Series/09. Server-Side Request Forgery (SSRF)/Resources/Documentation.md",
-    "Test main/OWASP - Web Security Academy Series/10. XXE Injection/Resources/Documentation.md",
-    "XXE Injection Complete Guide Theory Video Slides-1 1.pdf.md",
     "Test main/OWASP - Web Security Academy Series/10. XXE Injection/Resources/XXE Injection Complete Guide Theory Video Slides-1.pdf",
     "Test main/OWASP - Web Security Academy Series/10. XXE Injection/Resources/test.svg",
-    "Test main/OWASP - Web Security Academy Series/10. XXE Injection/Lab08 - Exploiting XXE via image file upload.md",
     "XXE Injection Complete Guide Theory Video Slides-1.pdf",
     "test.svg",
-    "Test main/OWASP - Web Security Academy Series/12. Cross-Site Request Forgery (CSRF)/Documentation.md",
-    "Test main/OWASP - Web Security Academy Series/09. Server-Side Request Forgery (SSRF)/Lab07 - Blind SSRF with Shellshock exploitation.md",
-    "Test main/OWASP - Web Security Academy Series/12. Cross-Site Request Forgery (CSRF)/Lab01 - CSRF vulnerability with no defenses.md",
-    "Test main/OWASP - Web Security Academy Series/10. XXE Injection/Lab09 - Exploiting XXE to retrieve data by re-purposing a local DTD.md",
-    "Test main/OWASP - Web Security Academy Series/10. XXE Injection/Lab07 - Exploiting XInclude to retrieve files.md",
-    "Test main/OWASP - Web Security Academy Series/10. XXE Injection/Lab06 - Exploiting blind XXE to retrieve data via error messages.md",
     "Untitled.canvas"
   ]
 }
