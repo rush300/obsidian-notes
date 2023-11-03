@@ -73,9 +73,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test main/CTF/Attacks/Privilege escalation.md",
+                "file": "Test main/OWASP - Web Security Academy Series/07. Broken Access Control Vulnerabilities/Lab13 - Referer-based access control.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test main/CTF/Attacks/Privilege escalation.md",
+                "file": "Test main/OWASP - Web Security Academy Series/07. Broken Access Control Vulnerabilities/Lab13 - Referer-based access control.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test main/CTF/Attacks/Privilege escalation.md",
+                "file": "Test main/OWASP - Web Security Academy Series/07. Broken Access Control Vulnerabilities/Lab13 - Referer-based access control.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test main/CTF/Attacks/Privilege escalation.md"
+                "file": "Test main/OWASP - Web Security Academy Series/07. Broken Access Control Vulnerabilities/Lab13 - Referer-based access control.md"
               }
             }
           },
@@ -219,43 +219,43 @@
   },
   "active": "6c54a2063ea0e54f",
   "lastOpenFiles": [
+    "Test main/OWASP - Web Security Academy Series/07. Broken Access Control Vulnerabilities/Lab12 - Multi-step process with no access control on one step.md",
+    "Test main/OWASP - Web Security Academy Series/07. Broken Access Control Vulnerabilities/Lab13 - Referer-based access control.md",
+    "Test main/OWASP - Web Security Academy Series/07. Broken Access Control Vulnerabilities/Lab02 - Unprotected admin functionality with unpredictable URL.md",
+    "Test main/OWASP - Web Security Academy Series/07. Broken Access Control Vulnerabilities/Lab11 - Insecure direct object references.md",
+    "Test main/OWASP - Web Security Academy Series/07. Broken Access Control Vulnerabilities/Lab10 - User ID controlled by request parameter with password disclosure.md",
+    "Test main/OWASP - Web Security Academy Series/07. Broken Access Control Vulnerabilities/Lab09 - User ID controlled by request parameter, with data leakage in redirect.md",
+    "Test main/OWASP - Web Security Academy Series/07. Broken Access Control Vulnerabilities/Lab08 - User ID controlled by request parameter, with unpredictable user IDs.md",
+    "Test main/OWASP - Web Security Academy Series/07. Broken Access Control Vulnerabilities/Lab07 - User ID controlled by request parameter, with unpredictable user IDs.md",
+    "Test main/OWASP - Web Security Academy Series/07. Broken Access Control Vulnerabilities/Lab06 - Method-based access control can be circumvented.md",
+    "Test main/OWASP - Web Security Academy Series/07. Broken Access Control Vulnerabilities/Lab04 - User role can be modified in user profile.md",
+    "Test main/OWASP - Web Security Academy Series/07. Broken Access Control Vulnerabilities/Lab05 - URL-based access control can be circumvented.md",
+    "Test main/OWASP - Web Security Academy Series/07. Broken Access Control Vulnerabilities/Lab03 - User role controlled by request parameter.md",
+    "Test main/OWASP - Web Security Academy Series/07. Broken Access Control Vulnerabilities/Lab01 - Unprotected admin functionality.md",
+    "Test main/OWASP - Web Security Academy Series/07. Broken Access Control Vulnerabilities/Resources/Documentation.md",
+    "Test main/OWASP - Web Security Academy Series/02. Authentication Vulnerabilities/Resources/Authentication Vulnerabilities Complete Guide Theory Video Slides.pdf",
+    "Test main/OWASP - Web Security Academy Series/07. Broken Access Control Vulnerabilities/Resources/Broken Access Control Complete Guide Theory Video Slides.pdf",
+    "Test main/OWASP - Web Security Academy Series/07. Broken Access Control Vulnerabilities/Resources",
+    "Test main/OWASP - Web Security Academy Series/02. Authentication Vulnerabilities/Documentation.md",
+    "Test main/OWASP - Web Security Academy Series/02. Authentication Vulnerabilities/Resources/Documentation.md",
+    "Test main/OWASP - Web Security Academy Series/02. Authentication Vulnerabilities/Resources",
+    "Test main/OWASP - Web Security Academy Series/08. File Upload Vulnerabilities/Resources/test07.php.md",
+    "Test main/OWASP - Web Security Academy Series/08. File Upload Vulnerabilities/Lab07 - Web shell upload via race condition.md",
+    "Test main/CTF/Attacks/Privilege escalation.md",
     "Test main/CTF/VM/wekor.thm.md",
     "Test main/CTF/Attacks/wordpress.md",
-    "Test main/CTF/Attacks/Privilege escalation.md",
     "Test main/CTF/EXPLOIT/Shell.md",
     "Test main/CTF/Attacks/reverse-shell.md",
     "Test main/CTF/Wordlists.md",
     "Test main/CTF/Tools/Scan/linpease.sh.md",
     "Test main/CTF/RECON.md",
-    "Test main/CTF/Tools/Crack/hashcat.md",
-    "Test main/CTF/VM/vulnnetendgame.md",
-    "Test main/CTF/Tools/Scan/sqlmap.md",
-    "Test main/CTF/Tools/Scan/ffuf.md",
-    "Test main/OWASP - Web Security Academy Series/08. File Upload Vulnerabilities/Lab07 - Web shell upload via race condition.md",
-    "Test main/OWASP - Web Security Academy Series/08. File Upload Vulnerabilities/Resources/test07.php.md",
-    "Test main/OWASP - Web Security Academy Series/08. File Upload Vulnerabilities/Resources/test.test.md",
-    "Test main/OWASP - Web Security Academy Series/08. File Upload Vulnerabilities/Lab06 - Remote code execution via polygot web shell upload.md",
-    "Test main/OWASP - Web Security Academy Series/10. XXE Injection/Lab01 - Exploiting XXE using external entities to retrieve files.md",
-    "Test main/OWASP - Web Security Academy Series/08. File Upload Vulnerabilities/Resources/polygot.php.md",
-    "Test main/OWASP - Web Security Academy Series/08. File Upload Vulnerabilities/Lab05 - Web shell upload via obfuscated file extension.md",
-    "Test main/OWASP - Web Security Academy Series/08. File Upload Vulnerabilities/Lab04 - Web shell upload via extension blacklist bypass.md",
-    "Test main/OWASP - Web Security Academy Series/08. File Upload Vulnerabilities/Resources/htaccess.md",
-    "Test main/OWASP - Web Security Academy Series/08. File Upload Vulnerabilities/Lab03 - Web shell upload via path traversal.md",
-    "Test main/OWASP - Web Security Academy Series/08. File Upload Vulnerabilities/Lab02 - Web shell upload via Content-Type restriction bypass.md",
-    "Test main/OWASP - Web Security Academy Series/08. File Upload Vulnerabilities/Lab01 - Remote code execution via web shell upload.md",
-    "Test main/OWASP - Web Security Academy Series/08. File Upload Vulnerabilities/Resources/test.php.md",
-    "Test main/OWASP - Web Security Academy Series/08. File Upload Vulnerabilities/Resources/test2.php.md",
     "Test main/OWASP - Web Security Academy Series/09. Server-Side Request Forgery (SSRF)/Resources/Server_Side_Request_Forgery_Prevention_Cheat_Sheet_SSRF_Bible.pdf",
     "Test main/OWASP - Web Security Academy Series/08. File Upload Vulnerabilities/Resources/File Upload Complete Guide Theory Video Slides.pdf",
     "Test main/OWASP - Web Security Academy Series/08. File Upload Vulnerabilities/Resources/test1.php.txt",
     "Test main/OWASP - Web Security Academy Series/08. File Upload Vulnerabilities/Resources/test1.php.file",
     "Test main/OWASP - Web Security Academy Series/08. File Upload Vulnerabilities/test1.php",
     "Test main/OWASP - Web Security Academy Series/08. File Upload Vulnerabilities/Resources/test1 3.php",
-    "Test main/OWASP - Web Security Academy Series/08. File Upload Vulnerabilities/Resources/test1 2.php",
-    "Test main/OWASP - Web Security Academy Series/08. File Upload Vulnerabilities/Resources/test1 1.php",
-    "Test main/OWASP - Web Security Academy Series/10. XXE Injection/Resources/XXE Injection Complete Guide Theory Video Slides-1.pdf",
     "Test main/OWASP - Web Security Academy Series/10. XXE Injection/Resources/test.svg",
-    "XXE Injection Complete Guide Theory Video Slides-1.pdf",
     "test.svg",
     "Untitled.canvas"
   ]
