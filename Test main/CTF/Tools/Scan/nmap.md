@@ -9,3 +9,7 @@ Bug Bounty scans
 nmap -A -F 10.10.11.161 -v
 namp T2 -A -F 10.10.11.161 -v
 ```
+Run from file with IPs
+```bash
+for ip in $(cat iplist.txt); do nmap -p 80 -T4 $ip & done
+```
