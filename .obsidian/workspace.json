@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test main/Courses/OWASP - Web Security Academy Series/06. Information Disclosure/Lab06 - Information bypass via information disclosure.md",
+                "file": "Test main/Courses/API Security/Small courses/Path Traversal/TEST 1 1 1 1 1 1 1 1 1 1 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test main/Courses/OWASP - Web Security Academy Series/06. Information Disclosure/Lab06 - Information bypass via information disclosure.md",
+                "file": "Test main/Courses/API Security/Small courses/Path Traversal/TEST 1 1 1 1 1 1 1 1 1 1 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test main/Courses/OWASP - Web Security Academy Series/06. Information Disclosure/Lab06 - Information bypass via information disclosure.md",
+                "file": "Test main/Courses/API Security/Small courses/Path Traversal/TEST 1 1 1 1 1 1 1 1 1 1 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test main/Courses/OWASP - Web Security Academy Series/06. Information Disclosure/Lab06 - Information bypass via information disclosure.md"
+                "file": "Test main/Courses/API Security/Small courses/Path Traversal/TEST 1 1 1 1 1 1 1 1 1 1 1.md"
               }
             }
           },
@@ -217,10 +217,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6c54a2063ea0e54f",
+  "active": "3846bce75300a045",
   "lastOpenFiles": [
-    "Test main/Courses/OWASP - Web Security Academy Series/06. Information Disclosure/Lab04 - Authentication bypass via information disclosure.md",
+    "Test main/Courses/API Security/Small courses/Insecure Cookies/TEST 1 1 1 1 1 1 1 1 1 1.md",
+    "Test main/Courses/API Security/Small courses/Path Traversal/TEST 1 1 1 1 1 1 1 1 1 1 1.md",
+    "Test main/Courses/API Security/Small courses/Information Leak/TEST 1 1 1 1 1 1 1 1 1.md",
+    "Test main/Courses/API Security/Small courses/Error Disclosure/TEST 1 1 1 1 1 1 1 1.md",
+    "Test main/Courses/API Security/Small courses/Cross Origin Resource Sharing (CORS)/TEST 1 1 1 1 1 1 1.md",
+    "Test main/Courses/API Security/Securing API Servers/TEST 1 1 1 1 1 1.md",
+    "Test main/Courses/API Security/OWASP API Top 10 & Beyond!/TEST 1 1 1 1 1.md",
+    "Test main/Courses/API Security/API Security Fundamentals/TEST 1 1 1 1.md",
+    "Test main/Courses/API Security/API Security for PCI Compliance/TEST 1 1 1.md",
+    "Test main/Courses/API Security/API Security for Connected Cars and Fleets/TEST 1 1.md",
+    "Test main/Courses/API Security/API Penetration Testing/TEST 1.md",
+    "Test main/Courses/API Security/API Documentation Best Practices/TEST.md",
     "Test main/Courses/OWASP - Web Security Academy Series/06. Information Disclosure/Lab06 - Information bypass via information disclosure.md",
+    "Test main/Courses/OWASP - Web Security Academy Series/06. Information Disclosure/Lab04 - Authentication bypass via information disclosure.md",
     "Test main/Courses/OWASP - Web Security Academy Series/06. Information Disclosure/Lab02 - Information disclosure on debug page.md",
     "Test main/Courses/OWASP - Web Security Academy Series/06. Information Disclosure/Lab03 - Source code disclosure via backup files.md",
     "Test main/Courses/OWASP - Web Security Academy Series/06. Information Disclosure/Lab01 - Information disclosure in error messages.md",
@@ -243,18 +255,6 @@
     "Test main/Courses/OWASP - Web Security Academy Series/06. Information Disclosure/Resources/Documentation.md",
     "Test main/Courses/OWASP - Web Security Academy Series/07. Broken Access Control Vulnerabilities/Lab13 - Referer-based access control.md",
     "Test main/Courses/OWASP - Web Security Academy Series/07. Broken Access Control Vulnerabilities/Lab12 - Multi-step process with no access control on one step.md",
-    "Test main/Courses/OWASP - Web Security Academy Series/07. Broken Access Control Vulnerabilities/Lab02 - Unprotected admin functionality with unpredictable URL.md",
-    "Test main/Courses/OWASP - Web Security Academy Series/07. Broken Access Control Vulnerabilities/Lab11 - Insecure direct object references.md",
-    "Test main/Courses/OWASP - Web Security Academy Series/07. Broken Access Control Vulnerabilities/Lab10 - User ID controlled by request parameter with password disclosure.md",
-    "Test main/Courses/OWASP - Web Security Academy Series/07. Broken Access Control Vulnerabilities/Lab09 - User ID controlled by request parameter, with data leakage in redirect.md",
-    "Test main/Courses/OWASP - Web Security Academy Series/07. Broken Access Control Vulnerabilities/Lab08 - User ID controlled by request parameter, with unpredictable user IDs.md",
-    "Test main/Courses/OWASP - Web Security Academy Series/07. Broken Access Control Vulnerabilities/Lab07 - User ID controlled by request parameter, with unpredictable user IDs.md",
-    "Test main/Courses/OWASP - Web Security Academy Series/07. Broken Access Control Vulnerabilities/Lab06 - Method-based access control can be circumvented.md",
-    "Test main/Courses/OWASP - Web Security Academy Series/07. Broken Access Control Vulnerabilities/Lab04 - User role can be modified in user profile.md",
-    "Test main/Courses/OWASP - Web Security Academy Series/07. Broken Access Control Vulnerabilities/Lab05 - URL-based access control can be circumvented.md",
-    "Test main/Courses/OWASP - Web Security Academy Series/07. Broken Access Control Vulnerabilities/Lab03 - User role controlled by request parameter.md",
-    "Test main/Courses/OWASP - Web Security Academy Series/07. Broken Access Control Vulnerabilities/Lab01 - Unprotected admin functionality.md",
-    "Test main/Courses/OWASP - Web Security Academy Series/07. Broken Access Control Vulnerabilities/Resources/Documentation.md",
     "Test main/Courses/OWASP - Web Security Academy Series/10. XXE Injection/Resources/test.svg",
     "test.svg",
     "Untitled.canvas"
