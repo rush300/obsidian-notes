@@ -51,4 +51,7 @@ ffuf -u http://server.6h0qk1c9.vulnbegin.co.uk/FUZZ -w /usr/share/wordlists/dirb
 
 
 
-
+SIP
+```bash
+ffuf -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt -u https://domain.com.au/FUZZ -H "X-Originating-IP: 127.0.0.1, X-Forwarded-For: 127.0.0.1, X-Remote-IP: 127.0.0.1, X-Remote-Addr: 127.0.0.1, X-Client-IP: 127.0.0.1" -r -t 15 -e .php,.txt
+```

@@ -73,14 +73,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test main/Courses/API Security/Small courses/Path Traversal/TEST 1 1 1 1 1 1 1 1 1 1 1.md",
+                "file": "Test main/Bug Bounty/API attack.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7af90d0ae1e1819a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Test main/Courses/SIP/PENTEST2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -109,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nmap",
+                "query": "ffuf",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test main/Courses/API Security/Small courses/Path Traversal/TEST 1 1 1 1 1 1 1 1 1 1 1.md",
+                "file": "Test main/Courses/SIP/PENTEST2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test main/Courses/API Security/Small courses/Path Traversal/TEST 1 1 1 1 1 1 1 1 1 1 1.md",
+                "file": "Test main/Courses/SIP/PENTEST2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test main/Courses/API Security/Small courses/Path Traversal/TEST 1 1 1 1 1 1 1 1 1 1 1.md"
+                "file": "Test main/Courses/SIP/PENTEST2.md"
               }
             }
           },
@@ -217,10 +229,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3846bce75300a045",
+  "active": "7af90d0ae1e1819a",
   "lastOpenFiles": [
-    "Test main/Courses/API Security/Small courses/Insecure Cookies/TEST 1 1 1 1 1 1 1 1 1 1.md",
+    "Test main/CTF/Tools/Scan/ffuf.md",
+    "Test main/Bug Bounty/API attack.md",
+    "Test main/Courses/SIP/PENTEST2.md",
+    "Test main/CTF/VM/vulnBegin.md",
+    "Test main/Courses/SIP/HTTP Headers.md",
+    "Test main/Courses/SIP/notes.md",
+    "Test main/Courses/OWASP - Web Security Academy Series/05. Basic Logic Vulnerabilities/Lab01 - Excessive trust in client-side controls.md",
+    "Test main/Courses/SIP",
     "Test main/Courses/API Security/Small courses/Path Traversal/TEST 1 1 1 1 1 1 1 1 1 1 1.md",
+    "Test main/Courses/API Security/Small courses/Insecure Cookies/TEST 1 1 1 1 1 1 1 1 1 1.md",
     "Test main/Courses/API Security/Small courses/Information Leak/TEST 1 1 1 1 1 1 1 1 1.md",
     "Test main/Courses/API Security/Small courses/Error Disclosure/TEST 1 1 1 1 1 1 1 1.md",
     "Test main/Courses/API Security/Small courses/Cross Origin Resource Sharing (CORS)/TEST 1 1 1 1 1 1 1.md",
@@ -239,10 +259,6 @@
     "Test main/Courses/OWASP - Web Security Academy Series/06. Information Disclosure/Resources/Information Disclosure Complete Guide Theory Video Slides.pdf",
     "Test main/Hacker Resources/Pentest Notebook.md",
     "TESTS.md",
-    "Test main/Python/resources.md",
-    "Test main/CTF/Tools/Scan/nmap.md",
-    "Test main/API/Hacking API's/Active Reconnaissance.md",
-    "Test main/Bug Bounty/API attack.md",
     "Test main/Courses/API Security/Small courses/Untitled",
     "Test main/Courses/API Security/Small courses/Path Traversal",
     "Test main/Courses/API Security/Small courses/Insecure Cookies",
@@ -251,10 +267,6 @@
     "Test main/Courses/API Security/Small courses/Error Disclosure",
     "Test main/Courses/API Security/Small courses/Cross Origin Resource Sharing (CORS)",
     "Test main/Courses/API Security/Securing API Servers",
-    "Test main/Courses/API Security/API Security for Connected Cars and Fleets",
-    "Test main/Courses/OWASP - Web Security Academy Series/06. Information Disclosure/Resources/Documentation.md",
-    "Test main/Courses/OWASP - Web Security Academy Series/07. Broken Access Control Vulnerabilities/Lab13 - Referer-based access control.md",
-    "Test main/Courses/OWASP - Web Security Academy Series/07. Broken Access Control Vulnerabilities/Lab12 - Multi-step process with no access control on one step.md",
     "Test main/Courses/OWASP - Web Security Academy Series/10. XXE Injection/Resources/test.svg",
     "test.svg",
     "Untitled.canvas"
