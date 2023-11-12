@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test main/Courses/SIP/PENTEST2.md",
+                "file": "Test main/Courses/SIP/Defensive Security Pathway/Lesson 2 - Security, Compliance & Monitoring Tools/Wordpress Defence.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ffuf",
+                "query": "sqlma",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test main/Courses/SIP/PENTEST2.md",
+                "file": "Test main/Courses/SIP/Defensive Security Pathway/Lesson 2 - Security, Compliance & Monitoring Tools/Wordpress Defence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test main/Courses/SIP/PENTEST2.md",
+                "file": "Test main/Courses/SIP/Defensive Security Pathway/Lesson 2 - Security, Compliance & Monitoring Tools/Wordpress Defence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test main/Courses/SIP/PENTEST2.md"
+                "file": "Test main/Courses/SIP/Defensive Security Pathway/Lesson 2 - Security, Compliance & Monitoring Tools/Wordpress Defence.md"
               }
             }
           },
@@ -231,11 +231,26 @@
   },
   "active": "7af90d0ae1e1819a",
   "lastOpenFiles": [
+    "Test main/Courses/SIP/Defensive Security Pathway/Lesson 2 - Security, Compliance & Monitoring Tools/Splunk.md",
+    "Test main/Courses/SIP/Defensive Security Pathway/Lesson 2 - Security, Compliance & Monitoring Tools/Wordpress Defence.md",
+    "Test main/Courses/SIP/Defensive Security Pathway/resources/SplunkFundamentals1_module5.pdf",
+    "Test main/Courses/SIP/Defensive Security Pathway/Lesson 2 - Security, Compliance & Monitoring Tools/Microsoft Sentinel/Microsoft Sentinel Overview.md",
+    "Test main/Courses/SIP/Defensive Security Pathway/Lesson 2 - Security, Compliance & Monitoring Tools/Microsoft Sentinel/Microsoft Sentinel Phases.md",
+    "Test main/Courses/SIP/Defensive Security Pathway/resources/Screenshot from 2023-11-12 10-23-20.png",
+    "Test main/Courses/SIP/Defensive Security Pathway/resources",
+    "Test main/Courses/SIP/Defensive Security Pathway/Lesson 2 - Security, Compliance & Monitoring Tools/Microsoft Sentinel",
+    "Test main/Courses/SIP/Defensive Security Pathway/Lesson 2 - Security, Compliance & Monitoring Tools/Microsoft 365 Security & Compliance.md",
+    "Test main/Courses/SIP/Defensive Security Pathway/Lesson 1 - Fundamental Knowledge/Networking Fundamentals.md",
+    "Test main/Courses/SIP/Defensive Security Pathway/Lesson 2 - Security, Compliance & Monitoring Tools",
+    "Test main/Courses/SIP/Defensive Security Pathway/Lesson 1 - Fundamental Knowledge/Bash Fundamentals.md",
+    "Test main/Courses/SIP/Defensive Security Pathway/Lesson 1 - Fundamental Knowledge",
+    "Test main/Courses/SIP/PENTEST2.md",
+    "Test main/Courses/SIP/HTTP Headers.md",
+    "Test main/Courses/SIP/Untitled",
+    "Test main/Courses/SIP/Defensive Security Pathway",
     "Test main/CTF/Tools/Scan/ffuf.md",
     "Test main/Bug Bounty/API attack.md",
-    "Test main/Courses/SIP/PENTEST2.md",
     "Test main/CTF/VM/vulnBegin.md",
-    "Test main/Courses/SIP/HTTP Headers.md",
     "Test main/Courses/SIP/notes.md",
     "Test main/Courses/OWASP - Web Security Academy Series/05. Basic Logic Vulnerabilities/Lab01 - Excessive trust in client-side controls.md",
     "Test main/Courses/SIP",
@@ -251,22 +266,8 @@
     "Test main/Courses/API Security/API Security for Connected Cars and Fleets/TEST 1 1.md",
     "Test main/Courses/API Security/API Penetration Testing/TEST 1.md",
     "Test main/Courses/API Security/API Documentation Best Practices/TEST.md",
-    "Test main/Courses/OWASP - Web Security Academy Series/06. Information Disclosure/Lab06 - Information bypass via information disclosure.md",
-    "Test main/Courses/OWASP - Web Security Academy Series/06. Information Disclosure/Lab04 - Authentication bypass via information disclosure.md",
-    "Test main/Courses/OWASP - Web Security Academy Series/06. Information Disclosure/Lab02 - Information disclosure on debug page.md",
-    "Test main/Courses/OWASP - Web Security Academy Series/06. Information Disclosure/Lab03 - Source code disclosure via backup files.md",
-    "Test main/Courses/OWASP - Web Security Academy Series/06. Information Disclosure/Lab01 - Information disclosure in error messages.md",
     "Test main/Courses/OWASP - Web Security Academy Series/06. Information Disclosure/Resources/Information Disclosure Complete Guide Theory Video Slides.pdf",
-    "Test main/Hacker Resources/Pentest Notebook.md",
-    "TESTS.md",
     "Test main/Courses/API Security/Small courses/Untitled",
-    "Test main/Courses/API Security/Small courses/Path Traversal",
-    "Test main/Courses/API Security/Small courses/Insecure Cookies",
-    "Test main/Courses/API Security/Small courses",
-    "Test main/Courses/API Security/Small courses/Information Leak",
-    "Test main/Courses/API Security/Small courses/Error Disclosure",
-    "Test main/Courses/API Security/Small courses/Cross Origin Resource Sharing (CORS)",
-    "Test main/Courses/API Security/Securing API Servers",
     "Test main/Courses/OWASP - Web Security Academy Series/10. XXE Injection/Resources/test.svg",
     "test.svg",
     "Untitled.canvas"
