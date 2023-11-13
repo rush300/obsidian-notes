@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test main/Courses/SIP/Defensive Security Pathway/Lesson 2 - Security, Compliance & Monitoring Tools/Wordpress Defence.md",
+                "file": "Test main/Bug Bounty/Recon/Reconnaissance.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test main/Courses/SIP/Defensive Security Pathway/Lesson 2 - Security, Compliance & Monitoring Tools/Wordpress Defence.md",
+                "file": "Test main/Bug Bounty/Recon/Reconnaissance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test main/Courses/SIP/Defensive Security Pathway/Lesson 2 - Security, Compliance & Monitoring Tools/Wordpress Defence.md",
+                "file": "Test main/Bug Bounty/Recon/Reconnaissance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test main/Courses/SIP/Defensive Security Pathway/Lesson 2 - Security, Compliance & Monitoring Tools/Wordpress Defence.md"
+                "file": "Test main/Bug Bounty/Recon/Reconnaissance.md"
               }
             }
           },
@@ -231,8 +231,13 @@
   },
   "active": "7af90d0ae1e1819a",
   "lastOpenFiles": [
-    "Test main/Courses/SIP/Defensive Security Pathway/Lesson 2 - Security, Compliance & Monitoring Tools/Splunk.md",
+    "Test main/CTF/Tools/Reverse shell/Reverse Shell Generator.md",
+    "Test main/Bug Bounty/Recon/Reconnaissance.md",
+    "Test main/Bug Bounty/Recon",
+    "Test main/CTF/Attacks/reverse-shell.md",
+    "Test main/CTF/Tools/Reverse shell",
     "Test main/Courses/SIP/Defensive Security Pathway/Lesson 2 - Security, Compliance & Monitoring Tools/Wordpress Defence.md",
+    "Test main/Courses/SIP/Defensive Security Pathway/Lesson 2 - Security, Compliance & Monitoring Tools/Splunk.md",
     "Test main/Courses/SIP/Defensive Security Pathway/resources/SplunkFundamentals1_module5.pdf",
     "Test main/Courses/SIP/Defensive Security Pathway/Lesson 2 - Security, Compliance & Monitoring Tools/Microsoft Sentinel/Microsoft Sentinel Overview.md",
     "Test main/Courses/SIP/Defensive Security Pathway/Lesson 2 - Security, Compliance & Monitoring Tools/Microsoft Sentinel/Microsoft Sentinel Phases.md",
@@ -263,11 +268,6 @@
     "Test main/Courses/API Security/OWASP API Top 10 & Beyond!/TEST 1 1 1 1 1.md",
     "Test main/Courses/API Security/API Security Fundamentals/TEST 1 1 1 1.md",
     "Test main/Courses/API Security/API Security for PCI Compliance/TEST 1 1 1.md",
-    "Test main/Courses/API Security/API Security for Connected Cars and Fleets/TEST 1 1.md",
-    "Test main/Courses/API Security/API Penetration Testing/TEST 1.md",
-    "Test main/Courses/API Security/API Documentation Best Practices/TEST.md",
-    "Test main/Courses/OWASP - Web Security Academy Series/06. Information Disclosure/Resources/Information Disclosure Complete Guide Theory Video Slides.pdf",
-    "Test main/Courses/API Security/Small courses/Untitled",
     "Test main/Courses/OWASP - Web Security Academy Series/10. XXE Injection/Resources/test.svg",
     "test.svg",
     "Untitled.canvas"
