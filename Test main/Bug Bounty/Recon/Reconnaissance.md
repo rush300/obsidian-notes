@@ -30,5 +30,41 @@ gotator -sub collected_subdomains.txt -perm ~/tools/g0ldenGun/alt_words.txt -dep
 
 puredns resolve subs_to_resolve.txt -r resolvers.txt --write valid_alt_domains.txt
 
+cat valid_alt_domains.txt collected_subdomains.txt | sort -u | anew final_list_subdomains.txt
+
 wc -l subfinder_subdomains.txt (returns line count)
+```
+# Endpoints enumeration
+
+## Passive
+Many services spidering the internet and making APIs of endpoints.
+Also waybackurl / archive.org that archive past versions of websites on the internet.
+You could go hit these services manual, or automate it yourself, but someone already did that!
+- gau
+- waymore
+As alsways search engine scraping is also a thing! Google, shodan, etc. PS I hope you all got your shodan memberships this past weekend!
+
+## Active
+Two ways
+- Spidering! -> Hakrawler / xnLinkfinder
+- Bruteforce -> FFUF is my preference.
+Wordlist choice for this is an ART FORM
+Assetnote and again check out jason haddix's most recent BBHM!
+
+## Commands
+```bash
+#passive endpoint with gau!
+gau --o domain_gau_urls.txt domain.com
+
+#Passive endpoint with waymore
+python3 waymore.py -i domain.com -mode B
+
+#Spidering with xnLinkFinder!
+python3 xnLinkFinder.py -i domain.com -o domain_spider.txt
+
+#Fuzzing with FFUF!
+ffuf -w /path/to/wordlist -u https://domain.com/FUZZ
+
+#Show endpoints count
+wc -l domain_gau_urls.txt
 ```
