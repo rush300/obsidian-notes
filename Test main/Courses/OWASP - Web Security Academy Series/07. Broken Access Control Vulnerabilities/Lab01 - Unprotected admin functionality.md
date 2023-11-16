@@ -1,5 +1,7 @@
 Target Goal - Find the admin panel and delete the user carlos
 
+Fuzz for domain.com/path
+
 Analysis:
 
 ```python

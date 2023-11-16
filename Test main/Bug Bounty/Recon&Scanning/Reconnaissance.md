@@ -22,7 +22,8 @@ subfinder -d domain.com -silent -t 100 -nc -all > subfinder_subdomains.txt
 
 crobat -s domain.com > crobat_subdomains.txt
 
-puredns bruteforce ~/tools/g0ldenGun/subdomain_wordlist.txt domain.com -w puredns_bf_domains.txt -r ~/tools/g0ldenGun/resolvers.txt
+*Try to use dnsx instead of puredns!*
+[puredns bruteforce ~/tools/g0ldenGun/subdomain_wordlist.txt domain.com -w puredns_bf_domains.txt -r ~/tools/g0ldenGun/resolvers.txt]
 
 cat amass_subdomains.txt subfinder_subdomains.txt crobat_subdomains.txt puredns_bf_domains.txt | sort -u | anew collected_subdomains.txt
 
