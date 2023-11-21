@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test main/Courses/OWASP - Web Security Academy Series/11. Cross-Site Scripting (XSS)/Resources/Cross-Site Scripting (XSS) Cheat Sheet.md",
+                "file": "Test main/Courses/TheOdinProjectNotes/HTML and CSS/The Cascade.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test main/Courses/OWASP - Web Security Academy Series/11. Cross-Site Scripting (XSS)/Resources/Cross-Site Scripting (XSS) Cheat Sheet.md",
+                "file": "Test main/Courses/TheOdinProjectNotes/HTML and CSS/The Cascade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test main/Courses/OWASP - Web Security Academy Series/11. Cross-Site Scripting (XSS)/Resources/Cross-Site Scripting (XSS) Cheat Sheet.md",
+                "file": "Test main/Courses/TheOdinProjectNotes/HTML and CSS/The Cascade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test main/Courses/OWASP - Web Security Academy Series/11. Cross-Site Scripting (XSS)/Resources/Cross-Site Scripting (XSS) Cheat Sheet.md"
+                "file": "Test main/Courses/TheOdinProjectNotes/HTML and CSS/The Cascade.md"
               }
             }
           },
@@ -158,8 +158,10 @@
   },
   "active": "d6391342f1ae5d50",
   "lastOpenFiles": [
-    "Test main/Courses/OWASP - Web Security Academy Series/11. Cross-Site Scripting (XSS)/Resources/Documentation.md",
+    "Test main/Courses/TheOdinProjectNotes/HTML and CSS/Intro to CSS.md",
+    "Test main/Courses/TheOdinProjectNotes/HTML and CSS/The Cascade.md",
     "Test main/Courses/OWASP - Web Security Academy Series/11. Cross-Site Scripting (XSS)/Resources/Cross-Site Scripting (XSS) Cheat Sheet.md",
+    "Test main/Courses/OWASP - Web Security Academy Series/11. Cross-Site Scripting (XSS)/Resources/Documentation.md",
     "Test main/Courses/OWASP - Web Security Academy Series/11. Cross-Site Scripting (XSS)/Lab01 - Reflected XSS into HTML context with nothing encoded.md",
     "Test main/Courses/TheOdinProjectNotes/HTML and CSS/HTML Boilerplate.md",
     "Test main/Courses/TheOdinProjectNotes/HTML and CSS/Elements and Tags.md",
@@ -189,8 +191,6 @@
     "Test main/Bug Bounty/Tools/firefox extensions/Multi-Account Containers.md",
     "Test main/Bug Bounty/Tools/firefox extensions/ModHeader.md",
     "Test main/Bug Bounty/Tools/firefox extensions",
-    "Test main/Bug Bounty/Recon&Scanning/Reconnaissance.md",
-    "Test main/Courses/OWASP - Web Security Academy Series/07. Broken Access Control Vulnerabilities/Lab04 - User role can be modified in user profile.md",
     "Test main/Bug Bounty/Automation",
     "Test main/Bug Bounty/Tools/OWASP Amass",
     "Test main/Bug Bounty/Attacks",
