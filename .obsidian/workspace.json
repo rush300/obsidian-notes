@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test main/Courses/TheOdinProjectNotes/Git Basics.md",
+                "file": "Test main/Courses/OWASP - Web Security Academy Series/11. Cross-Site Scripting (XSS)/Resources/Cross-Site Scripting (XSS) Cheat Sheet.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test main/Courses/TheOdinProjectNotes/Git Basics.md",
+                "file": "Test main/Courses/OWASP - Web Security Academy Series/11. Cross-Site Scripting (XSS)/Resources/Cross-Site Scripting (XSS) Cheat Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test main/Courses/TheOdinProjectNotes/Git Basics.md",
+                "file": "Test main/Courses/OWASP - Web Security Academy Series/11. Cross-Site Scripting (XSS)/Resources/Cross-Site Scripting (XSS) Cheat Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test main/Courses/TheOdinProjectNotes/Git Basics.md"
+                "file": "Test main/Courses/OWASP - Web Security Academy Series/11. Cross-Site Scripting (XSS)/Resources/Cross-Site Scripting (XSS) Cheat Sheet.md"
               }
             }
           },
@@ -158,14 +158,20 @@
   },
   "active": "d6391342f1ae5d50",
   "lastOpenFiles": [
-    "Test main/Courses/TheOdinProjectNotes/Git Intro.md",
-    "Test main/Courses/TheOdinProjectNotes/Git Basics.md",
-    "Test main/Courses/TheOdinProjectNotes/Git and github config.md",
+    "Test main/Courses/OWASP - Web Security Academy Series/11. Cross-Site Scripting (XSS)/Resources/Documentation.md",
+    "Test main/Courses/OWASP - Web Security Academy Series/11. Cross-Site Scripting (XSS)/Resources/Cross-Site Scripting (XSS) Cheat Sheet.md",
+    "Test main/Courses/OWASP - Web Security Academy Series/11. Cross-Site Scripting (XSS)/Lab01 - Reflected XSS into HTML context with nothing encoded.md",
+    "Test main/Courses/TheOdinProjectNotes/HTML and CSS/HTML Boilerplate.md",
+    "Test main/Courses/TheOdinProjectNotes/HTML and CSS/Elements and Tags.md",
+    "Test main/Courses/TheOdinProjectNotes/HTML and CSS/Introduction.md",
+    "Test main/Courses/TheOdinProjectNotes/Git/Intro.md",
+    "Test main/Courses/TheOdinProjectNotes/HTML and CSS",
+    "Test main/Courses/TheOdinProjectNotes/Git/Basics.md",
+    "Test main/Courses/TheOdinProjectNotes/Git/Config.md",
+    "Test main/Courses/TheOdinProjectNotes/Git",
     "Test main/API/Hacking API's/Lab Setup.md",
     "Test main/Courses/TheOdinProjectNotes",
     "Test main/Courses/SIP/Defensive Security Pathway/Lesson 1 - Fundamental Knowledge/Bash Fundamentals.md",
-    "Test main/Courses/OWASP - Web Security Academy Series/11. Cross-Site Scripting (XSS)/Lab01 - Reflected XSS into HTML context with nothing encoded.md",
-    "Test main/Courses/OWASP - Web Security Academy Series/11. Cross-Site Scripting (XSS)/Resources/Documentation.md",
     "Test main/Courses/OWASP - Web Security Academy Series/11. Cross-Site Scripting (XSS)/Resources/XSS Complete Guide Theory Video Slides.pdf",
     "Test main/Courses/OWASP - Web Security Academy Series/10. XXE Injection/Resources/Documentation.md",
     "Test main/Courses/OWASP - Web Security Academy Series/11. Cross-Site Scripting (XSS)/Resources",
@@ -185,15 +191,9 @@
     "Test main/Bug Bounty/Tools/firefox extensions",
     "Test main/Bug Bounty/Recon&Scanning/Reconnaissance.md",
     "Test main/Courses/OWASP - Web Security Academy Series/07. Broken Access Control Vulnerabilities/Lab04 - User role can be modified in user profile.md",
-    "Test main/Courses/OWASP - Web Security Academy Series/07. Broken Access Control Vulnerabilities/Lab03 - User role controlled by request parameter.md",
-    "Test main/Courses/OWASP - Web Security Academy Series/07. Broken Access Control Vulnerabilities/Lab02 - Unprotected admin functionality with unpredictable URL.md",
-    "Test main/Courses/OWASP - Web Security Academy Series/07. Broken Access Control Vulnerabilities/Lab01 - Unprotected admin functionality.md",
-    "Test main/Courses/OWASP - Web Security Academy Series/05. Business Logic Vulnerabilities/Documentation.md",
     "Test main/Bug Bounty/Automation",
     "Test main/Bug Bounty/Tools/OWASP Amass",
     "Test main/Bug Bounty/Attacks",
-    "Test main/Bug Bounty/Tools/OWASP Amass/resources/config.ini.txt",
-    "Test main/Bug Bounty/Tools/OWASP Amass/resources/config 2.ini",
     "Test main/Courses/SIP/Defensive Security Pathway/resources/Screenshot from 2023-11-12 10-23-20.png",
     "Test main/Courses/OWASP - Web Security Academy Series/10. XXE Injection/Resources/test.svg",
     "test.svg",
