@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test main/Courses/TheOdinProjectNotes/Javascript/Fundamentals Part 3.md",
+                "file": "Test main/Courses/Docker Mastery/Docker containers.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "python3 http",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 684.5
+    "width": 306.5
   },
   "right": {
     "id": "490f505b4dacfcb1",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test main/Courses/TheOdinProjectNotes/Javascript/Fundamentals Part 3.md",
+                "file": "Test main/Courses/Docker Mastery/Docker containers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test main/Courses/TheOdinProjectNotes/Javascript/Fundamentals Part 3.md",
+                "file": "Test main/Courses/Docker Mastery/Docker containers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test main/Courses/TheOdinProjectNotes/Javascript/Fundamentals Part 3.md"
+                "file": "Test main/Courses/Docker Mastery/Docker containers.md"
               }
             }
           },
@@ -158,8 +158,17 @@
   },
   "active": "d6391342f1ae5d50",
   "lastOpenFiles": [
-    "Test main/Courses/TheOdinProjectNotes/Javascript/JavaScript Developer Tools.md",
+    "Test main/Courses/Docker Mastery/Install/Install Docker for Desktop.md",
+    "Test main/Courses/Docker Mastery/Docker containers.md",
+    "Test main/Courses/Docker Mastery/Install",
+    "Test main/Courses/Docker Mastery/Install/Install Docker Engine on Alpine Linux.md",
+    "Test main/Courses/Docker Mastery/Docker cheatsheet.md",
+    "Test main/Courses/Docker Mastery/Files/Docker_CheatSheet_08.09.2016_0.pdf",
+    "Test main/Courses/Docker Mastery/Files",
+    "Test main/Courses/Docker Mastery/Docker playground.md",
     "Test main/Courses/TheOdinProjectNotes/Javascript/Fundamentals Part 3.md",
+    "Test main/Courses/Docker Mastery",
+    "Test main/Courses/TheOdinProjectNotes/Javascript/JavaScript Developer Tools.md",
     "Test main/Courses/TheOdinProjectNotes/Javascript/Fundamentals Part 2.md",
     "Test main/Courses/TheOdinProjectNotes/Javascript/Fundamentals Part 1.md",
     "Test main/CTF/Tools/http server.md",
@@ -185,15 +194,6 @@
     "Test main/Courses/OWASP - Web Security Academy Series/11. Cross-Site Scripting (XSS)/Resources",
     "Test main/Courses/OWASP - Web Security Academy Series/01. SQL Injection/Lab01 - SQL injection vulnerability in WHERE clause allowing retrieval of hidden data.md",
     "Test main/Bug Bounty/Tools/Notes Template.md",
-    "Test main/Bug Bounty/Tools/wordlists.md",
-    "Test main/Bug Bounty/Tools/Monitoring/CVE Trends.md",
-    "Test main/Bug Bounty/Tools/Monitoring",
-    "Test main/CTF/VM/SIP.md",
-    "Test main/Bug Bounty/Tools/firefox extensions/Open Multiple URLs by ht.md",
-    "Test main/Bug Bounty/Tools/firefox extensions/Cookie Editor.md",
-    "Test main/Bug Bounty/Tools/firefox extensions",
-    "Test main/Bug Bounty/Automation",
-    "Test main/Bug Bounty/Tools/OWASP Amass",
     "Test main/Courses/SIP/Defensive Security Pathway/resources/Screenshot from 2023-11-12 10-23-20.png",
     "Test main/Courses/OWASP - Web Security Academy Series/10. XXE Injection/Resources/test.svg",
     "test.svg",
