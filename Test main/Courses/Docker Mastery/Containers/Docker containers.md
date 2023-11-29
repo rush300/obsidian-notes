@@ -39,4 +39,12 @@ docker image ls
 
 #Show container logs
 docker container logs webhost
+docker container logs --follow monerod
+
+#CLI Testing (--rm Automatically remove the container when it exits)
+docker container run --rm -it centos:7 bash
+yum update curl
+
+docker container run --rm -it ubuntu:14.04 bash
+apt-get update && apt-get install -y curl
 ```

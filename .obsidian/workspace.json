@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test main/Courses/Docker Mastery/Docker containers.md",
+                "file": "Test main/Courses/Docker Mastery/Containers/Docker containers.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test main/Courses/Docker Mastery/Docker containers.md",
+                "file": "Test main/Courses/Docker Mastery/Containers/Docker containers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test main/Courses/Docker Mastery/Docker containers.md",
+                "file": "Test main/Courses/Docker Mastery/Containers/Docker containers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test main/Courses/Docker Mastery/Docker containers.md"
+                "file": "Test main/Courses/Docker Mastery/Containers/Docker containers.md"
               }
             }
           },
@@ -158,8 +158,13 @@
   },
   "active": "d6391342f1ae5d50",
   "lastOpenFiles": [
+    "Test main/Courses/Docker Mastery/Containers/Docker Networks.md",
+    "Test main/Courses/Docker Mastery/Containers/Docker containers.md",
+    "Test main/Courses/Docker Mastery/Networks/Docker Networks DNS.md",
+    "Test main/Courses/Docker Mastery/Networks",
+    "Test main/Courses/Docker Mastery/Containers/Getting a Shell inside containers.md",
+    "Test main/Courses/Docker Mastery/Containers",
     "Test main/Courses/Docker Mastery/Install/Install Docker for Desktop.md",
-    "Test main/Courses/Docker Mastery/Docker containers.md",
     "Test main/Courses/Docker Mastery/Install",
     "Test main/Courses/Docker Mastery/Install/Install Docker Engine on Alpine Linux.md",
     "Test main/Courses/Docker Mastery/Docker cheatsheet.md",
@@ -189,11 +194,6 @@
     "Test main/API/Hacking API's/Lab Setup.md",
     "Test main/Courses/TheOdinProjectNotes",
     "Test main/Courses/SIP/Defensive Security Pathway/Lesson 1 - Fundamental Knowledge/Bash Fundamentals.md",
-    "Test main/Courses/OWASP - Web Security Academy Series/11. Cross-Site Scripting (XSS)/Resources/XSS Complete Guide Theory Video Slides.pdf",
-    "Test main/Courses/OWASP - Web Security Academy Series/10. XXE Injection/Resources/Documentation.md",
-    "Test main/Courses/OWASP - Web Security Academy Series/11. Cross-Site Scripting (XSS)/Resources",
-    "Test main/Courses/OWASP - Web Security Academy Series/01. SQL Injection/Lab01 - SQL injection vulnerability in WHERE clause allowing retrieval of hidden data.md",
-    "Test main/Bug Bounty/Tools/Notes Template.md",
     "Test main/Courses/SIP/Defensive Security Pathway/resources/Screenshot from 2023-11-12 10-23-20.png",
     "Test main/Courses/OWASP - Web Security Academy Series/10. XXE Injection/Resources/test.svg",
     "test.svg",
