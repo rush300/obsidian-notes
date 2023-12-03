@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test main/Courses/TheOdinProjectNotes/Javascript/DOM Manipulation and Events.md",
+                "file": "Test main/Courses/Docker Mastery/Docker playground.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test main/Courses/TheOdinProjectNotes/Javascript/DOM Manipulation and Events.md",
+                "file": "Test main/Courses/Docker Mastery/Docker playground.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test main/Courses/TheOdinProjectNotes/Javascript/DOM Manipulation and Events.md",
+                "file": "Test main/Courses/Docker Mastery/Docker playground.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test main/Courses/TheOdinProjectNotes/Javascript/DOM Manipulation and Events.md"
+                "file": "Test main/Courses/Docker Mastery/Docker playground.md"
               }
             }
           },
@@ -156,10 +156,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d6391342f1ae5d50",
+  "active": "3846bce75300a045",
   "lastOpenFiles": [
-    "Test main/Courses/TheOdinProjectNotes/Javascript/Fundamentals Part 4.md",
     "Test main/Courses/TheOdinProjectNotes/Javascript/DOM Manipulation and Events.md",
+    "Test main/Courses/TheOdinProjectNotes/Javascript/Fundamentals Part 4.md",
     "Test main/Courses/TheOdinProjectNotes/Javascript/Installing Node.js.md",
     "Test main/Courses/Docker Mastery/Part 1/Assignments/Bind Mounts.md",
     "Test main/Courses/Docker Mastery/Part 2/Docker Compose",
