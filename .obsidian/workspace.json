@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test main/Courses/Docker Mastery/Part 2/Docker Compose/Overview.md",
+                "file": "Test main/Courses/TheOdinProjectNotes/Javascript/TEST.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test main/Courses/Docker Mastery/Part 2/Docker Compose/Overview.md",
+                "file": "Test main/Courses/TheOdinProjectNotes/Javascript/TEST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test main/Courses/Docker Mastery/Part 2/Docker Compose/Overview.md",
+                "file": "Test main/Courses/TheOdinProjectNotes/Javascript/TEST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test main/Courses/Docker Mastery/Part 2/Docker Compose/Overview.md"
+                "file": "Test main/Courses/TheOdinProjectNotes/Javascript/TEST.md"
               }
             }
           },
@@ -158,11 +158,12 @@
   },
   "active": "d6391342f1ae5d50",
   "lastOpenFiles": [
-    "Test main/Courses/TheOdinProjectNotes/Javascript/Fundamentals Part 1.md",
+    "Test main/Courses/TheOdinProjectNotes/Javascript/DOM Manipulation and Events.md",
+    "Test main/Courses/TheOdinProjectNotes/Javascript/TEST.md",
     "Test main/Courses/Docker Mastery/Part 2/Docker Compose/Overview.md",
+    "Test main/Courses/TheOdinProjectNotes/Javascript/Fundamentals Part 1.md",
     "Test main/Courses/Docker Mastery/Part 2/Untitled.md",
     "Test main/Courses/Docker Mastery/Docker playground.md",
-    "Test main/Courses/TheOdinProjectNotes/Javascript/DOM Manipulation and Events.md",
     "Test main/Courses/TheOdinProjectNotes/Javascript/Fundamentals Part 4.md",
     "Test main/Courses/TheOdinProjectNotes/Javascript/Installing Node.js.md",
     "Test main/Courses/Docker Mastery/Part 1/Assignments/Bind Mounts.md",
@@ -189,7 +190,6 @@
     "Test main/Courses/Docker Mastery/Part 1/Images",
     "Test main/Courses/Docker Mastery/Part 1/Assignments/CLI App Testing.md",
     "Test main/Courses/Docker Mastery/Part 1/Assignments",
-    "Test main/Courses/Docker Mastery/Networks/Docker Networks DNS.md",
     "Test main/Courses/Docker Mastery/Networks",
     "Test main/Courses/Docker Mastery/Part 1/Containers",
     "Test main/Courses/Docker Mastery/Part 1/Install",
