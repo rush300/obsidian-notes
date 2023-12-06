@@ -1,0 +1,3 @@
+In the next lecture, you'll start one of two Compose assignments in this Section. This first one should be done in the `compose-assignment-1` directory from the [source code repository](https://code.dockermastery.com) you cloned at the start of the course. In the answer video to that assignment, I mistakenly use the compose-assignment-2 directory, so pretend my directory ends in a one 🤭.
+
+Note that these two Compose assignment lectures are named according to the directory they use, to help avoid confusion.

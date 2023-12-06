@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test main/Courses/TheOdinProjectNotes/Javascript/TEST.md",
+                "file": "Test main/Courses/Docker Mastery/Part 2 Docker Compose/Docker Compose/Assignments/Build a Compose File a Multi-Container Project.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5
+    "width": 529.5
   },
   "right": {
     "id": "490f505b4dacfcb1",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test main/Courses/TheOdinProjectNotes/Javascript/TEST.md",
+                "file": "Test main/Courses/Docker Mastery/Part 2 Docker Compose/Docker Compose/Assignments/Build a Compose File a Multi-Container Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test main/Courses/TheOdinProjectNotes/Javascript/TEST.md",
+                "file": "Test main/Courses/Docker Mastery/Part 2 Docker Compose/Docker Compose/Assignments/Build a Compose File a Multi-Container Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test main/Courses/TheOdinProjectNotes/Javascript/TEST.md"
+                "file": "Test main/Courses/Docker Mastery/Part 2 Docker Compose/Docker Compose/Assignments/Build a Compose File a Multi-Container Project.md"
               }
             }
           },
@@ -158,42 +158,42 @@
   },
   "active": "d6391342f1ae5d50",
   "lastOpenFiles": [
+    "Test main/Courses/Docker Mastery/Part 2 Docker Compose/Docker Compose/Assignments/Compose Assignments.md",
+    "Test main/Courses/Docker Mastery/Part 2 Docker Compose/Docker Compose/Assignments/Build a Compose File a Multi-Container Project.md",
+    "Test main/Courses/Docker Mastery/Part 2 Docker Compose/Docker Compose/Assignments",
+    "Test main/Courses/Docker Mastery/Part 2 Docker Compose/Docker Compose/Overview.md",
+    "Test main/Courses/OWASP - Web Security Academy Series/11. Cross-Site Scripting (XSS)/Resources/ghettoBypass.md",
+    "Test main/Courses/OWASP - Web Security Academy Series/11. Cross-Site Scripting (XSS)/Resources/Cross-Site Scripting (XSS) Cheat Sheet.md",
+    "Test main/Courses/OWASP - Web Security Academy Series/11. Cross-Site Scripting (XSS)/Resources/ghettoBypass",
+    "Test main/Courses/OWASP - Web Security Academy Series/11. Cross-Site Scripting (XSS)/Resources/Documentation.md",
+    "Test main/Courses/OWASP - Web Security Academy Series/11. Cross-Site Scripting (XSS)/Resources/Labs-Reflected/Reflected XSS.md",
+    "Test main/Courses/OWASP - Web Security Academy Series/11. Cross-Site Scripting (XSS)/Resources/XSS Complete Guide Theory Video Slides.pdf",
+    "Test main/Courses/OWASP - Web Security Academy Series/11. Cross-Site Scripting (XSS)/Resources/Labs-Reflected",
+    "Test main/Hacker Resources/Playground.md",
+    "Test main/Bug Bounty/Tools/Notes Template.md",
+    "Test main/Courses/TheOdinProjectNotes/Javascript/Fundamentals/Fundamentals Part 5.md",
+    "Test main/Courses/TheOdinProjectNotes/Javascript/Fundamentals/Revisiting Rock Paper Scissors.md",
+    "Test main/Courses/TheOdinProjectNotes/Javascript/Understanding Callbacks.md",
+    "Test main/Courses/TheOdinProjectNotes/Javascript/Fundamentals",
     "Test main/Courses/TheOdinProjectNotes/Javascript/DOM Manipulation and Events.md",
-    "Test main/Courses/TheOdinProjectNotes/Javascript/TEST.md",
-    "Test main/Courses/Docker Mastery/Part 2/Docker Compose/Overview.md",
-    "Test main/Courses/TheOdinProjectNotes/Javascript/Fundamentals Part 1.md",
+    "Test main/Courses/TheOdinProjectNotes/Javascript/Fundamentals/Fundamentals Part 1.md",
     "Test main/Courses/Docker Mastery/Part 2/Untitled.md",
     "Test main/Courses/Docker Mastery/Docker playground.md",
-    "Test main/Courses/TheOdinProjectNotes/Javascript/Fundamentals Part 4.md",
+    "Test main/Courses/TheOdinProjectNotes/Javascript/Fundamentals/Fundamentals Part 4.md",
     "Test main/Courses/TheOdinProjectNotes/Javascript/Installing Node.js.md",
-    "Test main/Courses/Docker Mastery/Part 1/Assignments/Bind Mounts.md",
-    "Test main/Courses/Docker Mastery/Part 2/Docker Compose",
-    "Test main/Courses/Docker Mastery/Part 2",
-    "Test main/Courses/Docker Mastery/Part 1",
-    "Test main/Courses/Docker Mastery/Part 1/Containers/File Permissions Across Multiple Containers.md",
-    "Test main/Courses/Docker Mastery/Part 1/Assignments/Named Volumes.md",
-    "Test main/Courses/Docker Mastery/Part 1/Volumes/Overview.md",
-    "Test main/Courses/Docker Mastery/Part 1/Volumes/Bind Mounting.md",
-    "Test main/Courses/Docker Mastery/Part 1/Containers/Overview.md",
-    "Test main/Courses/Docker Mastery/Part 1/Containers/Database Passwords in Containers.md",
-    "Test main/Courses/Docker Mastery/Part 1/Volumes",
-    "Test main/Courses/Docker Mastery/Part 1/Docker cheatsheet.md",
-    "Test main/Courses/Docker Mastery/Part 1/Images/Overview.md",
-    "Test main/Courses/Docker Mastery/Part 1/Images/The Dockerfile.md",
-    "Test main/Courses/Docker Mastery/Images/Hub Registry.md",
-    "Test main/Courses/Docker Mastery/Images/Images Layers.md",
-    "Test main/Courses/Docker Mastery/Images/What's In An Image.md",
-    "Test main/Courses/Docker Mastery/Containers/Docker containers.md",
-    "Test main/Courses/Docker Mastery/Containers/Getting a Shell inside containers.md",
-    "Test main/Courses/Docker Mastery/Containers/Docker Networks.md",
-    "Test main/Courses/Docker Mastery/Part 1/Assignments/DNS Round Robin Test.md",
-    "Test main/Courses/Docker Mastery/Part 1/Images",
-    "Test main/Courses/Docker Mastery/Part 1/Assignments/CLI App Testing.md",
-    "Test main/Courses/Docker Mastery/Part 1/Assignments",
-    "Test main/Courses/Docker Mastery/Networks",
-    "Test main/Courses/Docker Mastery/Part 1/Containers",
-    "Test main/Courses/Docker Mastery/Part 1/Install",
-    "Test main/Courses/Docker Mastery/Part 1/Files/Docker_CheatSheet_08.09.2016_0.pdf",
+    "Test main/Courses/Docker Mastery/Part 1 Docker Basics/Assignments/Bind Mounts.md",
+    "Test main/Courses/Docker Mastery/Part 2 Docker Compose/Docker Compose",
+    "Test main/Courses/Docker Mastery/Part 2 Docker Compose",
+    "Test main/Courses/Docker Mastery/Part 1 Docker Basics",
+    "Test main/Courses/Docker Mastery/Part 1 Docker Basics/Containers/File Permissions Across Multiple Containers.md",
+    "Test main/Courses/Docker Mastery/Part 1 Docker Basics/Assignments/Named Volumes.md",
+    "Test main/Courses/Docker Mastery/Part 1 Docker Basics/Volumes/Overview.md",
+    "Test main/Courses/Docker Mastery/Part 1 Docker Basics/Volumes/Bind Mounting.md",
+    "Test main/Courses/Docker Mastery/Part 1 Docker Basics/Containers/Overview.md",
+    "Test main/Courses/Docker Mastery/Part 1 Docker Basics/Containers/Database Passwords in Containers.md",
+    "Test main/Courses/Docker Mastery/Part 1 Docker Basics/Volumes",
+    "Test main/Courses/Docker Mastery/Part 1 Docker Basics/Docker cheatsheet.md",
+    "Test main/Courses/Docker Mastery/Part 1 Docker Basics/Images",
     "Test main/Courses/SIP/Defensive Security Pathway/resources/Screenshot from 2023-11-12 10-23-20.png",
     "Test main/Courses/OWASP - Web Security Academy Series/10. XXE Injection/Resources/test.svg",
     "test.svg",
