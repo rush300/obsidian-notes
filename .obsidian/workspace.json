@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test main/Courses/TheOdinProjectNotes/Javascript/TEST.md",
+                "file": "Test main/CTF/Boxes/secret.htb/API.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5
+    "width": 437.5
   },
   "right": {
     "id": "490f505b4dacfcb1",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test main/Courses/TheOdinProjectNotes/Javascript/TEST.md",
+                "file": "Test main/CTF/Boxes/secret.htb/API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test main/Courses/TheOdinProjectNotes/Javascript/TEST.md",
+                "file": "Test main/CTF/Boxes/secret.htb/API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test main/Courses/TheOdinProjectNotes/Javascript/TEST.md"
+                "file": "Test main/CTF/Boxes/secret.htb/API.md"
               }
             }
           },
@@ -156,14 +156,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d6391342f1ae5d50",
+  "active": "3846bce75300a045",
   "lastOpenFiles": [
-    "Test main/Courses/TheOdinProjectNotes/Javascript/DOM Manipulation and Events.md",
+    "Test main/Courses/API Security/API Penetration Testing/Lab Setup.md",
+    "Test main/CTF/Boxes/secret.htb/API.md",
+    "Test main/CTF/Boxes/secret.htb",
+    "Test main/Courses/API Security/API Penetration Testing/TEST 1.md",
+    "Test main/Courses/Docker Mastery/Part 1/Containers/Overview.md",
+    "Test main/API/Hacking API's/Lab Setup.md",
+    "Test main/API/Hacking API's/Burp.md",
+    "Test main/API/bug-bounty program.md",
+    "Test main/API/Penetration testing.md",
+    "Test main/API/resources.md",
+    "Test main/Courses/API Security/API Documentation Best Practices/TEST.md",
     "Test main/Courses/TheOdinProjectNotes/Javascript/TEST.md",
     "Test main/Courses/Docker Mastery/Part 2/Docker Compose/Overview.md",
     "Test main/Courses/TheOdinProjectNotes/Javascript/Fundamentals Part 1.md",
     "Test main/Courses/Docker Mastery/Part 2/Untitled.md",
     "Test main/Courses/Docker Mastery/Docker playground.md",
+    "Test main/Courses/TheOdinProjectNotes/Javascript/DOM Manipulation and Events.md",
     "Test main/Courses/TheOdinProjectNotes/Javascript/Fundamentals Part 4.md",
     "Test main/Courses/TheOdinProjectNotes/Javascript/Installing Node.js.md",
     "Test main/Courses/Docker Mastery/Part 1/Assignments/Bind Mounts.md",
@@ -174,26 +185,15 @@
     "Test main/Courses/Docker Mastery/Part 1/Assignments/Named Volumes.md",
     "Test main/Courses/Docker Mastery/Part 1/Volumes/Overview.md",
     "Test main/Courses/Docker Mastery/Part 1/Volumes/Bind Mounting.md",
-    "Test main/Courses/Docker Mastery/Part 1/Containers/Overview.md",
     "Test main/Courses/Docker Mastery/Part 1/Containers/Database Passwords in Containers.md",
     "Test main/Courses/Docker Mastery/Part 1/Volumes",
     "Test main/Courses/Docker Mastery/Part 1/Docker cheatsheet.md",
     "Test main/Courses/Docker Mastery/Part 1/Images/Overview.md",
-    "Test main/Courses/Docker Mastery/Part 1/Images/The Dockerfile.md",
-    "Test main/Courses/Docker Mastery/Images/Hub Registry.md",
-    "Test main/Courses/Docker Mastery/Images/Images Layers.md",
-    "Test main/Courses/Docker Mastery/Images/What's In An Image.md",
-    "Test main/Courses/Docker Mastery/Containers/Docker containers.md",
-    "Test main/Courses/Docker Mastery/Containers/Getting a Shell inside containers.md",
-    "Test main/Courses/Docker Mastery/Containers/Docker Networks.md",
-    "Test main/Courses/Docker Mastery/Part 1/Assignments/DNS Round Robin Test.md",
     "Test main/Courses/Docker Mastery/Part 1/Images",
-    "Test main/Courses/Docker Mastery/Part 1/Assignments/CLI App Testing.md",
     "Test main/Courses/Docker Mastery/Part 1/Assignments",
     "Test main/Courses/Docker Mastery/Networks",
     "Test main/Courses/Docker Mastery/Part 1/Containers",
     "Test main/Courses/Docker Mastery/Part 1/Install",
-    "Test main/Courses/Docker Mastery/Part 1/Files/Docker_CheatSheet_08.09.2016_0.pdf",
     "Test main/Courses/SIP/Defensive Security Pathway/resources/Screenshot from 2023-11-12 10-23-20.png",
     "Test main/Courses/OWASP - Web Security Academy Series/10. XXE Injection/Resources/test.svg",
     "test.svg",
