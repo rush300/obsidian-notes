@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test main/CTF/Boxes/secret.htb/API.md",
+                "file": "Test main/Courses/API Security/API Penetration Testing/Active Reconnaissance.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "hash",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 529.5
+    "width": 437.5
   },
   "right": {
     "id": "490f505b4dacfcb1",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test main/CTF/Boxes/secret.htb/API.md",
+                "file": "Test main/Courses/API Security/API Penetration Testing/Active Reconnaissance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test main/CTF/Boxes/secret.htb/API.md",
+                "file": "Test main/Courses/API Security/API Penetration Testing/Active Reconnaissance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test main/CTF/Boxes/secret.htb/API.md"
+                "file": "Test main/Courses/API Security/API Penetration Testing/Active Reconnaissance.md"
               }
             }
           },
@@ -158,42 +158,42 @@
   },
   "active": "d6391342f1ae5d50",
   "lastOpenFiles": [
-    "Test main/Courses/OWASP - Web Security Academy Series/09. Server-Side Request Forgery (SSRF)/Lab01 - Basic SSRF against a local server.md",
-    "Test main/Courses/API Security/API Penetration Testing/Lab Setup.md",
+    "Test main/Courses/API Security/API Penetration Testing/Introduction.md",
+    "Test main/Courses/API Security/API Penetration Testing/Active Reconnaissance.md",
+    "Test main/Courses/API Security/API Penetration Testing/Passive Reconnaissance.md",
+    "Test main/API/Hacking API's/Active Reconnaissance.md",
+    "Test main/API/Penetration testing.md",
+    "Test main/API/bug-bounty program.md",
+    "Test main/API/Hacking API's/Lab Setup.md",
+    "Test main/API/Hacking API's/API Attacks.md",
+    "Test main/CTF/Tools/Crack/hashcat.md",
+    "Test main/CTF/Tools/Crack/haiti.md",
+    "Test main/CTF/Tools/Crack/john.md",
+    "Test main/CTF/Attacks/JWT_Tool.md",
+    "Test main/Bug Bounty/Attacks/API attack.md",
     "Test main/CTF/Boxes/secret.htb/API.md",
-    "Test main/CTF/Boxes/wekor.thm.md",
-    "Test main/CTF/Boxes/vulnnetendgame.md",
-    "Test main/CTF/Boxes/vulnBegin.md",
-    "Test main/CTF/Boxes/thm-tech.md",
-    "Test main/CTF/Boxes/secret.htb",
-    "Test main/CTF/Boxes/SIP.md",
-    "Test main/CTF/Boxes",
-    "Test main/Courses/OWASP - Web Security Academy Series/11. Cross-Site Scripting (XSS)/Lab01 - Reflected XSS into HTML context with nothing encoded.md",
-    "Test main/Courses/OWASP - Web Security Academy Series/11. Cross-Site Scripting (XSS)/Resources/Cross-Site Scripting (XSS) Cheat Sheet.md",
-    "Test main/Courses/Docker Mastery/Part 2 Docker Compose/Docker Compose/Assignments/Build a Compose File a Multi-Container Project.md",
-    "Test main/Courses/Docker Mastery/Part 2 Docker Compose/Docker Compose/Assignments/Compose Assignments.md",
-    "Test main/Courses/Docker Mastery/Part 2 Docker Compose/Docker Compose/Assignments",
-    "Test main/Courses/Docker Mastery/Part 2 Docker Compose/Docker Compose/Overview.md",
-    "Test main/Courses/OWASP - Web Security Academy Series/11. Cross-Site Scripting (XSS)/Resources/ghettoBypass.md",
-    "Test main/Courses/OWASP - Web Security Academy Series/11. Cross-Site Scripting (XSS)/Resources/ghettoBypass",
-    "Test main/Courses/OWASP - Web Security Academy Series/11. Cross-Site Scripting (XSS)/Resources/Documentation.md",
-    "Test main/Courses/OWASP - Web Security Academy Series/11. Cross-Site Scripting (XSS)/Resources/Labs-Reflected/Reflected XSS.md",
-    "Test main/Courses/OWASP - Web Security Academy Series/11. Cross-Site Scripting (XSS)/Resources/XSS Complete Guide Theory Video Slides.pdf",
-    "Test main/Courses/OWASP - Web Security Academy Series/11. Cross-Site Scripting (XSS)/Resources/Labs-Reflected",
-    "Test main/Hacker Resources/Playground.md",
-    "Test main/Bug Bounty/Tools/Notes Template.md",
-    "Test main/Courses/TheOdinProjectNotes/Javascript/Fundamentals/Fundamentals Part 5.md",
-    "Test main/Courses/TheOdinProjectNotes/Javascript/Fundamentals/Revisiting Rock Paper Scissors.md",
+    "setup-lightshot.exe",
     "Test main/Courses/TheOdinProjectNotes/Javascript/Understanding Callbacks.md",
-    "Test main/Courses/TheOdinProjectNotes/Javascript/Fundamentals",
-    "Test main/Courses/TheOdinProjectNotes/Javascript/DOM Manipulation and Events.md",
-    "Test main/Courses/TheOdinProjectNotes/Javascript/Fundamentals/Fundamentals Part 1.md",
-    "Test main/Courses/Docker Mastery/Part 2/Untitled.md",
-    "Test main/Courses/Docker Mastery/Docker playground.md",
+    "Test main/Courses/TheOdinProjectNotes/Javascript/Fundamentals/Revisiting Rock Paper Scissors.md",
+    "Test main/Courses/TheOdinProjectNotes/Javascript/Fundamentals/Fundamentals Part 5.md",
     "Test main/Courses/TheOdinProjectNotes/Javascript/Fundamentals/Fundamentals Part 4.md",
+    "Test main/Courses/TheOdinProjectNotes/Javascript/Fundamentals/Fundamentals Part 3.md",
+    "Test main/Courses/TheOdinProjectNotes/Javascript/Fundamentals/Fundamentals Part 2.md",
+    "Test main/Courses/TheOdinProjectNotes/Javascript/Fundamentals/Fundamentals Part 1.md",
+    "Test main/Courses/TheOdinProjectNotes/Javascript/Fundamentals",
+    "Test main/Courses/OWASP - Web Security Academy Series/11. Cross-Site Scripting (XSS)/Resources/ghettoBypass.md",
+    "Test main/Courses/Docker Mastery/Part 2 Docker Compose/Docker Compose/Assignments/Compose Assignments.md",
+    "Test main/Courses/Docker Mastery/Part 2 Docker Compose/Docker Compose/Assignments/Build a Compose File a Multi-Container Project.md",
+    "Test main/Courses/Docker Mastery/Part 2 Docker Compose/Docker Compose/Overview.md",
+    "Test main/Courses/Docker Mastery/Part 2 Docker Compose/Docker Compose/Assignments",
     "Test main/Courses/Docker Mastery/Part 2 Docker Compose/Docker Compose",
     "Test main/Courses/Docker Mastery/Part 2 Docker Compose",
-    "Test main/Courses/Docker Mastery/Part 1 Docker Basics",
+    "Test main/Courses/Docker Mastery/Part 1 Docker Basics/Volumes/Overview.md",
+    "Test main/Courses/Docker Mastery/Part 1 Docker Basics/Files/Docker_CheatSheet_08.09.2016_0.pdf",
+    "Test main/Courses/Docker Mastery/Part 1 Docker Basics/Volumes",
+    "Test main/Courses/Docker Mastery/Part 1 Docker Basics/Install",
+    "Test main/Courses/Docker Mastery/Part 1 Docker Basics/Images",
+    "Test main/Courses/Docker Mastery/Part 1 Docker Basics/Files",
     "Test main/Courses/SIP/Defensive Security Pathway/resources/Screenshot from 2023-11-12 10-23-20.png",
     "Test main/Courses/OWASP - Web Security Academy Series/10. XXE Injection/Resources/test.svg",
     "test.svg",

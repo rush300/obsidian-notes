@@ -17,3 +17,11 @@ dirb http://secret.htb/
 nikto -h http://secret.htb/
 ffuf -w /usr/share/wordlists/SecLists/Discovery/DNS/sub... -H "Host: FUZZ.secret.htb" -u http://secret/htb -fs 12872
 ```
+More To-do:
+- Check .git for comments or anything interesting
+```bash
+git log --oneline
+git show 67d8da7
+```
+get the JWT-token signiture
+in jwt.io replace the signature with your account and change to theadmin
