@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test main/Courses/API Security/API Penetration Testing/Active Reconnaissance.md",
+                "file": "Test main/Courses/Docker Mastery/Part 2 Docker Compose/Docker Compose/Assignments/Compose for Image Building.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hash",
+                "query": "Part 1 Docker",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test main/Courses/API Security/API Penetration Testing/Active Reconnaissance.md",
+                "file": "Test main/Courses/Docker Mastery/Part 2 Docker Compose/Docker Compose/Assignments/Compose for Image Building.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test main/Courses/API Security/API Penetration Testing/Active Reconnaissance.md",
+                "file": "Test main/Courses/Docker Mastery/Part 2 Docker Compose/Docker Compose/Assignments/Compose for Image Building.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test main/Courses/API Security/API Penetration Testing/Active Reconnaissance.md"
+                "file": "Test main/Courses/Docker Mastery/Part 2 Docker Compose/Docker Compose/Assignments/Compose for Image Building.md"
               }
             }
           },
@@ -156,11 +156,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d6391342f1ae5d50",
+  "active": "3846bce75300a045",
   "lastOpenFiles": [
+    "Test main/Courses/Docker Mastery/Part 2 Docker Compose/Docker Compose/Using MariaDB rather than PostgreSQL.md",
+    "Test main/Courses/Docker Mastery/Part 2 Docker Compose/Docker Compose/Assignments/Build a Compose File a Multi-Container Project.md",
+    "Test main/Courses/Docker Mastery/Part 2 Docker Compose/Docker Compose/Assignments/Compose for Image Building.md",
+    "Test main/Courses/Docker Mastery/Part 2 Docker Compose/Docker Compose/Assignments/Compose Assignments.md",
+    "Test main/Courses/Docker Mastery/Part 2 Docker Compose/Docker Compose/Overview.md",
+    "Test main/Courses/Docker Mastery/Swarm intro/Init.md",
+    "Test main/Courses/Docker Mastery/Swarm intro/Use Multipass to create Docker, Swarm, and K8s VMs.md",
+    "setup-lightshot.exe",
+    "Test main/Courses/Docker Mastery/Part 2 Docker Compose/Docker Compose/Assignments",
+    "Test main/Courses/Docker Mastery/Part 2 Docker Compose/Docker Compose",
+    "Test main/Courses/Docker Mastery/Part 2 Docker Compose",
+    "Test main/Courses/Docker Mastery/Part 1 Docker Basics/Images/The Dockerfile.md",
+    "Test main/Courses/Docker Mastery/Swarm intro",
+    "Test main/Courses/Docker Mastery/Part 1 Docker Basics/Images/Overview.md",
     "Test main/Courses/API Security/API Penetration Testing/Introduction.md",
-    "Test main/Courses/API Security/API Penetration Testing/Active Reconnaissance.md",
     "Test main/Courses/API Security/API Penetration Testing/Passive Reconnaissance.md",
+    "Test main/Courses/API Security/API Penetration Testing/Active Reconnaissance.md",
     "Test main/API/Hacking API's/Active Reconnaissance.md",
     "Test main/API/Penetration testing.md",
     "Test main/API/bug-bounty program.md",
@@ -172,28 +186,13 @@
     "Test main/CTF/Attacks/JWT_Tool.md",
     "Test main/Bug Bounty/Attacks/API attack.md",
     "Test main/CTF/Boxes/secret.htb/API.md",
-    "setup-lightshot.exe",
     "Test main/Courses/TheOdinProjectNotes/Javascript/Understanding Callbacks.md",
     "Test main/Courses/TheOdinProjectNotes/Javascript/Fundamentals/Revisiting Rock Paper Scissors.md",
-    "Test main/Courses/TheOdinProjectNotes/Javascript/Fundamentals/Fundamentals Part 5.md",
-    "Test main/Courses/TheOdinProjectNotes/Javascript/Fundamentals/Fundamentals Part 4.md",
-    "Test main/Courses/TheOdinProjectNotes/Javascript/Fundamentals/Fundamentals Part 3.md",
-    "Test main/Courses/TheOdinProjectNotes/Javascript/Fundamentals/Fundamentals Part 2.md",
-    "Test main/Courses/TheOdinProjectNotes/Javascript/Fundamentals/Fundamentals Part 1.md",
     "Test main/Courses/TheOdinProjectNotes/Javascript/Fundamentals",
-    "Test main/Courses/OWASP - Web Security Academy Series/11. Cross-Site Scripting (XSS)/Resources/ghettoBypass.md",
-    "Test main/Courses/Docker Mastery/Part 2 Docker Compose/Docker Compose/Assignments/Compose Assignments.md",
-    "Test main/Courses/Docker Mastery/Part 2 Docker Compose/Docker Compose/Assignments/Build a Compose File a Multi-Container Project.md",
-    "Test main/Courses/Docker Mastery/Part 2 Docker Compose/Docker Compose/Overview.md",
-    "Test main/Courses/Docker Mastery/Part 2 Docker Compose/Docker Compose/Assignments",
-    "Test main/Courses/Docker Mastery/Part 2 Docker Compose/Docker Compose",
-    "Test main/Courses/Docker Mastery/Part 2 Docker Compose",
-    "Test main/Courses/Docker Mastery/Part 1 Docker Basics/Volumes/Overview.md",
     "Test main/Courses/Docker Mastery/Part 1 Docker Basics/Files/Docker_CheatSheet_08.09.2016_0.pdf",
     "Test main/Courses/Docker Mastery/Part 1 Docker Basics/Volumes",
     "Test main/Courses/Docker Mastery/Part 1 Docker Basics/Install",
     "Test main/Courses/Docker Mastery/Part 1 Docker Basics/Images",
-    "Test main/Courses/Docker Mastery/Part 1 Docker Basics/Files",
     "Test main/Courses/SIP/Defensive Security Pathway/resources/Screenshot from 2023-11-12 10-23-20.png",
     "Test main/Courses/OWASP - Web Security Academy Series/10. XXE Injection/Resources/test.svg",
     "test.svg",
