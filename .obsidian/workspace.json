@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test main/Courses/Docker Mastery/Part 2 Docker Compose/Docker Compose/Assignments/Compose for Image Building.md",
+                "file": "Test main/Courses/Docker Mastery/Swarm intro/Creating 3-Node Swarm Host Options.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Part 1 Docker",
+                "query": "tag:#docker",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test main/Courses/Docker Mastery/Part 2 Docker Compose/Docker Compose/Assignments/Compose for Image Building.md",
+                "file": "Test main/Courses/Docker Mastery/Swarm intro/Creating 3-Node Swarm Host Options.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test main/Courses/Docker Mastery/Part 2 Docker Compose/Docker Compose/Assignments/Compose for Image Building.md",
+                "file": "Test main/Courses/Docker Mastery/Swarm intro/Creating 3-Node Swarm Host Options.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test main/Courses/Docker Mastery/Part 2 Docker Compose/Docker Compose/Assignments/Compose for Image Building.md"
+                "file": "Test main/Courses/Docker Mastery/Swarm intro/Creating 3-Node Swarm Host Options.md"
               }
             }
           },
@@ -156,15 +157,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3846bce75300a045",
+  "active": "89e16b908a723d7c",
   "lastOpenFiles": [
+    "Test main/Courses/Docker Mastery/Swarm intro/Use Multipass to create Docker, Swarm, and K8s VMs.md",
+    "Test main/Courses/Docker Mastery/Ubuntu multipass VMs.md",
+    "Test main/Courses/Docker Mastery/Swarm intro/Creating 3-Node Swarm Host Options.md",
+    "Test main/Courses/Docker Mastery/Part 2 Docker Compose/Docker Compose/Assignments/Compose for Image Building.md",
     "Test main/Courses/Docker Mastery/Part 2 Docker Compose/Docker Compose/Using MariaDB rather than PostgreSQL.md",
     "Test main/Courses/Docker Mastery/Part 2 Docker Compose/Docker Compose/Assignments/Build a Compose File a Multi-Container Project.md",
-    "Test main/Courses/Docker Mastery/Part 2 Docker Compose/Docker Compose/Assignments/Compose for Image Building.md",
     "Test main/Courses/Docker Mastery/Part 2 Docker Compose/Docker Compose/Assignments/Compose Assignments.md",
     "Test main/Courses/Docker Mastery/Part 2 Docker Compose/Docker Compose/Overview.md",
     "Test main/Courses/Docker Mastery/Swarm intro/Init.md",
-    "Test main/Courses/Docker Mastery/Swarm intro/Use Multipass to create Docker, Swarm, and K8s VMs.md",
     "setup-lightshot.exe",
     "Test main/Courses/Docker Mastery/Part 2 Docker Compose/Docker Compose/Assignments",
     "Test main/Courses/Docker Mastery/Part 2 Docker Compose/Docker Compose",
@@ -187,7 +190,6 @@
     "Test main/Bug Bounty/Attacks/API attack.md",
     "Test main/CTF/Boxes/secret.htb/API.md",
     "Test main/Courses/TheOdinProjectNotes/Javascript/Understanding Callbacks.md",
-    "Test main/Courses/TheOdinProjectNotes/Javascript/Fundamentals/Revisiting Rock Paper Scissors.md",
     "Test main/Courses/TheOdinProjectNotes/Javascript/Fundamentals",
     "Test main/Courses/Docker Mastery/Part 1 Docker Basics/Files/Docker_CheatSheet_08.09.2016_0.pdf",
     "Test main/Courses/Docker Mastery/Part 1 Docker Basics/Volumes",
