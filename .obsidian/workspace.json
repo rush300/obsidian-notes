@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test main/Courses/Docker Mastery/Swarm intro/Creating 3-Node Swarm Host Options.md",
+                "file": "Test main/Bug Bounty/Programs/Starbug h1.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test main/Courses/Docker Mastery/Swarm intro/Creating 3-Node Swarm Host Options.md",
+                "file": "Test main/Bug Bounty/Programs/Starbug h1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test main/Courses/Docker Mastery/Swarm intro/Creating 3-Node Swarm Host Options.md",
+                "file": "Test main/Bug Bounty/Programs/Starbug h1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test main/Courses/Docker Mastery/Swarm intro/Creating 3-Node Swarm Host Options.md"
+                "file": "Test main/Bug Bounty/Programs/Starbug h1.md"
               }
             }
           },
@@ -157,17 +156,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "89e16b908a723d7c",
+  "active": "d6391342f1ae5d50",
   "lastOpenFiles": [
-    "Test main/Courses/Docker Mastery/Swarm intro/Use Multipass to create Docker, Swarm, and K8s VMs.md",
+    "Test main/Courses/Docker Mastery/Swarm intro/Basic Features/7. Using Secrets.md",
+    "Test main/Bug Bounty/Programs/Starbug h1.md",
+    "Test main/Bug Bounty/Programs",
+    "Test main/Courses/Docker Mastery/Swarm intro/Basic Features/6. Stacks Production Grade Compose.md",
+    "Test main/Courses/Docker Mastery/Swarm intro/Basic Features/Use Multipass to create Docker, Swarm, and K8s VMs.md",
+    "Test main/Courses/Docker Mastery/Swarm intro/Basic Features/5. Scaling Out with Routing Mesh.md",
+    "Test main/Courses/Docker Mastery/Swarm intro/Basic Features/4. Scaling Out with Overlay Networking.md",
+    "Test main/Courses/Docker Mastery/Swarm intro/Basic Features/3. Sections Requirements for Swarm, Drupal, and Postgres.md",
+    "Test main/Courses/Docker Mastery/Swarm intro/Basic Features/2. Creating 3-Node Swarm Host Options.md",
+    "Test main/Courses/Docker Mastery/Swarm intro/Basic Features/1. Init.md",
+    "Test main/Bug Bounty/Recon&Scanning/Reconnaissance.md",
+    "Test main/Courses/Docker Mastery/Swarm intro/Assignments/Create a Multi-Service Multi-Node Web App.md",
+    "Test main/Courses/Docker Mastery/Swarm intro/Assignments",
+    "Test main/Courses/Docker Mastery/Swarm intro/Basic Features",
+    "Test main/Courses/Docker Mastery/resources",
     "Test main/Courses/Docker Mastery/Ubuntu multipass VMs.md",
-    "Test main/Courses/Docker Mastery/Swarm intro/Creating 3-Node Swarm Host Options.md",
     "Test main/Courses/Docker Mastery/Part 2 Docker Compose/Docker Compose/Assignments/Compose for Image Building.md",
     "Test main/Courses/Docker Mastery/Part 2 Docker Compose/Docker Compose/Using MariaDB rather than PostgreSQL.md",
     "Test main/Courses/Docker Mastery/Part 2 Docker Compose/Docker Compose/Assignments/Build a Compose File a Multi-Container Project.md",
     "Test main/Courses/Docker Mastery/Part 2 Docker Compose/Docker Compose/Assignments/Compose Assignments.md",
     "Test main/Courses/Docker Mastery/Part 2 Docker Compose/Docker Compose/Overview.md",
-    "Test main/Courses/Docker Mastery/Swarm intro/Init.md",
     "setup-lightshot.exe",
     "Test main/Courses/Docker Mastery/Part 2 Docker Compose/Docker Compose/Assignments",
     "Test main/Courses/Docker Mastery/Part 2 Docker Compose/Docker Compose",
@@ -182,19 +193,7 @@
     "Test main/API/Penetration testing.md",
     "Test main/API/bug-bounty program.md",
     "Test main/API/Hacking API's/Lab Setup.md",
-    "Test main/API/Hacking API's/API Attacks.md",
-    "Test main/CTF/Tools/Crack/hashcat.md",
-    "Test main/CTF/Tools/Crack/haiti.md",
-    "Test main/CTF/Tools/Crack/john.md",
-    "Test main/CTF/Attacks/JWT_Tool.md",
-    "Test main/Bug Bounty/Attacks/API attack.md",
-    "Test main/CTF/Boxes/secret.htb/API.md",
-    "Test main/Courses/TheOdinProjectNotes/Javascript/Understanding Callbacks.md",
     "Test main/Courses/TheOdinProjectNotes/Javascript/Fundamentals",
-    "Test main/Courses/Docker Mastery/Part 1 Docker Basics/Files/Docker_CheatSheet_08.09.2016_0.pdf",
-    "Test main/Courses/Docker Mastery/Part 1 Docker Basics/Volumes",
-    "Test main/Courses/Docker Mastery/Part 1 Docker Basics/Install",
-    "Test main/Courses/Docker Mastery/Part 1 Docker Basics/Images",
     "Test main/Courses/SIP/Defensive Security Pathway/resources/Screenshot from 2023-11-12 10-23-20.png",
     "Test main/Courses/OWASP - Web Security Academy Series/10. XXE Injection/Resources/test.svg",
     "test.svg",
