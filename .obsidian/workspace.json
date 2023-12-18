@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test main/Courses/API Security/API Penetration Testing/Active Reconnaissance.md",
+                "file": "Test main/Courses/Docker Mastery/Part 2 Docker Compose/Docker Compose/Assignments/Build a Compose File a Multi-Container Project.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test main/Courses/API Security/API Penetration Testing/Active Reconnaissance.md",
+                "file": "Test main/Courses/Docker Mastery/Part 2 Docker Compose/Docker Compose/Assignments/Build a Compose File a Multi-Container Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test main/Courses/API Security/API Penetration Testing/Active Reconnaissance.md",
+                "file": "Test main/Courses/Docker Mastery/Part 2 Docker Compose/Docker Compose/Assignments/Build a Compose File a Multi-Container Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test main/Courses/API Security/API Penetration Testing/Active Reconnaissance.md"
+                "file": "Test main/Courses/Docker Mastery/Part 2 Docker Compose/Docker Compose/Assignments/Build a Compose File a Multi-Container Project.md"
               }
             }
           },
@@ -158,8 +158,11 @@
   },
   "active": "d6391342f1ae5d50",
   "lastOpenFiles": [
-    "Test main/Courses/API Security/API Penetration Testing/Introduction.md",
+    "Test main/Courses/Docker Mastery/Part 2 Docker Compose/Docker Compose/Assignments/Compose Assignments.md",
+    "Test main/Courses/Docker Mastery/Part 2 Docker Compose/Docker Compose/Overview.md",
+    "Test main/Courses/Docker Mastery/Part 2 Docker Compose/Docker Compose/Assignments/Build a Compose File a Multi-Container Project.md",
     "Test main/Courses/API Security/API Penetration Testing/Active Reconnaissance.md",
+    "Test main/Courses/API Security/API Penetration Testing/Introduction.md",
     "Test main/Courses/API Security/API Penetration Testing/Passive Reconnaissance.md",
     "Test main/API/Hacking API's/Active Reconnaissance.md",
     "Test main/API/Penetration testing.md",
@@ -182,9 +185,6 @@
     "Test main/Courses/TheOdinProjectNotes/Javascript/Fundamentals/Fundamentals Part 1.md",
     "Test main/Courses/TheOdinProjectNotes/Javascript/Fundamentals",
     "Test main/Courses/OWASP - Web Security Academy Series/11. Cross-Site Scripting (XSS)/Resources/ghettoBypass.md",
-    "Test main/Courses/Docker Mastery/Part 2 Docker Compose/Docker Compose/Assignments/Compose Assignments.md",
-    "Test main/Courses/Docker Mastery/Part 2 Docker Compose/Docker Compose/Assignments/Build a Compose File a Multi-Container Project.md",
-    "Test main/Courses/Docker Mastery/Part 2 Docker Compose/Docker Compose/Overview.md",
     "Test main/Courses/Docker Mastery/Part 2 Docker Compose/Docker Compose/Assignments",
     "Test main/Courses/Docker Mastery/Part 2 Docker Compose/Docker Compose",
     "Test main/Courses/Docker Mastery/Part 2 Docker Compose",
