@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "96b712d161177a69",
+    "id": "e383e34630970a36",
     "type": "split",
     "children": [
       {
-        "id": "cb549b49d1b9e426",
+        "id": "18d450b16f62a8c8",
         "type": "tabs",
         "children": [
           {
-            "id": "d6391342f1ae5d50",
+            "id": "2a1a8e2293592dea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test main/Courses/Docker Mastery/Part 2 Docker Compose/Docker Compose/Assignments/Build a Compose File a Multi-Container Project.md",
+                "file": "Test main/Courses/Docker Mastery/Kubernetes/Install.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "0c2135f9f0ee2ab6",
+    "id": "a49fe2a0f6388357",
     "type": "split",
     "children": [
       {
-        "id": "3ddead31a3f1efa9",
+        "id": "a52857605f2ec600",
         "type": "tabs",
         "children": [
           {
-            "id": "3846bce75300a045",
+            "id": "7eb29bfb26063223",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,12 +43,12 @@
             }
           },
           {
-            "id": "89e16b908a723d7c",
+            "id": "e3232abe626a2199",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "hash",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "7bbf814548f22225",
+            "id": "dbefe1f9f3c93b77",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 437.5
+    "width": 300
   },
   "right": {
-    "id": "490f505b4dacfcb1",
+    "id": "84be99ae76e9d5f6",
     "type": "split",
     "children": [
       {
-        "id": "0b04de1255b693c9",
+        "id": "73baf21ac7e3d617",
         "type": "tabs",
         "children": [
           {
-            "id": "5ccae5684623fdc6",
+            "id": "9acd8f2f63603970",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test main/Courses/Docker Mastery/Part 2 Docker Compose/Docker Compose/Assignments/Build a Compose File a Multi-Container Project.md",
+                "file": "Test main/Courses/Docker Mastery/Kubernetes/Install.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "61bbf824b77e1a4a",
+            "id": "6bd9b4817a5d5b5c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test main/Courses/Docker Mastery/Part 2 Docker Compose/Docker Compose/Assignments/Build a Compose File a Multi-Container Project.md",
+                "file": "Test main/Courses/Docker Mastery/Kubernetes/Install.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "a639bd7aaa690942",
+            "id": "4f11f4f6b758f17b",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,22 +120,22 @@
             }
           },
           {
-            "id": "7e62bf8b044432fe",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Test main/Courses/Docker Mastery/Part 2 Docker Compose/Docker Compose/Assignments/Build a Compose File a Multi-Container Project.md"
-              }
-            }
-          },
-          {
-            "id": "9a0b83106123b16c",
+            "id": "d70eaf9fef90ac26",
             "type": "leaf",
             "state": {
               "type": "all-properties",
               "state": {
                 "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "0823c0bfcf92d3f6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Test main/Courses/Docker Mastery/Kubernetes/Install.md"
               }
             }
           }
@@ -156,47 +156,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d6391342f1ae5d50",
+  "active": "2a1a8e2293592dea",
   "lastOpenFiles": [
-    "Test main/Courses/Docker Mastery/Part 2 Docker Compose/Docker Compose/Assignments/Compose Assignments.md",
-    "Test main/Courses/Docker Mastery/Part 2 Docker Compose/Docker Compose/Overview.md",
-    "Test main/Courses/Docker Mastery/Part 2 Docker Compose/Docker Compose/Assignments/Build a Compose File a Multi-Container Project.md",
-    "Test main/Courses/API Security/API Penetration Testing/Active Reconnaissance.md",
-    "Test main/Courses/API Security/API Penetration Testing/Introduction.md",
-    "Test main/Courses/API Security/API Penetration Testing/Passive Reconnaissance.md",
-    "Test main/API/Hacking API's/Active Reconnaissance.md",
-    "Test main/API/Penetration testing.md",
-    "Test main/API/bug-bounty program.md",
-    "Test main/API/Hacking API's/Lab Setup.md",
-    "Test main/API/Hacking API's/API Attacks.md",
-    "Test main/CTF/Tools/Crack/hashcat.md",
-    "Test main/CTF/Tools/Crack/haiti.md",
-    "Test main/CTF/Tools/Crack/john.md",
-    "Test main/CTF/Attacks/JWT_Tool.md",
-    "Test main/Bug Bounty/Attacks/API attack.md",
+    "Test main/Bug Bounty/Attacks/Virtual Hosts attacks.md",
     "Test main/CTF/Boxes/secret.htb/API.md",
-    "setup-lightshot.exe",
-    "Test main/Courses/TheOdinProjectNotes/Javascript/Understanding Callbacks.md",
-    "Test main/Courses/TheOdinProjectNotes/Javascript/Fundamentals/Revisiting Rock Paper Scissors.md",
-    "Test main/Courses/TheOdinProjectNotes/Javascript/Fundamentals/Fundamentals Part 5.md",
-    "Test main/Courses/TheOdinProjectNotes/Javascript/Fundamentals/Fundamentals Part 4.md",
-    "Test main/Courses/TheOdinProjectNotes/Javascript/Fundamentals/Fundamentals Part 3.md",
-    "Test main/Courses/TheOdinProjectNotes/Javascript/Fundamentals/Fundamentals Part 2.md",
-    "Test main/Courses/TheOdinProjectNotes/Javascript/Fundamentals/Fundamentals Part 1.md",
-    "Test main/Courses/TheOdinProjectNotes/Javascript/Fundamentals",
-    "Test main/Courses/OWASP - Web Security Academy Series/11. Cross-Site Scripting (XSS)/Resources/ghettoBypass.md",
-    "Test main/Courses/Docker Mastery/Part 2 Docker Compose/Docker Compose/Assignments",
-    "Test main/Courses/Docker Mastery/Part 2 Docker Compose/Docker Compose",
-    "Test main/Courses/Docker Mastery/Part 2 Docker Compose",
-    "Test main/Courses/Docker Mastery/Part 1 Docker Basics/Volumes/Overview.md",
-    "Test main/Courses/Docker Mastery/Part 1 Docker Basics/Files/Docker_CheatSheet_08.09.2016_0.pdf",
-    "Test main/Courses/Docker Mastery/Part 1 Docker Basics/Volumes",
-    "Test main/Courses/Docker Mastery/Part 1 Docker Basics/Install",
-    "Test main/Courses/Docker Mastery/Part 1 Docker Basics/Images",
-    "Test main/Courses/Docker Mastery/Part 1 Docker Basics/Files",
-    "Test main/Courses/SIP/Defensive Security Pathway/resources/Screenshot from 2023-11-12 10-23-20.png",
-    "Test main/Courses/OWASP - Web Security Academy Series/10. XXE Injection/Resources/test.svg",
-    "test.svg",
-    "Untitled.canvas"
+    "Test main/Bug Bounty/Attacks/SSRF attack.md",
+    "Test main/Courses/Docker Mastery/Docker/Part 1 Docker Basics/Containers/Overview.md",
+    "Test main/Courses/Docker Mastery/Docker/Part 1 Docker Basics/Containers/File Permissions Across Multiple Containers.md",
+    "Test main/Courses/Docker Mastery/Docker/Part 1 Docker Basics/Containers/Database Passwords in Containers.md",
+    "Test main/Courses/API Security/API Penetration Testing/Reconnaissance/Active Reconnaissance.md",
+    "Test main/Courses/API Security/API Penetration Testing/Lab Setup.md",
+    "Test main/Courses/API Security/API Penetration Testing/Introduction.md",
+    "Test main/Courses/API Security/API Penetration Testing/Reconnaissance",
+    "Test main/Courses/API Security/API Penetration Testing/Reconnaissance/Passive Reconnaissance.md"
   ]
 }
