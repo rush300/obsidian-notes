@@ -1,0 +1,12 @@
+- Remember the three management approaches?
+- Let's skip to full Declarative objects
+	- `kubectl apply -f filename.yml`
+- Why skip `kubectl create, kubectl replacem kubectl edit`?
+- create/update resources in a file
+	- `kubectl apply -f myfile.yml`
+- create/update a whole directory of yaml
+	- `kubectl apply -f myyaml/`
+- create/update from a URL
+	- `kubectl apply -f https://bret.run/prod.yml`
+- Be careful, lets look at it first (browser or curl)
+	- `curl -L https://bret.run/pod`

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test main/Courses/Docker Mastery/Kubernetes/Install.md",
+                "file": "Test main/Courses/Docker Mastery/Kubernetes/Declarative Kubernetes YAML/kubectl apply.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 368.5
   },
   "right": {
     "id": "84be99ae76e9d5f6",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test main/Courses/Docker Mastery/Kubernetes/Install.md",
+                "file": "Test main/Courses/Docker Mastery/Kubernetes/Declarative Kubernetes YAML/kubectl apply.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test main/Courses/Docker Mastery/Kubernetes/Install.md",
+                "file": "Test main/Courses/Docker Mastery/Kubernetes/Declarative Kubernetes YAML/kubectl apply.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           },
@@ -135,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test main/Courses/Docker Mastery/Kubernetes/Install.md"
+                "file": "Test main/Courses/Docker Mastery/Kubernetes/Declarative Kubernetes YAML/kubectl apply.md"
               }
             }
           }
@@ -158,6 +160,33 @@
   },
   "active": "2a1a8e2293592dea",
   "lastOpenFiles": [
+    "Test main/Courses/Docker Mastery/Kubernetes/Kubernetes Management Techniques/Three Management Approaches.md",
+    "Test main/Courses/Docker Mastery/Kubernetes/Declarative Kubernetes YAML/kubectl apply.md",
+    "Test main/Courses/Docker Mastery/Kubernetes/Declarative Kubernetes YAML",
+    "Test main/Courses/Docker Mastery/Kubernetes/Kubernetes Management Techniques/Imperative vs. Declarative.md",
+    "Test main/Courses/Docker Mastery/Kubernetes/Kubernetes Management Techniques/Resource Generators.md",
+    "Test main/Courses/Docker Mastery/Kubernetes/Run, Create and Apply/Services/Kubernetes Services DNS.md",
+    "Test main/Courses/Docker Mastery/Kubernetes/Kubernetes Management Techniques",
+    "Test main/Courses/Docker Mastery/Kubernetes/Run, Create and Apply/Services",
+    "Test main/Courses/Docker Mastery/Kubernetes/Run, Create and Apply/Services/Create a ClusterIP Service.md",
+    "Test main/Courses/Docker Mastery/Kubernetes/Run, Create and Apply/Services/Add a LoadBalancer Service.md",
+    "Test main/Courses/Docker Mastery/Kubernetes/Run, Create and Apply/Services/Create a NodePort Service.md",
+    "Test main/Courses/Docker Mastery/Kubernetes/Run, Create and Apply/Running Netshoot in Kubernetes.md",
+    "Test main/Courses/Docker Mastery/Kubernetes/Run, Create and Apply/Creating a Deployment with kubectl.md",
+    "Test main/Courses/Docker Mastery/Kubernetes/Cheat Sheets for Kubectl.md",
+    "Test main/Courses/Docker Mastery/Kubernetes/Exposing Kubernetes Ports/MicroK8s and DNS for Services.md",
+    "Test main/Courses/Docker Mastery/Kubernetes/Run, Create and Apply",
+    "Test main/Courses/Docker Mastery/Kubernetes/Exposing Kubernetes Ports/Exposing Containers.md",
+    "Test main/Courses/Docker Mastery/Kubernetes/Exposing Kubernetes Ports",
+    "Test main/Courses/Docker Mastery/Kubernetes/Inspecting Resources with Describe.md",
+    "Test main/Courses/Docker Mastery/Docker/Registries/Assignment - Secure Docker Registry With TLS and Authentication.md",
+    "Test main/Courses/Docker Mastery/Docker/Registries/Docker Registry with Swarm.md",
+    "Test main/Courses/Docker Mastery/Kubernetes/Intro.md",
+    "Test main/Courses/Docker Mastery/Kubernetes/Install.md",
+    "minikube-linux-amd64",
+    "kubectl.sha256",
+    "kubectl",
+    "Test main/Syntax/My new note.md",
     "Test main/Bug Bounty/Attacks/Virtual Hosts attacks.md",
     "Test main/CTF/Boxes/secret.htb/API.md",
     "Test main/Bug Bounty/Attacks/SSRF attack.md",
@@ -165,9 +194,6 @@
     "Test main/Courses/Docker Mastery/Docker/Part 1 Docker Basics/Containers/File Permissions Across Multiple Containers.md",
     "Test main/Courses/Docker Mastery/Docker/Part 1 Docker Basics/Containers/Database Passwords in Containers.md",
     "Test main/Courses/API Security/API Penetration Testing/Reconnaissance/Active Reconnaissance.md",
-    "Test main/Courses/API Security/API Penetration Testing/Lab Setup.md",
-    "Test main/Courses/API Security/API Penetration Testing/Introduction.md",
-    "Test main/Courses/API Security/API Penetration Testing/Reconnaissance",
-    "Test main/Courses/API Security/API Penetration Testing/Reconnaissance/Passive Reconnaissance.md"
+    "Test main/Courses/API Security/API Penetration Testing/Reconnaissance"
   ]
 }
