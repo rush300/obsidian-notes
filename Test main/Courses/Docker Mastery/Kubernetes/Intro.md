@@ -24,4 +24,4 @@
 	- Many types of Controllers inc. Deployment, ReplicaSet, StatefulSet, DaemonSet, Job, CronJob, etc.
 - **Service**: network endpoint to connect to a pod
 - **Namespace**: Filtered group of objects in cluster
-- 
+

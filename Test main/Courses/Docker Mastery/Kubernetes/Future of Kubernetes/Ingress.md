@@ -1,0 +1,4 @@
+- None of our Service types work at OSI Layer 7 (HTTP)
+- How do we route outside connections based on hostname or URL?
+- Ingress Controller (optional) do this with 3rd party proxies
+- Nginx is popular, but Traefik, HAProxy, F5, Envoy, Istio, etc.

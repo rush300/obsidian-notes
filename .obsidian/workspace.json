@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test main/Courses/Docker Mastery/Kubernetes/Declarative Kubernetes YAML/kubectl apply.md",
+                "file": "Test main/Courses/Docker Mastery/Kubernetes/Run, Create and Apply/Creating a Deployment with kubectl.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5
+    "width": 562.5
   },
   "right": {
     "id": "84be99ae76e9d5f6",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test main/Courses/Docker Mastery/Kubernetes/Declarative Kubernetes YAML/kubectl apply.md",
+                "file": "Test main/Courses/Docker Mastery/Kubernetes/Run, Create and Apply/Creating a Deployment with kubectl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test main/Courses/Docker Mastery/Kubernetes/Declarative Kubernetes YAML/kubectl apply.md",
+                "file": "Test main/Courses/Docker Mastery/Kubernetes/Run, Create and Apply/Creating a Deployment with kubectl.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test main/Courses/Docker Mastery/Kubernetes/Declarative Kubernetes YAML/kubectl apply.md"
+                "file": "Test main/Courses/Docker Mastery/Kubernetes/Run, Create and Apply/Creating a Deployment with kubectl.md"
               }
             }
           }
@@ -160,40 +160,41 @@
   },
   "active": "2a1a8e2293592dea",
   "lastOpenFiles": [
-    "Test main/Courses/Docker Mastery/Kubernetes/Kubernetes Management Techniques/Three Management Approaches.md",
+    "Test main/Courses/Docker Mastery/Kubernetes/Declarative Kubernetes YAML/Building Your YAML spec.md",
+    "Test main/Courses/Docker Mastery/Kubernetes/Declarative Kubernetes YAML/Building Your YAML Files.md",
+    "Test main/Courses/Docker Mastery/Kubernetes/Declarative Kubernetes YAML/Kubernetes Configuration YAML.md",
     "Test main/Courses/Docker Mastery/Kubernetes/Declarative Kubernetes YAML/kubectl apply.md",
-    "Test main/Courses/Docker Mastery/Kubernetes/Declarative Kubernetes YAML",
-    "Test main/Courses/Docker Mastery/Kubernetes/Kubernetes Management Techniques/Imperative vs. Declarative.md",
-    "Test main/Courses/Docker Mastery/Kubernetes/Kubernetes Management Techniques/Resource Generators.md",
-    "Test main/Courses/Docker Mastery/Kubernetes/Run, Create and Apply/Services/Kubernetes Services DNS.md",
-    "Test main/Courses/Docker Mastery/Kubernetes/Kubernetes Management Techniques",
-    "Test main/Courses/Docker Mastery/Kubernetes/Run, Create and Apply/Services",
-    "Test main/Courses/Docker Mastery/Kubernetes/Run, Create and Apply/Services/Create a ClusterIP Service.md",
-    "Test main/Courses/Docker Mastery/Kubernetes/Run, Create and Apply/Services/Add a LoadBalancer Service.md",
-    "Test main/Courses/Docker Mastery/Kubernetes/Run, Create and Apply/Services/Create a NodePort Service.md",
-    "Test main/Courses/Docker Mastery/Kubernetes/Run, Create and Apply/Running Netshoot in Kubernetes.md",
+    "Test main/Courses/Docker Mastery/Kubernetes/Declarative Kubernetes YAML/Dry Runs With Apply YAML.md",
     "Test main/Courses/Docker Mastery/Kubernetes/Run, Create and Apply/Creating a Deployment with kubectl.md",
-    "Test main/Courses/Docker Mastery/Kubernetes/Cheat Sheets for Kubectl.md",
-    "Test main/Courses/Docker Mastery/Kubernetes/Exposing Kubernetes Ports/MicroK8s and DNS for Services.md",
-    "Test main/Courses/Docker Mastery/Kubernetes/Run, Create and Apply",
-    "Test main/Courses/Docker Mastery/Kubernetes/Exposing Kubernetes Ports/Exposing Containers.md",
-    "Test main/Courses/Docker Mastery/Kubernetes/Exposing Kubernetes Ports",
-    "Test main/Courses/Docker Mastery/Kubernetes/Inspecting Resources with Describe.md",
-    "Test main/Courses/Docker Mastery/Docker/Registries/Assignment - Secure Docker Registry With TLS and Authentication.md",
-    "Test main/Courses/Docker Mastery/Docker/Registries/Docker Registry with Swarm.md",
-    "Test main/Courses/Docker Mastery/Kubernetes/Intro.md",
-    "Test main/Courses/Docker Mastery/Kubernetes/Install.md",
-    "minikube-linux-amd64",
-    "kubectl.sha256",
-    "kubectl",
-    "Test main/Syntax/My new note.md",
-    "Test main/Bug Bounty/Attacks/Virtual Hosts attacks.md",
-    "Test main/CTF/Boxes/secret.htb/API.md",
-    "Test main/Bug Bounty/Attacks/SSRF attack.md",
+    "Test main/Courses/Docker Mastery/Ubuntu multipass VMs.md",
     "Test main/Courses/Docker Mastery/Docker/Part 1 Docker Basics/Containers/Overview.md",
     "Test main/Courses/Docker Mastery/Docker/Part 1 Docker Basics/Containers/File Permissions Across Multiple Containers.md",
     "Test main/Courses/Docker Mastery/Docker/Part 1 Docker Basics/Containers/Database Passwords in Containers.md",
+    "Test main/Courses/Docker Mastery/Docker/Part 1 Docker Basics/Assignments/DNS Round Robin Test.md",
+    "Test main/Courses/Docker Mastery/Docker/Part 1 Docker Basics/Assignments/CLI App Testing.md",
+    "Test main/Courses/Docker Mastery/Docker/Part 1 Docker Basics/Assignments/Bind Mounts.md",
+    "Test main/Courses/Docker Mastery/Docker/Part 1 Docker Basics/Assignments/Named Volumes.md",
+    "Test main/Courses/Docker Mastery/Kubernetes/Cheat Sheets for Kubectl.md",
+    "Test main/Courses/Docker Mastery/Kubernetes/Intro.md",
+    "Test main/Courses/Docker Mastery/Kubernetes/KubernetesForBeginners-MumshadMannambeth.pdf",
+    "Test main/Courses/Docker Mastery/Kubernetes/Future of Kubernetes/Ingress.md",
     "Test main/Courses/API Security/API Penetration Testing/Reconnaissance/Active Reconnaissance.md",
-    "Test main/Courses/API Security/API Penetration Testing/Reconnaissance"
+    "Test main/Coding/Python/the-hacker-guide-to-python.pdf",
+    "Test main/Coding/Python/resources.md",
+    "Test main/Coding/JAVA/Learn.md",
+    "Test main/Coding/GIT/Commands.md",
+    "Test main/Courses/Docker Mastery/Kubernetes/Future of Kubernetes/Storage in Kubernetes.md",
+    "Test main/Courses/Docker Mastery/Kubernetes/Declarative Kubernetes YAML/Labels and Annotations.md",
+    "Test main/Courses/Docker Mastery/Kubernetes/Future of Kubernetes",
+    "Test main/Courses/Docker Mastery/Kubernetes/Kubernetes Management Techniques/Three Management Approaches.md",
+    "Test main/Courses/Docker Mastery/Kubernetes/Declarative Kubernetes YAML",
+    "Test main/Courses/Docker Mastery/Kubernetes/Kubernetes Management Techniques/Imperative vs. Declarative.md",
+    "Test main/Courses/Docker Mastery/Kubernetes/Kubernetes Management Techniques/Resource Generators.md",
+    "Test main/Courses/Docker Mastery/Kubernetes/Kubernetes Management Techniques",
+    "Test main/Courses/Docker Mastery/Kubernetes/Run, Create and Apply/Services",
+    "Test main/Courses/Docker Mastery/Kubernetes/Run, Create and Apply",
+    "Test main/Courses/Docker Mastery/Kubernetes/Exposing Kubernetes Ports",
+    "minikube-linux-amd64",
+    "kubectl.sha256"
   ]
 }
