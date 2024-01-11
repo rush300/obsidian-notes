@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test main/Courses/Docker Mastery/Kubernetes/Run, Create and Apply/Creating a Deployment with kubectl.md",
+                "file": "Test main/Courses/Docker Mastery/Kubernetes/Install.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test main/Courses/Docker Mastery/Kubernetes/Run, Create and Apply/Creating a Deployment with kubectl.md",
+                "file": "Test main/Courses/Docker Mastery/Kubernetes/Install.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test main/Courses/Docker Mastery/Kubernetes/Run, Create and Apply/Creating a Deployment with kubectl.md",
+                "file": "Test main/Courses/Docker Mastery/Kubernetes/Install.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test main/Courses/Docker Mastery/Kubernetes/Run, Create and Apply/Creating a Deployment with kubectl.md"
+                "file": "Test main/Courses/Docker Mastery/Kubernetes/Install.md"
               }
             }
           }
@@ -160,12 +160,12 @@
   },
   "active": "2a1a8e2293592dea",
   "lastOpenFiles": [
+    "Test main/Courses/Docker Mastery/Kubernetes/Run, Create and Apply/Creating a Deployment with kubectl.md",
     "Test main/Courses/Docker Mastery/Kubernetes/Declarative Kubernetes YAML/Building Your YAML spec.md",
     "Test main/Courses/Docker Mastery/Kubernetes/Declarative Kubernetes YAML/Building Your YAML Files.md",
     "Test main/Courses/Docker Mastery/Kubernetes/Declarative Kubernetes YAML/Kubernetes Configuration YAML.md",
     "Test main/Courses/Docker Mastery/Kubernetes/Declarative Kubernetes YAML/kubectl apply.md",
     "Test main/Courses/Docker Mastery/Kubernetes/Declarative Kubernetes YAML/Dry Runs With Apply YAML.md",
-    "Test main/Courses/Docker Mastery/Kubernetes/Run, Create and Apply/Creating a Deployment with kubectl.md",
     "Test main/Courses/Docker Mastery/Ubuntu multipass VMs.md",
     "Test main/Courses/Docker Mastery/Docker/Part 1 Docker Basics/Containers/Overview.md",
     "Test main/Courses/Docker Mastery/Docker/Part 1 Docker Basics/Containers/File Permissions Across Multiple Containers.md",
