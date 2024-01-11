@@ -13,3 +13,11 @@ Clone repository
 ```bash
 git clone http://reponame
 ```
+
+Configure:
+
+Create an SSH key
+
+[[Config]]
+
+
