@@ -16,7 +16,7 @@ sudo apt update
 sudo apt full-upgrade -y
 
 sudo apt-get install git python3 golang
-sudo apt install pip3
+sudo apt install pip3 or sudo apt install -f python3-pip
 ```
 ## Chrome DevTools 
 ```bash
@@ -66,6 +66,8 @@ cd /opt/Arjun
 sudo python3 setup.py install 
 
 arjun
+
+cd /opt
 
 sudo apt install zaproxy
 
