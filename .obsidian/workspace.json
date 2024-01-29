@@ -13,13 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test main/Courses/ISTQB Foundation Level/Testing Throughout the Software Life Cycle/02. Test Levels.md",
+                "file": "Test main/Courses/ISTQB Foundation Level/03. Test Design Techniques/01. The Test Development Process.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cb70c3db4bf3ce3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Test main/Courses/ISTQB Foundation Level/03. Test Design Techniques/01. The Test Development Process.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e0c75002ab4e1a2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Test main/Courses/ISTQB Foundation Level/03. Test Design Techniques/02. Categories of Test Design Techniques.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0e30ca066c987a8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Test main/Courses/ISTQB Foundation Level/03. Test Design Techniques/03. Specification-based or Black-box Techniques - Part1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -69,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 562.5
+    "width": 456.5
   },
   "right": {
     "id": "84be99ae76e9d5f6",
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test main/Courses/ISTQB Foundation Level/Testing Throughout the Software Life Cycle/02. Test Levels.md",
+                "file": "Test main/Courses/ISTQB Foundation Level/03. Test Design Techniques/03. Specification-based or Black-box Techniques - Part1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test main/Courses/ISTQB Foundation Level/Testing Throughout the Software Life Cycle/02. Test Levels.md",
+                "file": "Test main/Courses/ISTQB Foundation Level/03. Test Design Techniques/03. Specification-based or Black-box Techniques - Part1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test main/Courses/ISTQB Foundation Level/Testing Throughout the Software Life Cycle/02. Test Levels.md"
+                "file": "Test main/Courses/ISTQB Foundation Level/03. Test Design Techniques/03. Specification-based or Black-box Techniques - Part1.md"
               }
             }
           }
@@ -158,13 +195,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7eb29bfb26063223",
+  "active": "0e30ca066c987a8e",
   "lastOpenFiles": [
-    "Test main/Courses/ISTQB Foundation Level/Testing Throughout the Software Life Cycle/03. Test Types.md",
-    "Test main/Courses/ISTQB Foundation Level/Testing Throughout the Software Life Cycle/02. Test Levels.md",
-    "Test main/Courses/ISTQB Foundation Level/Testing Throughout the Software Life Cycle/01. Test Models.md",
+    "Test main/Courses/ISTQB Foundation Level/03. Test Design Techniques/Resources/Module+4+-+Session+3+-+Part+1+-+Specification+based+or+black+box+techniques.pdf",
+    "Test main/Courses/ISTQB Foundation Level/03. Test Design Techniques/02. Categories of Test Design Techniques.md",
+    "Test main/Courses/ISTQB Foundation Level/03. Test Design Techniques/03. Specification-based or Black-box Techniques - Part1.md",
+    "Test main/Courses/ISTQB Foundation Level/01. Testing Throughout the Software Life Cycle/02. Test Levels.md",
+    "Test main/Courses/ISTQB Foundation Level/03. Test Design Techniques/Resources/Module+4+-+Session+2-Categories+of+test+design+techniques.pdf",
+    "Test main/Courses/ISTQB Foundation Level/03. Test Design Techniques/Resources/Module+4+-+Session+1-The+Test+Development+Process.pdf",
+    "Test main/Courses/ISTQB Foundation Level/03. Test Design Techniques/01. The Test Development Process.md",
+    "Test main/Courses/ISTQB Foundation Level/03. Test Design Techniques/Resources",
+    "Test main/Courses/ISTQB Foundation Level/02. Static Test Techniques/04. Review Process - Success factors.md",
+    "Test main/Courses/ISTQB Foundation Level/02. Static Test Techniques/03. Test Design Techniques.md",
+    "Test main/Courses/ISTQB Foundation Level/03. Test Design Techniques",
+    "Test main/Courses/ISTQB Foundation Level/02. Static Test Techniques/05. Static Analysis by Tools.md",
+    "Test main/Courses/ISTQB Foundation Level/02. Static Test Techniques/03. Applying Review Techniques.md",
+    "Test main/Courses/ISTQB Foundation Level/02. Static Test Techniques/02.1 Roles and Responsibilities.md",
+    "Test main/Courses/ISTQB Foundation Level/02. Static Test Techniques/02.2. Types of Review.md",
+    "Test main/Courses/ISTQB Foundation Level/02. Static Test Techniques/02. Review Process.md",
+    "Test main/Courses/ISTQB Foundation Level/02. Static Test Techniques/01. Reviews and the Test Process.md",
+    "Test main/Courses/ISTQB Foundation Level/01. Testing Throughout the Software Life Cycle/04. Maintenance Testing.md",
+    "Test main/Courses/ISTQB Foundation Level/02. Static Test Techniques",
+    "Test main/Courses/ISTQB Foundation Level/01. Testing Throughout the Software Life Cycle/03. Test Types.md",
+    "Test main/Courses/ISTQB Foundation Level/01. Testing Throughout the Software Life Cycle/01. Test Models.md",
     "Test main/Courses/ISTQB Foundation Level/Fundamentals of Software Testing.md",
-    "Test main/Courses/ISTQB Foundation Level/Testing Throughout the Software Life Cycle",
+    "Test main/Courses/ISTQB Foundation Level/01. Testing Throughout the Software Life Cycle",
     "Test main/Courses/API Security/API Penetration Testing/Lab Setup.md",
     "Test main/Docker Mastery/Kubernetes/Install.md",
     "Test main/Courses/ISTQB Foundation Level",
@@ -175,26 +230,8 @@
     "Test main/Docker Mastery/Kubernetes/Run, Create and Apply/Creating a Deployment with kubectl.md",
     "Test main/Docker Mastery/Kubernetes/Declarative Kubernetes YAML/Building Your YAML spec.md",
     "Test main/Docker Mastery/Kubernetes/Declarative Kubernetes YAML/Building Your YAML Files.md",
-    "Test main/Docker Mastery/Kubernetes/Declarative Kubernetes YAML/Kubernetes Configuration YAML.md",
-    "Test main/Docker Mastery/Kubernetes/Declarative Kubernetes YAML/kubectl apply.md",
-    "Test main/Docker Mastery/Kubernetes/Declarative Kubernetes YAML/Dry Runs With Apply YAML.md",
-    "Test main/Docker Mastery/Ubuntu multipass VMs.md",
-    "Test main/Docker Mastery/Docker/Part 1 Docker Basics/Containers/Overview.md",
-    "Test main/Docker Mastery/Docker/Part 1 Docker Basics/Containers/File Permissions Across Multiple Containers.md",
-    "Test main/Docker Mastery/Docker/Part 1 Docker Basics/Containers/Database Passwords in Containers.md",
-    "Test main/Docker Mastery/Docker/Part 1 Docker Basics/Assignments/DNS Round Robin Test.md",
-    "Test main/Docker Mastery/Docker/Part 1 Docker Basics/Assignments/CLI App Testing.md",
-    "Test main/Docker Mastery/Docker/Part 1 Docker Basics/Assignments/Bind Mounts.md",
-    "Test main/Docker Mastery/Docker/Part 1 Docker Basics/Assignments/Named Volumes.md",
-    "Test main/Docker Mastery/Kubernetes/Cheat Sheets for Kubectl.md",
-    "Test main/Docker Mastery/Kubernetes/Intro.md",
     "Test main/Docker Mastery/Kubernetes/KubernetesForBeginners-MumshadMannambeth.pdf",
     "Test main/Coding/Python/the-hacker-guide-to-python.pdf",
-    "Test main/Docker Mastery/Kubernetes/Future of Kubernetes",
-    "Test main/Docker Mastery/Kubernetes/Declarative Kubernetes YAML",
-    "Test main/Docker Mastery/Kubernetes/Kubernetes Management Techniques",
-    "Test main/Docker Mastery/Kubernetes/Run, Create and Apply/Services",
-    "Test main/Docker Mastery/Kubernetes/Run, Create and Apply",
-    "Test main/Docker Mastery/Kubernetes/Exposing Kubernetes Ports"
+    "Test main/Docker Mastery/Kubernetes/Future of Kubernetes"
   ]
 }
