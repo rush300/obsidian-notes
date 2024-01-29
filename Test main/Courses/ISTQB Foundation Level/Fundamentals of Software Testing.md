@@ -57,3 +57,15 @@
 - A critical eye
 - Motivation
 - Good communication
+
+![[session1-what-is-software-testing.pdf]]
+
+![[Session2-why-is-testing-neccessary.pdf]]
+
+
+![[Module1-Session3-Seven-Testing-Principles.pdf]]
+
+
+![[module1-session4-fundamental-test-process.pdf]]
+
+![[module1-session5-The+Psychology+of+Testing.pdf]]

@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test main/Courses/ISTQB Foundation Level/03. Test Design Techniques/03. Specification-based or Black-box Techniques - Part1.md",
+                "file": "Test main/Courses/ISTQB Foundation Level/03. Test Design Techniques/05. Specification-based or Black-box Techniques - Part3.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test main/Courses/ISTQB Foundation Level/03. Test Design Techniques/03. Specification-based or Black-box Techniques - Part1.md",
+                "file": "Test main/Courses/ISTQB Foundation Level/03. Test Design Techniques/05. Specification-based or Black-box Techniques - Part3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test main/Courses/ISTQB Foundation Level/03. Test Design Techniques/03. Specification-based or Black-box Techniques - Part1.md",
+                "file": "Test main/Courses/ISTQB Foundation Level/03. Test Design Techniques/05. Specification-based or Black-box Techniques - Part3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test main/Courses/ISTQB Foundation Level/03. Test Design Techniques/03. Specification-based or Black-box Techniques - Part1.md"
+                "file": "Test main/Courses/ISTQB Foundation Level/03. Test Design Techniques/05. Specification-based or Black-box Techniques - Part3.md"
               }
             }
           }
@@ -197,41 +197,40 @@
   },
   "active": "0e30ca066c987a8e",
   "lastOpenFiles": [
-    "Test main/Courses/ISTQB Foundation Level/03. Test Design Techniques/Resources/Module+4+-+Session+3+-+Part+1+-+Specification+based+or+black+box+techniques.pdf",
-    "Test main/Courses/ISTQB Foundation Level/03. Test Design Techniques/02. Categories of Test Design Techniques.md",
-    "Test main/Courses/ISTQB Foundation Level/03. Test Design Techniques/03. Specification-based or Black-box Techniques - Part1.md",
+    "Test main/Courses/ISTQB Foundation Level/02. Static Test Techniques/05. Static Analysis by Tools.md",
+    "Test main/Courses/ISTQB Foundation Level/02. Static Test Techniques/Resources/Module3-Session3-STATIC+ANALYSIS+BY+TOOLS.pdf",
+    "Test main/Courses/ISTQB Foundation Level/02. Static Test Techniques/02. Review Process.md",
+    "Test main/Courses/ISTQB Foundation Level/02. Static Test Techniques/Resources/Module3-Session2-Review+Process.pdf",
+    "Test main/Courses/ISTQB Foundation Level/02. Static Test Techniques/01. Reviews and the Test Process.md",
+    "Test main/Courses/ISTQB Foundation Level/02. Static Test Techniques/Resources",
+    "Test main/Courses/ISTQB Foundation Level/02. Static Test Techniques/Resources/Module3-session1-reviews-and-the-test-process.pdf",
+    "Test main/Courses/ISTQB Foundation Level/01. Testing Throughout the Software Life Cycle/04. Maintenance Testing.md",
+    "Test main/Courses/ISTQB Foundation Level/01. Testing Throughout the Software Life Cycle/Resources/module2-session4-maintenence-testing.pdf",
+    "Test main/Courses/ISTQB Foundation Level/01. Testing Throughout the Software Life Cycle/03. Test Types.md",
+    "Test main/Courses/ISTQB Foundation Level/01. Testing Throughout the Software Life Cycle/Resources/module2-session3-test-types.pdf",
     "Test main/Courses/ISTQB Foundation Level/01. Testing Throughout the Software Life Cycle/02. Test Levels.md",
-    "Test main/Courses/ISTQB Foundation Level/03. Test Design Techniques/Resources/Module+4+-+Session+2-Categories+of+test+design+techniques.pdf",
-    "Test main/Courses/ISTQB Foundation Level/03. Test Design Techniques/Resources/Module+4+-+Session+1-The+Test+Development+Process.pdf",
+    "Test main/Courses/ISTQB Foundation Level/01. Testing Throughout the Software Life Cycle/Resources/module2-session2-test-levels.pdf",
+    "Test main/Courses/ISTQB Foundation Level/01. Testing Throughout the Software Life Cycle/01. Test Models.md",
+    "Test main/Courses/ISTQB Foundation Level/01. Testing Throughout the Software Life Cycle/Resources/module2-session1-software-development-models.pdf",
+    "Test main/Courses/ISTQB Foundation Level/Fundamentals of Software Testing.md",
+    "Test main/Courses/ISTQB Foundation Level/01. Testing Throughout the Software Life Cycle/Resources",
+    "Test main/Courses/ISTQB Foundation Level/Resources",
+    "Test main/Courses/ISTQB Foundation Level/03. Test Design Techniques/05. Specification-based or Black-box Techniques - Part3.md",
+    "Test main/Courses/ISTQB Foundation Level/03. Test Design Techniques/04. Specification-based or Black-box Techniques - Part2.md",
+    "Test main/Courses/ISTQB Foundation Level/03. Test Design Techniques/03. Specification-based or Black-box Techniques - Part1.md",
+    "Test main/Courses/ISTQB Foundation Level/03. Test Design Techniques/02. Categories of Test Design Techniques.md",
     "Test main/Courses/ISTQB Foundation Level/03. Test Design Techniques/01. The Test Development Process.md",
-    "Test main/Courses/ISTQB Foundation Level/03. Test Design Techniques/Resources",
     "Test main/Courses/ISTQB Foundation Level/02. Static Test Techniques/04. Review Process - Success factors.md",
     "Test main/Courses/ISTQB Foundation Level/02. Static Test Techniques/03. Test Design Techniques.md",
-    "Test main/Courses/ISTQB Foundation Level/03. Test Design Techniques",
-    "Test main/Courses/ISTQB Foundation Level/02. Static Test Techniques/05. Static Analysis by Tools.md",
     "Test main/Courses/ISTQB Foundation Level/02. Static Test Techniques/03. Applying Review Techniques.md",
     "Test main/Courses/ISTQB Foundation Level/02. Static Test Techniques/02.1 Roles and Responsibilities.md",
     "Test main/Courses/ISTQB Foundation Level/02. Static Test Techniques/02.2. Types of Review.md",
-    "Test main/Courses/ISTQB Foundation Level/02. Static Test Techniques/02. Review Process.md",
-    "Test main/Courses/ISTQB Foundation Level/02. Static Test Techniques/01. Reviews and the Test Process.md",
-    "Test main/Courses/ISTQB Foundation Level/01. Testing Throughout the Software Life Cycle/04. Maintenance Testing.md",
-    "Test main/Courses/ISTQB Foundation Level/02. Static Test Techniques",
-    "Test main/Courses/ISTQB Foundation Level/01. Testing Throughout the Software Life Cycle/03. Test Types.md",
-    "Test main/Courses/ISTQB Foundation Level/01. Testing Throughout the Software Life Cycle/01. Test Models.md",
-    "Test main/Courses/ISTQB Foundation Level/Fundamentals of Software Testing.md",
-    "Test main/Courses/ISTQB Foundation Level/01. Testing Throughout the Software Life Cycle",
     "Test main/Courses/API Security/API Penetration Testing/Lab Setup.md",
     "Test main/Docker Mastery/Kubernetes/Install.md",
-    "Test main/Courses/ISTQB Foundation Level",
     "Test main/Coding/GIT/Commands.md",
     "Test main/Courses/TheOdinProjectNotes/Git/Config.md",
     "Test main/Courses/TheOdinProjectNotes/Git/Intro.md",
     "Test main/Courses/TheOdinProjectNotes/Git/Basics.md",
-    "Test main/Docker Mastery/Kubernetes/Run, Create and Apply/Creating a Deployment with kubectl.md",
-    "Test main/Docker Mastery/Kubernetes/Declarative Kubernetes YAML/Building Your YAML spec.md",
-    "Test main/Docker Mastery/Kubernetes/Declarative Kubernetes YAML/Building Your YAML Files.md",
-    "Test main/Docker Mastery/Kubernetes/KubernetesForBeginners-MumshadMannambeth.pdf",
-    "Test main/Coding/Python/the-hacker-guide-to-python.pdf",
-    "Test main/Docker Mastery/Kubernetes/Future of Kubernetes"
+    "Test main/Docker Mastery/Kubernetes/Run, Create and Apply/Creating a Deployment with kubectl.md"
   ]
 }
