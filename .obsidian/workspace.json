@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test main/Courses/ISTQB Foundation Level/Test Management/01. Test Organization and Independence.md",
+                "file": "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/05. Control access to files/01. File Permissions.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test main/Courses/ISTQB Foundation Level/Test Management/01. Test Organization and Independence.md",
+                "file": "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/05. Control access to files/01. File Permissions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test main/Courses/ISTQB Foundation Level/Test Management/01. Test Organization and Independence.md",
+                "file": "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/05. Control access to files/01. File Permissions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test main/Courses/ISTQB Foundation Level/Test Management/01. Test Organization and Independence.md"
+                "file": "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/05. Control access to files/01. File Permissions.md"
               }
             }
           }
@@ -197,41 +197,41 @@
   },
   "active": "0e30ca066c987a8e",
   "lastOpenFiles": [
-    "Module5-Session1-Test+organization+and+independence.pdf",
-    "Test main/Courses/ISTQB Foundation Level/03. Test Design Techniques/08. Choosing a Test Techniques.md",
+    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/05. Control access to files",
+    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/04. Manage local users and groups/03. Switch Users and sudo Access.md",
+    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/05. Control access to files/01. File Permissions.md",
+    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/04. Manage local users and groups/02. The login default file.md",
+    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/04. Manage local users and groups/01. User Account Management.md",
+    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/03. Create, view and edit text files/01. Create, view and edit text files.md",
+    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/03. Create, view and edit text files",
+    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/04. Manage local users and groups",
+    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/02. Get help in Red Hat Enterprise Linux/01. Help Commands.md",
+    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/02. Get help in Red Hat Enterprise Linux",
+    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/01. Mange files from the command line/03. PIPES.md",
+    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/01. Mange files from the command line/02. Input and Output Redirects.md",
+    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/01. Mange files from the command line/01. Soft and Hard Links.md",
+    "Test main/Courses/ISTQB Foundation Level/03. Test Design Techniques/01. The Test Development Process.md",
+    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/01. Mange files from the command line",
+    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)",
+    "Test main/Courses/ISTQB Foundation Level/Test Management/Resources/Module5-Session2-Test+Planning+and+Estimation.pdf",
     "Test main/Courses/ISTQB Foundation Level/Test Management/01. Test Organization and Independence.md",
+    "Test main/Courses/ISTQB Foundation Level/Test Management/02. Test Planning and Estimation-Purpose and Content of a Test Plan.md",
+    "Test main/Courses/ISTQB Foundation Level/Test Management/Resources",
+    "Test main/Courses/ISTQB Foundation Level/Test Management/Resources/Module5-Session1-Test+organization+and+independence.pdf",
+    "Test main/Courses/ISTQB Foundation Level/03. Test Design Techniques/08. Choosing a Test Techniques.md",
     "Test main/Courses/ISTQB Foundation Level/Test Management",
     "Test main/Courses/ISTQB Foundation Level/03. Test Design Techniques/07. Experience-based techniques.md",
     "Test main/Courses/ISTQB Foundation Level/03. Test Design Techniques/Resources/Module+4+-+Session+6+-+Choosing+a+test+technique.pdf",
     "Test main/Courses/Docker Mastery/Kubernetes/Future of Kubernetes/Storage in Kubernetes.md",
     "Test main/Courses/Docker Mastery/Kubernetes/Future of Kubernetes/Ingress.md",
     "Test main/Courses/ISTQB Foundation Level/03. Test Design Techniques/06. Structure-based or white-box techniques.md",
-    "Test main/Courses/ISTQB Foundation Level/03. Test Design Techniques/Resources/Module+4+-+Session+5+-+Experience+based+techniques.pdf",
     "Test main/Courses/ISTQB Foundation Level/03. Test Design Techniques/04. Specification-based or Black-box Techniques - Part2.md",
-    "Test main/Courses/ISTQB Foundation Level/03. Test Design Techniques/Resources/Module+4+-+Session+4+-+Structure-based+or+white-box+techniques.pdf",
     "Test main/Courses/ISTQB Foundation Level/03. Test Design Techniques/05. Specification-based or Black-box Techniques - Part3.md",
     "Test main/Courses/ISTQB Foundation Level/03. Test Design Techniques/03. Specification-based or Black-box Techniques - Part1.md",
     "Test main/Courses/ISTQB Foundation Level/02. Static Test Techniques/05. Static Analysis by Tools.md",
-    "Test main/Courses/ISTQB Foundation Level/02. Static Test Techniques/Resources/Module3-Session3-STATIC+ANALYSIS+BY+TOOLS.pdf",
     "Test main/Courses/ISTQB Foundation Level/02. Static Test Techniques/02. Review Process.md",
-    "Test main/Courses/ISTQB Foundation Level/02. Static Test Techniques/Resources/Module3-Session2-Review+Process.pdf",
     "Test main/Courses/ISTQB Foundation Level/02. Static Test Techniques/01. Reviews and the Test Process.md",
-    "Test main/Courses/ISTQB Foundation Level/02. Static Test Techniques/Resources",
-    "Test main/Courses/ISTQB Foundation Level/02. Static Test Techniques/Resources/Module3-session1-reviews-and-the-test-process.pdf",
     "Test main/Courses/ISTQB Foundation Level/01. Testing Throughout the Software Life Cycle/04. Maintenance Testing.md",
-    "Test main/Courses/ISTQB Foundation Level/01. Testing Throughout the Software Life Cycle/Resources/module2-session4-maintenence-testing.pdf",
-    "Test main/Courses/ISTQB Foundation Level/01. Testing Throughout the Software Life Cycle/03. Test Types.md",
-    "Test main/Courses/ISTQB Foundation Level/01. Testing Throughout the Software Life Cycle/Resources/module2-session3-test-types.pdf",
-    "Test main/Courses/ISTQB Foundation Level/01. Testing Throughout the Software Life Cycle/02. Test Levels.md",
-    "Test main/Courses/ISTQB Foundation Level/01. Testing Throughout the Software Life Cycle/01. Test Models.md",
-    "Test main/Courses/ISTQB Foundation Level/Fundamentals of Software Testing.md",
-    "Test main/Courses/ISTQB Foundation Level/03. Test Design Techniques/02. Categories of Test Design Techniques.md",
-    "Test main/Courses/ISTQB Foundation Level/03. Test Design Techniques/01. The Test Development Process.md",
-    "Test main/Courses/ISTQB Foundation Level/02. Static Test Techniques/04. Review Process - Success factors.md",
-    "Test main/Courses/ISTQB Foundation Level/02. Static Test Techniques/03. Test Design Techniques.md",
-    "Test main/Courses/ISTQB Foundation Level/02. Static Test Techniques/03. Applying Review Techniques.md",
-    "Test main/Courses/ISTQB Foundation Level/02. Static Test Techniques/02.1 Roles and Responsibilities.md",
-    "Test main/Courses/ISTQB Foundation Level/02. Static Test Techniques/02.2. Types of Review.md",
-    "Test main/Courses/API Security/API Penetration Testing/Lab Setup.md"
+    "Test main/Courses/ISTQB Foundation Level/01. Testing Throughout the Software Life Cycle/03. Test Types.md"
   ]
 }
