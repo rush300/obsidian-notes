@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/05. Control access to files/01. File Permissions.md",
+                "file": "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Manage Linux Networking/01. Init.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/05. Control access to files/01. File Permissions.md",
+                "file": "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Manage Linux Networking/01. Init.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/05. Control access to files/01. File Permissions.md",
+                "file": "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Manage Linux Networking/01. Init.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/05. Control access to files/01. File Permissions.md"
+                "file": "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Manage Linux Networking/01. Init.md"
               }
             }
           }
@@ -197,12 +197,28 @@
   },
   "active": "0e30ca066c987a8e",
   "lastOpenFiles": [
+    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/09. Analyze and store logs/03. chronyd.md",
+    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Manage Linux Networking/01. Init.md",
+    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Manage Linux Networking",
+    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/09. Analyze and store logs/02. Analyze and Store Logs.md",
+    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/09. Analyze and store logs/01. Log Monitoring.md",
+    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/08. Configure and secure SSH/02. Access Remote Server without Password (SSH-Keys).md",
+    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/09. Analyze and store logs",
+    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/08. Configure and secure SSH/01. Init.md",
+    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/07. Control services and daemons/01. Init.md",
+    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/08. Configure and secure SSH",
+    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/03. Create, view and edit text files/01. Init.md",
+    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/06. Monitor and manage Linux processes/02. Monitor and Manage Processes.md",
+    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/07. Control services and daemons",
+    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/06. Monitor and manage Linux processes/Untitled.md",
+    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/06. Monitor and manage Linux processes/01. Applications, Processes, Jobs etc..md",
+    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/05. Control access to files/02. File Ownership.md",
+    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/06. Monitor and manage Linux processes",
+    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/05. Control access to files/01. File Permissions.md",
     "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/05. Control access to files",
     "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/04. Manage local users and groups/03. Switch Users and sudo Access.md",
-    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/05. Control access to files/01. File Permissions.md",
     "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/04. Manage local users and groups/02. The login default file.md",
     "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/04. Manage local users and groups/01. User Account Management.md",
-    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/03. Create, view and edit text files/01. Create, view and edit text files.md",
     "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/03. Create, view and edit text files",
     "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/04. Manage local users and groups",
     "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/02. Get help in Red Hat Enterprise Linux/01. Help Commands.md",
@@ -212,26 +228,10 @@
     "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/01. Mange files from the command line/01. Soft and Hard Links.md",
     "Test main/Courses/ISTQB Foundation Level/03. Test Design Techniques/01. The Test Development Process.md",
     "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/01. Mange files from the command line",
-    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)",
-    "Test main/Courses/ISTQB Foundation Level/Test Management/Resources/Module5-Session2-Test+Planning+and+Estimation.pdf",
     "Test main/Courses/ISTQB Foundation Level/Test Management/01. Test Organization and Independence.md",
     "Test main/Courses/ISTQB Foundation Level/Test Management/02. Test Planning and Estimation-Purpose and Content of a Test Plan.md",
-    "Test main/Courses/ISTQB Foundation Level/Test Management/Resources",
-    "Test main/Courses/ISTQB Foundation Level/Test Management/Resources/Module5-Session1-Test+organization+and+independence.pdf",
     "Test main/Courses/ISTQB Foundation Level/03. Test Design Techniques/08. Choosing a Test Techniques.md",
-    "Test main/Courses/ISTQB Foundation Level/Test Management",
     "Test main/Courses/ISTQB Foundation Level/03. Test Design Techniques/07. Experience-based techniques.md",
-    "Test main/Courses/ISTQB Foundation Level/03. Test Design Techniques/Resources/Module+4+-+Session+6+-+Choosing+a+test+technique.pdf",
-    "Test main/Courses/Docker Mastery/Kubernetes/Future of Kubernetes/Storage in Kubernetes.md",
-    "Test main/Courses/Docker Mastery/Kubernetes/Future of Kubernetes/Ingress.md",
-    "Test main/Courses/ISTQB Foundation Level/03. Test Design Techniques/06. Structure-based or white-box techniques.md",
-    "Test main/Courses/ISTQB Foundation Level/03. Test Design Techniques/04. Specification-based or Black-box Techniques - Part2.md",
-    "Test main/Courses/ISTQB Foundation Level/03. Test Design Techniques/05. Specification-based or Black-box Techniques - Part3.md",
-    "Test main/Courses/ISTQB Foundation Level/03. Test Design Techniques/03. Specification-based or Black-box Techniques - Part1.md",
-    "Test main/Courses/ISTQB Foundation Level/02. Static Test Techniques/05. Static Analysis by Tools.md",
-    "Test main/Courses/ISTQB Foundation Level/02. Static Test Techniques/02. Review Process.md",
-    "Test main/Courses/ISTQB Foundation Level/02. Static Test Techniques/01. Reviews and the Test Process.md",
-    "Test main/Courses/ISTQB Foundation Level/01. Testing Throughout the Software Life Cycle/04. Maintenance Testing.md",
-    "Test main/Courses/ISTQB Foundation Level/01. Testing Throughout the Software Life Cycle/03. Test Types.md"
+    "Test main/Courses/Docker Mastery/Kubernetes/Future of Kubernetes/Storage in Kubernetes.md"
   ]
 }
