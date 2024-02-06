@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Manage Linux Networking/01. Init.md",
+                "file": "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH134)/Welcome to System Administration II/01. Init.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Manage Linux Networking/01. Init.md",
+                "file": "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH134)/Welcome to System Administration II/01. Init.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Manage Linux Networking/01. Init.md",
+                "file": "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH134)/Welcome to System Administration II/01. Init.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Manage Linux Networking/01. Init.md"
+                "file": "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH134)/Welcome to System Administration II/01. Init.md"
               }
             }
           }
@@ -197,41 +197,41 @@
   },
   "active": "0e30ca066c987a8e",
   "lastOpenFiles": [
-    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/09. Analyze and store logs/03. chronyd.md",
-    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Manage Linux Networking/01. Init.md",
-    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Manage Linux Networking",
-    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/09. Analyze and store logs/02. Analyze and Store Logs.md",
-    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/09. Analyze and store logs/01. Log Monitoring.md",
-    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/08. Configure and secure SSH/02. Access Remote Server without Password (SSH-Keys).md",
-    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/09. Analyze and store logs",
-    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/08. Configure and secure SSH/01. Init.md",
-    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/07. Control services and daemons/01. Init.md",
-    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/08. Configure and secure SSH",
-    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/03. Create, view and edit text files/01. Init.md",
-    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/06. Monitor and manage Linux processes/02. Monitor and Manage Processes.md",
-    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/07. Control services and daemons",
+    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH134)/Welcome to System Administration II",
+    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH124)/15. Handouts/if-then+Scripts.pdf",
+    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH134)/Welcome to System Administration II/01. Init.md",
+    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH124)/15. Handouts/Red_Hat_Enterprise_Linux-8-Managing_systems_using_the_RHEL_8_web_console-en-US.pdf",
+    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH124)/15. Handouts/RH124.pdf",
+    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH124)/15. Handouts/for+loop+Scripts.pdf",
+    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH124)/15. Handouts/do-while+Scripts.pdf",
+    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH124)/15. Handouts/Basic+Shell+Scripts.pdf",
+    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH124)/15. Handouts/case+Scripts.pdf",
+    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH124)/14. Analyze Servers and get Support/02. Cockpit.md",
+    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH124)/15. Handouts",
+    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH134)",
+    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH124)",
+    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH124)/14. Analyze Servers and get Support/01. SOS report.md",
+    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH124)/13. Access Linux files systems/01. Init.md",
+    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH124)/12. Install and update software/04. Create local repository from DVD.md",
+    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH124)/12. Install and update software/03. Advance Package Management.md",
+    "Test main/Courses/DevOps/Pre-requisite/Untitled.md",
+    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH124)/12. Install and update software/02. System Upgrade-Patch Management.md",
+    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH124)/12. Install and update software/01. System Updates and Repos.md",
+    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH124)/11. Archive and transfer files/03. SCP - Secure Copy Protocol.md",
+    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH124)/11. Archive and transfer files/02. File Transfer Protocol (FTP).md",
+    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH124)/11. Archive and transfer files/01. Compress and un-compress files.md",
+    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH124)/10. Manage Linux Networking/01. Init.md",
+    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH124)/09. Analyze and store logs/03. chronyd.md",
+    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH124)/09. Analyze and store logs/02. Analyze and Store Logs.md",
+    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH124)/09. Analyze and store logs/01. Log Monitoring.md",
+    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH124)/08. Configure and secure SSH/02. Access Remote Server without Password (SSH-Keys).md",
+    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH124)/08. Configure and secure SSH/01. Init.md",
+    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH124)/07. Control services and daemons/01. Init.md",
+    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH124)/03. Create, view and edit text files/01. Init.md",
+    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH124)/06. Monitor and manage Linux processes/02. Monitor and Manage Processes.md",
     "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/06. Monitor and manage Linux processes/Untitled.md",
-    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/06. Monitor and manage Linux processes/01. Applications, Processes, Jobs etc..md",
-    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/05. Control access to files/02. File Ownership.md",
-    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/06. Monitor and manage Linux processes",
-    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/05. Control access to files/01. File Permissions.md",
-    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/05. Control access to files",
-    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/04. Manage local users and groups/03. Switch Users and sudo Access.md",
-    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/04. Manage local users and groups/02. The login default file.md",
-    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/04. Manage local users and groups/01. User Account Management.md",
-    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/03. Create, view and edit text files",
-    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/04. Manage local users and groups",
-    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/02. Get help in Red Hat Enterprise Linux/01. Help Commands.md",
-    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/02. Get help in Red Hat Enterprise Linux",
-    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/01. Mange files from the command line/03. PIPES.md",
-    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/01. Mange files from the command line/02. Input and Output Redirects.md",
-    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/01. Mange files from the command line/01. Soft and Hard Links.md",
-    "Test main/Courses/ISTQB Foundation Level/03. Test Design Techniques/01. The Test Development Process.md",
-    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/01. Mange files from the command line",
-    "Test main/Courses/ISTQB Foundation Level/Test Management/01. Test Organization and Independence.md",
-    "Test main/Courses/ISTQB Foundation Level/Test Management/02. Test Planning and Estimation-Purpose and Content of a Test Plan.md",
-    "Test main/Courses/ISTQB Foundation Level/03. Test Design Techniques/08. Choosing a Test Techniques.md",
-    "Test main/Courses/ISTQB Foundation Level/03. Test Design Techniques/07. Experience-based techniques.md",
-    "Test main/Courses/Docker Mastery/Kubernetes/Future of Kubernetes/Storage in Kubernetes.md"
+    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH124)/06. Monitor and manage Linux processes/01. Applications, Processes, Jobs etc..md",
+    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH124)/05. Control access to files/02. File Ownership.md",
+    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH124)/05. Control access to files/01. File Permissions.md"
   ]
 }
