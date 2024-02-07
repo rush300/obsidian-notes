@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH134)/Welcome to System Administration II/01. Init.md",
+                "file": "Test main/Courses/Vagrant UP!/Core Concepts.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH134)/Welcome to System Administration II/01. Init.md",
+                "file": "Test main/Courses/Vagrant UP!/Core Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH134)/Welcome to System Administration II/01. Init.md",
+                "file": "Test main/Courses/Vagrant UP!/Core Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH134)/Welcome to System Administration II/01. Init.md"
+                "file": "Test main/Courses/Vagrant UP!/Core Concepts.md"
               }
             }
           }
@@ -197,9 +197,15 @@
   },
   "active": "0e30ca066c987a8e",
   "lastOpenFiles": [
-    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH134)/Welcome to System Administration II",
+    "Test main/Courses/Vagrant UP!/Resources/Read.md",
+    "Test main/Courses/Vagrant UP!/Core Concepts.md",
+    "Test main/Courses/Vagrant UP!/Resources",
+    "Test main/Courses/DevOps/Pre-requisite/02. Vagrant.md",
+    "Test main/Courses/Vagrant UP!",
+    "Test main/Courses/DevOps/Pre-requisite/01. Linux Basics.md",
+    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH134)/01. Welcome to System Administration II/01. Init.md",
+    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH134)/01. Welcome to System Administration II",
     "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH124)/15. Handouts/if-then+Scripts.pdf",
-    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH134)/Welcome to System Administration II/01. Init.md",
     "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH124)/15. Handouts/Red_Hat_Enterprise_Linux-8-Managing_systems_using_the_RHEL_8_web_console-en-US.pdf",
     "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH124)/15. Handouts/RH124.pdf",
     "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH124)/15. Handouts/for+loop+Scripts.pdf",
@@ -207,14 +213,10 @@
     "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH124)/15. Handouts/Basic+Shell+Scripts.pdf",
     "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH124)/15. Handouts/case+Scripts.pdf",
     "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH124)/14. Analyze Servers and get Support/02. Cockpit.md",
-    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH124)/15. Handouts",
-    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH134)",
-    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH124)",
     "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH124)/14. Analyze Servers and get Support/01. SOS report.md",
     "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH124)/13. Access Linux files systems/01. Init.md",
     "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH124)/12. Install and update software/04. Create local repository from DVD.md",
     "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH124)/12. Install and update software/03. Advance Package Management.md",
-    "Test main/Courses/DevOps/Pre-requisite/Untitled.md",
     "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH124)/12. Install and update software/02. System Upgrade-Patch Management.md",
     "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH124)/12. Install and update software/01. System Updates and Repos.md",
     "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH124)/11. Archive and transfer files/03. SCP - Secure Copy Protocol.md",
@@ -230,8 +232,6 @@
     "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH124)/03. Create, view and edit text files/01. Init.md",
     "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH124)/06. Monitor and manage Linux processes/02. Monitor and Manage Processes.md",
     "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/06. Monitor and manage Linux processes/Untitled.md",
-    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH124)/06. Monitor and manage Linux processes/01. Applications, Processes, Jobs etc..md",
-    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH124)/05. Control access to files/02. File Ownership.md",
-    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH124)/05. Control access to files/01. File Permissions.md"
+    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH124)/06. Monitor and manage Linux processes/01. Applications, Processes, Jobs etc..md"
   ]
 }
