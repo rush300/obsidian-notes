@@ -1,0 +1,5 @@
+- Git bash
+- Chrome
+- Notepad++
+- VirtualBox + Extention Pack
+- Vagrantup

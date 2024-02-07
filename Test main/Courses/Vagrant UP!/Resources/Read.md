@@ -1,3 +1,6 @@
 https://github.com/screencasts-pro/course-vagrant-up
 
 https://github.com/screencasts-pro/vagrant
+
+Commands:
+https://att-c.udemycdn.com/2019-10-29_19-26-33-498db72c81c189adaaef3b666959db7a/5341724_03GettingStarted.pdf?response-content-disposition=attachment%3B+filename%3D03GettingStarted.pdf&Expires=1707328049&Signature=myksRUYm4KClnwB2GcF76ryYId3ZXhxS-cFlq9iUd~5GqEEFsLIlkGkAI~T1jCJP2twdrOgnkmGQOT1ysOzltky4hoiucMtV7OFZvWSP8WQfhDPAPcYOBTI-qMLDruhK0U1TujvdXhKvw4hSmAsEkLxCuenFaNFG290LWR57WI7t-2YsyeipFJIlk1VehR6oTZVlzh1g4tMWNTpO8OBzZArEhJiRtgeJsO62Eq0JF-deeaFxTybBUSmhCVGf0ktkjmrP25e5w7PgkrqwBLrutBhhlFCDuLNC0hMsNNf5DKLSShzkkdmQyo-XQ9vyLpHXBVU3ZeZMKsn9tu3vca9W0w__&Key-Pair-Id=K3MG148K9RIRF4
