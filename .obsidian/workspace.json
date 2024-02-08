@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2a1a8e2293592dea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Test main/Courses/ISTQB Foundation Level/03. Test Design Techniques/01. The Test Development Process.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "cb70c3db4bf3ce3d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test main/Courses/ISTQB Foundation Level/03. Test Design Techniques/01. The Test Development Process.md",
+                "file": "Test main/Courses/Vagrant UP!/Provisioning/03. Shell Provisioner.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test main/Courses/Vagrant UP!/05. Boxes/02. Finding More Boxes.md",
+                "file": "Test main/Courses/Vagrant UP!/Provisioning/03. Shell Provisioner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test main/Courses/Vagrant UP!/05. Boxes/02. Finding More Boxes.md",
+                "file": "Test main/Courses/Vagrant UP!/Provisioning/03. Shell Provisioner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test main/Courses/Vagrant UP!/05. Boxes/02. Finding More Boxes.md"
+                "file": "Test main/Courses/Vagrant UP!/Provisioning/03. Shell Provisioner.md"
               }
             }
           }
@@ -195,10 +182,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e30ca066c987a8e",
+  "active": "cb70c3db4bf3ce3d",
   "lastOpenFiles": [
-    "Test main/Courses/Vagrant UP!/05. Boxes/01. Managing Boxes.md",
+    "Test main/Courses/Vagrant UP!/Provisioning/02. File Provisioner.md",
+    "Test main/Courses/Vagrant UP!/Provisioning/03. Shell Provisioner.md",
+    "Test main/Courses/Vagrant UP!/Provisioning/01. Manual \"baked\" Provisioning.md",
+    "Test main/Courses/Vagrant UP!/Provisioning/03. Shell Provisioner",
+    "Test main/Courses/Vagrant UP!/Plugins/Using Plugins.md",
+    "Test main/Courses/Vagrant UP!/Provisioning",
     "Test main/Courses/Vagrant UP!/05. Boxes/02. Finding More Boxes.md",
+    "Test main/Courses/Vagrant UP!/Plugins",
+    "Test main/Courses/ISTQB Foundation Level/03. Test Design Techniques/01. The Test Development Process.md",
+    "Test main/Courses/Vagrant UP!/05. Boxes/01. Managing Boxes.md",
     "Test main/Courses/Vagrant UP!/Resources/Read.md",
     "Test main/Courses/Vagrant UP!/05. Boxes",
     "Test main/Courses/Vagrant UP!/04. Version Control Command Listing/Init.md",
@@ -214,9 +209,6 @@
     "Test main/Courses/Vagrant UP!",
     "Test main/Courses/DevOps/Pre-requisite/01. Linux Basics.md",
     "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH134)/01. Welcome to System Administration II/01. Init.md",
-    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH134)/01. Welcome to System Administration II",
-    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH124)/15. Handouts/if-then+Scripts.pdf",
-    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH124)/15. Handouts/Red_Hat_Enterprise_Linux-8-Managing_systems_using_the_RHEL_8_web_console-en-US.pdf",
     "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH124)/14. Analyze Servers and get Support/02. Cockpit.md",
     "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH124)/14. Analyze Servers and get Support/01. SOS report.md",
     "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH124)/13. Access Linux files systems/01. Init.md",
@@ -227,11 +219,6 @@
     "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH124)/11. Archive and transfer files/03. SCP - Secure Copy Protocol.md",
     "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH124)/11. Archive and transfer files/02. File Transfer Protocol (FTP).md",
     "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH124)/11. Archive and transfer files/01. Compress and un-compress files.md",
-    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH124)/10. Manage Linux Networking/01. Init.md",
-    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH124)/09. Analyze and store logs/03. chronyd.md",
-    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH124)/09. Analyze and store logs/02. Analyze and Store Logs.md",
-    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH124)/09. Analyze and store logs/01. Log Monitoring.md",
-    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH124)/08. Configure and secure SSH/02. Access Remote Server without Password (SSH-Keys).md",
-    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH124)/08. Configure and secure SSH/01. Init.md"
+    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH124)/10. Manage Linux Networking/01. Init.md"
   ]
 }
