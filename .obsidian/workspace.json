@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test main/Courses/TheOdinProjectNotes/Git/Config.md",
+                "file": "Test main/Courses/OWASP - Web Security Academy Series/10. XXE Injection/Lab05* - Exploiting blind XXE.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 558.5
+    "width": 847.5
   },
   "right": {
     "id": "84be99ae76e9d5f6",
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test main/Courses/TheOdinProjectNotes/Git/Config.md",
+                "file": "Test main/Courses/OWASP - Web Security Academy Series/10. XXE Injection/Lab05* - Exploiting blind XXE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test main/Courses/TheOdinProjectNotes/Git/Config.md",
+                "file": "Test main/Courses/OWASP - Web Security Academy Series/10. XXE Injection/Lab05* - Exploiting blind XXE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test main/Courses/TheOdinProjectNotes/Git/Config.md"
+                "file": "Test main/Courses/OWASP - Web Security Academy Series/10. XXE Injection/Lab05* - Exploiting blind XXE.md"
               }
             }
           }
@@ -184,6 +184,7 @@
   },
   "active": "cb70c3db4bf3ce3d",
   "lastOpenFiles": [
+    "Test main/Courses/TheOdinProjectNotes/Git/Config.md",
     "Test main/Courses/TheOdinProjectNotes/Git/Basics.md",
     "Test main/Courses/Vagrant UP!/Provisioning/04. LAMP Stack Provisioning Example, Part1.md",
     "Test main/Courses/Vagrant UP!/Provisioning/03. Shell Provisioner.md",
@@ -218,7 +219,6 @@
     "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH124)/12. Install and update software/03. Advance Package Management.md",
     "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH124)/12. Install and update software/02. System Upgrade-Patch Management.md",
     "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH124)/12. Install and update software/01. System Updates and Repos.md",
-    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH124)/11. Archive and transfer files/03. SCP - Secure Copy Protocol.md",
-    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH124)/11. Archive and transfer files/02. File Transfer Protocol (FTP).md"
+    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH124)/11. Archive and transfer files/03. SCP - Secure Copy Protocol.md"
   ]
 }
