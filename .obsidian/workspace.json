@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test main/Courses/Vagrant UP!/Provisioning/03. Shell Provisioner.md",
+                "file": "Test main/Courses/TheOdinProjectNotes/Git/Config.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test main/Courses/Vagrant UP!/Provisioning/03. Shell Provisioner.md",
+                "file": "Test main/Courses/TheOdinProjectNotes/Git/Config.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test main/Courses/Vagrant UP!/Provisioning/03. Shell Provisioner.md",
+                "file": "Test main/Courses/TheOdinProjectNotes/Git/Config.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test main/Courses/Vagrant UP!/Provisioning/03. Shell Provisioner.md"
+                "file": "Test main/Courses/TheOdinProjectNotes/Git/Config.md"
               }
             }
           }
@@ -184,8 +184,10 @@
   },
   "active": "cb70c3db4bf3ce3d",
   "lastOpenFiles": [
-    "Test main/Courses/Vagrant UP!/Provisioning/02. File Provisioner.md",
+    "Test main/Courses/TheOdinProjectNotes/Git/Basics.md",
+    "Test main/Courses/Vagrant UP!/Provisioning/04. LAMP Stack Provisioning Example, Part1.md",
     "Test main/Courses/Vagrant UP!/Provisioning/03. Shell Provisioner.md",
+    "Test main/Courses/Vagrant UP!/Provisioning/02. File Provisioner.md",
     "Test main/Courses/Vagrant UP!/Provisioning/01. Manual \"baked\" Provisioning.md",
     "Test main/Courses/Vagrant UP!/Provisioning/03. Shell Provisioner",
     "Test main/Courses/Vagrant UP!/Plugins/Using Plugins.md",
@@ -217,8 +219,6 @@
     "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH124)/12. Install and update software/02. System Upgrade-Patch Management.md",
     "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH124)/12. Install and update software/01. System Updates and Repos.md",
     "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH124)/11. Archive and transfer files/03. SCP - Secure Copy Protocol.md",
-    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH124)/11. Archive and transfer files/02. File Transfer Protocol (FTP).md",
-    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH124)/11. Archive and transfer files/01. Compress and un-compress files.md",
-    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH124)/10. Manage Linux Networking/01. Init.md"
+    "Test main/Courses/Linux Redhat Certified System Administrator (RHCSA-EX200)/Redhat Administration (RH124)/11. Archive and transfer files/02. File Transfer Protocol (FTP).md"
   ]
 }
