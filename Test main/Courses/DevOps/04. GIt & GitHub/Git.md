@@ -1,0 +1,15 @@
+- Centralized
+- Distributed
+	- Git
+- Remove staging area
+- git rm -h 
+- git rm --cached -r bin/
+- git ls-files
+- git status
+- git commit -m "Remove the bin directory that was accidentally commited."
+- git dif --staged 
+- git log --oneline
+- git show d601b90
+- git show HEAD~1:.gitignore
+- git restore --staged .
+- git restore .
