@@ -1,0 +1,18 @@
+- Cloud computing
+- On-Premise
+- Cloud Providers
+- Hybrid
+- Create Account in AWS
+- Configure account 
+- Add users IAM power user and admin user
+- Set a Password policy
+- Regions
+- Elastic Cloud Compute (EC2)
+- Create image
+- Auto Scaling Groups
+- Elastic Load Balancer
+- Simple Storage Service (S3)
+- CloudFront
+- Relational Database Service (RDS)
+- Lambda
+- 
