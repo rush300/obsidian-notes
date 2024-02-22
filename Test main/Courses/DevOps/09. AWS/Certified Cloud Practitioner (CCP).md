@@ -15,4 +15,9 @@
 - CloudFront
 - Relational Database Service (RDS)
 - Lambda
+- Support
+- AWS Marketplace
+- AWS Trusted Advisor
+- Consolidated Billing
+- AWS Cost Explorer
 - 
