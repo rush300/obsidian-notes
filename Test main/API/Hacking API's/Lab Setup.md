@@ -17,6 +17,7 @@ sudo apt full-upgrade -y
 
 sudo apt-get install git python3 golang
 sudo apt install pip3
+sudo apt install python3-pip
 ```
 ## Chrome DevTools 
 ```bash
@@ -58,13 +59,8 @@ sudo make build
 
 cd dist
 sudo ln -s /opt/kiterunner/dist/kr /usr/bin/kr
-cd /opt
 
-sudo git clone https://github.com/s0md3v/Arjun.git
-
-cd /opt/Arjun
-sudo python3 setup.py install 
-
+sudo apt install arjun
 arjun
 
 sudo apt install zaproxy
